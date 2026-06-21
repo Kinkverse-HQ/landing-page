@@ -1,0 +1,105 @@
+@import "tailwindcss";
+
+@theme {
+  --color-kv-bg: #16051f;
+  --color-kv-bg-deep: #1a0824;
+  --color-kv-panel: #240b31;
+  --color-kv-red: #ff2d3f;
+  --color-kv-red-dim: #d41f30;
+  --color-kv-purple: #a33cff;
+  --color-kv-purple-bright: #c05cff;
+  --color-kv-lavender: #ead7ff;
+  --color-kv-muted: #9a7fb8;
+  --color-kv-border: #5a2a7a;
+
+  --font-display: "Permanent Marker", cursive;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: var(--color-kv-bg);
+  color: var(--color-kv-lavender);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-mono-label {
+  font-family: var(--font-mono);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+/* Neon card with rough purple border */
+.neon-card {
+  background: var(--color-kv-panel);
+  border: 2px solid var(--color-kv-purple);
+  box-shadow:
+    0 0 0 1px #3d1458,
+    0 0 24px rgba(163, 60, 255, 0.25),
+    4px 4px 0 rgba(163, 60, 255, 0.15);
+}
+
+.sticker-tilt {
+  transform: rotate(-1.5deg);
+}
+
+.sticker-tilt-alt {
+  transform: rotate(1deg);
+}
+
+.glow-red {
+  box-shadow: 0 0 20px rgba(255, 45, 63, 0.35);
+}
+
+.glow-purple {
+  box-shadow: 0 0 16px rgba(163, 60, 255, 0.4);
+}
+
+.chip-rough {
+  border: 1.5px solid var(--color-kv-border);
+  box-shadow: 2px 2px 0 rgba(90, 42, 122, 0.5);
+}
+
+.focus-ring:focus-visible {
+  outline: 2px solid var(--color-kv-purple-bright);
+  outline-offset: 3px;
+}
+
+/* Decorative sticker corner */
+.sticker-notch::before {
+  content: "";
+  position: absolute;
+  top: -6px;
+  right: 12px;
+  width: 28px;
+  height: 14px;
+  background: var(--color-kv-red);
+  transform: rotate(8deg);
+  opacity: 0.9;
+  border-radius: 2px;
+}
