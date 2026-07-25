@@ -10,6 +10,8 @@ if (posthogKey) {
   posthog.init(posthogKey, {
     api_host:
       import.meta.env.VITE_PUBLIC_POSTHOG_HOST ?? "https://eu.i.posthog.com",
+    // api_host is a reverse proxy; toolbar/app links must still point at PostHog itself
+    ui_host: "https://eu.posthog.com",
     defaults: "2026-01-30",
   });
 }
