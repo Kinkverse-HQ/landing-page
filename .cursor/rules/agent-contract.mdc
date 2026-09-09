@@ -1,0 +1,6 @@
+---
+description: Repository branch, verification, checkpoint and PR contract
+alwaysApply: true
+---
+
+Read `AGENTS.md` and its linked contracts before editing. Apply relevant existing domain rules; do not duplicate or override their narrower requirements.
