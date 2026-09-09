@@ -7,3 +7,5 @@ There is no established unit-test or lint script. Do not claim those checks ran.
 Exercise changed responsive layouts, links and interactions in a browser using safe fixtures. Inspect screenshots before embedding them in the PR.
 Keep analytics disabled or isolated for QA; never send disposable test data to production analytics. Inspect env variable names without printing values.
 Existing `dist/` and `node_modules/` may predate the current checkout. Prefer a disposable checkout for a clean build when preserving those artifacts matters.
+
+For agent-configuration changes, run `python3 -B .usl/bin/check.py` and `python3 -B -m unittest discover -s .usl/bin -p "test_*.py" -v`.

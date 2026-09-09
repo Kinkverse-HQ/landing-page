@@ -13,3 +13,5 @@ Use a small entrypoint, scoped contracts, pinned skills and observable verificat
 Skills are reviewed snapshots of [unstaticlabs/agent-skills](https://github.com/unstaticlabs/agent-skills), pinned in `skills-lock.json` with original notices, licenses and references. No dependency installation or remote code execution occurs when reading them. Update deliberately and review upstream changes.
 
 Automatic commits happen after verification and scope review, followed by explicit branch pushes. They are not filesystem watchers. Draft PRs and the human merge gate follow the owner's explicit preference. No remote branch-protection settings are claimed or changed.
+
+CI uses the ordinary [GitHub pull-request event](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#pull_request), read-only permissions and pinned action revisions. Branch metadata enters Python through environment variables, never interpolated shell code. Existing deployment workflows retain their own event boundaries.

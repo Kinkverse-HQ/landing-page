@@ -3,5 +3,11 @@
   "git": {
     "auto_commit": true,
     "auto_push": "non-default"
+  },
+  "github": {
+    "repository": "Kinkverse-HQ/landing-page",
+    "default_branch": "main",
+    "login": "elio-usl",
+    "agent_email": "318050048+elio-usl@users.noreply.github.com"
   }
 }

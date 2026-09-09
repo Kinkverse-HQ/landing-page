@@ -3,6 +3,7 @@
 ## Preconditions
 
 Read this contract and the [PR contract](pull-requests.md) before editing.
+Install/verify [local tooling](../setup.md) before committing; use its checkpoint command for automatic verified commits and pushes.
 Inspect status, staged changes, remotes, the remote default branch and the intended PR base.
 Preserve existing edits; isolate overlapping work before proceeding. Never stage the whole tree blindly.
 Use the human's existing repository Git name/email. Verify `gh api user` is `elio-usl` before publishing.

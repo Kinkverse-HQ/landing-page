@@ -12,3 +12,5 @@ The snapshots in `skills/` are discoverable through `.agents/skills` (Codex) and
 | `creating-session-handoffs` | A handoff explicitly requested by the human; no automatic diary. |
 
 See [research and tradeoffs](research.md), [skill provenance](skills-lock.json) and [instruction migration](instruction-migration.md).
+
+[Install local hooks and run verified checkpoints](setup.md).
