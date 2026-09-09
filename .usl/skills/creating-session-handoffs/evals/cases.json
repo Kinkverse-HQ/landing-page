@@ -1,0 +1,41 @@
+{
+  "skill": "creating-session-handoffs",
+  "cases": [
+    {
+      "id": "creates-verifiable-handoff",
+      "kind": "should-trigger",
+      "prompt": "I need to pause this implementation. Create a handoff so another agent can continue tomorrow.",
+      "expect": [
+        "The handoff records a verified workspace state anchor, completed work, blockers, and the next action.",
+        "Transient state and unverified assumptions are disclosed.",
+        "No secrets or unnecessary transcript are included."
+      ]
+    },
+    {
+      "id": "does-not-replace-decision-record",
+      "kind": "should-not-trigger",
+      "prompt": "Document why we selected Postgres over DynamoDB so future maintainers do not reverse the decision.",
+      "expect": [
+        "The request routes to durable decision-rationale preservation rather than a session handoff."
+      ]
+    },
+    {
+      "id": "revalidates-stale-handoff",
+      "kind": "ambiguous",
+      "prompt": "Resume from this handoff, but the branch has received several commits since it was written.",
+      "expect": [
+        "The handoff is read before action and compared with current state.",
+        "Stale claims and divergence are identified.",
+        "The agent continues only from a still-valid next action or requests the necessary decision."
+      ]
+    },
+    {
+      "id": "does-not-force-retrospective",
+      "kind": "should-not-trigger",
+      "prompt": "What engineering principle can we learn from the last three commits?",
+      "expect": [
+        "The request routes to engineering-lesson extraction, not handoff creation."
+      ]
+    }
+  ]
+}

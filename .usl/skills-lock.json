@@ -1,0 +1,28 @@
+{
+  "repository": "https://github.com/unstaticlabs/agent-skills",
+  "revision": "13b0172fe2f2a12d84146720dc3e4ca3b899b89d",
+  "sha256": {
+    "committing-and-syncing-work/LICENSE.txt": "4b4447da5344f8b2d3a8a19ba8366d1ac7a24d9ab4690bd04576dc772ddf8321",
+    "committing-and-syncing-work/NOTICE.md": "ad0d675036c92bdc0c542073cd6527847436e0f226048a158ba130a82ae86fad",
+    "committing-and-syncing-work/SKILL.md": "384a7da21f5db9c95bf3b950b3c48cbc1abebc49046709085bf6b8554c699143",
+    "committing-and-syncing-work/evals/cases.json": "3c8c96ea7057222b4603bcf67d46fbadff3293f9ba328e5a98a4beebbb9dcac5",
+    "committing-and-syncing-work/references/repository-policy.md": "7ed66a48646effae2d6c146f8084d7f4fd9812574bad1f01234bab2a5fbb76e9",
+    "creating-session-handoffs/LICENSE.txt": "4b4447da5344f8b2d3a8a19ba8366d1ac7a24d9ab4690bd04576dc772ddf8321",
+    "creating-session-handoffs/NOTICE.md": "8e97f14b8ba3e2d382b788be1f34fe4f10426c6ab20340df02cc86c49fe3b1e0",
+    "creating-session-handoffs/SKILL.md": "a43dc294f04063b3d33ebbe0c727ca6c1b7fcd0cf136e57746e3dca103517198",
+    "creating-session-handoffs/evals/cases.json": "7b89b24ffdf18230e7ef2a00ecaf6d5f3f31b5638c45ddc9cd5cd244a101fa09",
+    "creating-session-handoffs/references/handoff-format.md": "c4ffb734dabbe1428a4d62516ff38ce8ef207f907375c51524ba628ab1631d54",
+    "editing-clear-prose/LICENSE.txt": "4b4447da5344f8b2d3a8a19ba8366d1ac7a24d9ab4690bd04576dc772ddf8321",
+    "editing-clear-prose/NOTICE.md": "5d45746dffadb88ef3e8bbbc80a92cccca58e9d1f17ee42088b5b42781187e01",
+    "editing-clear-prose/SKILL.md": "e6664a908cc02fd1454a22ae5efafcc487498efb82291797e3fa884255807a26",
+    "editing-clear-prose/evals/cases.json": "5e0e74ce60dc3da8bf066144533df68fcea367956a889b1f343c2d525a30ffa7",
+    "refactoring-agent-instructions/LICENSE.txt": "4b4447da5344f8b2d3a8a19ba8366d1ac7a24d9ab4690bd04576dc772ddf8321",
+    "refactoring-agent-instructions/NOTICE.md": "3c821780f51496222a9251dd360b96ec3aba7136c6afbde38b0fb5723413a674",
+    "refactoring-agent-instructions/SKILL.md": "f3b360579ba47e6e9e79c6b45e66e8c8456fdc96602cb69918a440073faef2b0",
+    "refactoring-agent-instructions/evals/cases.json": "061022553123493dd1f564d9ca43daa208d805b1c3d5e233e398fdbcf9f38b0b",
+    "structuring-pyramidal-writing/NOTICE.md": "e3a0f0bb55fecfc2b9d5b754ee27cbe5a54ddb9eebcd3bd1eeefc8260ce94a42",
+    "structuring-pyramidal-writing/SKILL.md": "d289d8f86c96d0aa5b4ef02e99124ff2b71b1a59a49c100d64b2519bd40a6203",
+    "structuring-pyramidal-writing/evals/cases.json": "8e65793be0852fe52f875c9429e133d63553dfc711b3106c9f741e9260f1ed39",
+    "structuring-pyramidal-writing/references/full-pyramid-format.md": "1eb1156e4d2f1ca0c60525af7a974cd580aa4da55afe142f37c0c7a26590b889"
+  }
+}

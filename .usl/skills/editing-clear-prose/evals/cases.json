@@ -1,0 +1,33 @@
+{
+  "skill": "editing-clear-prose",
+  "cases": [
+    {
+      "id": "tightens-inflated-prose",
+      "kind": "should-trigger",
+      "prompt": "Edit this project update for clear, concise plain language. Preserve my direct tone and every factual qualification.",
+      "expect": [
+        "The revision leads with the useful information and removes repetition or unsupported importance claims.",
+        "Voice, facts, qualifications, and required terminology are preserved.",
+        "The edited text is the primary output."
+      ]
+    },
+    {
+      "id": "does-not-trigger-on-incidental-writing",
+      "kind": "should-not-trigger",
+      "prompt": "Implement the API endpoint and update its README example.",
+      "expect": [
+        "The implementation task is not rerouted into a general prose-editing workflow merely because documentation changes."
+      ]
+    },
+    {
+      "id": "preserves-domain-precision",
+      "kind": "ambiguous",
+      "prompt": "Make this contract clause shorter, but keep its defined terms and legal effect exactly intact.",
+      "expect": [
+        "Defined terms and legal distinctions are preserved.",
+        "The agent asks only if shortening would materially change legal meaning.",
+        "No blanket word or punctuation ban drives the edit."
+      ]
+    }
+  ]
+}
