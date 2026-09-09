@@ -1,0 +1,12 @@
+node_modules
+dist
+.git
+.usl
+.agents
+.claude
+.cursor
+.github
+.vscode
+.env*
+*.log
+.DS_Store

@@ -1,0 +1,40 @@
+name: kinkverse-landing
+services:
+  landing:
+    build:
+      context: .
+      target: development
+    init: true
+    ports:
+      - "127.0.0.1:${LANDING_PORT:-5173}:5173"
+    environment:
+      VITE_APP_URL: ${VITE_APP_URL:-http://app.localhost:8080}
+      VITE_PUBLIC_POSTHOG_KEY: ""
+      VITE_PUBLIC_POSTHOG_HOST: ""
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:5173').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 10s
+      timeout: 3s
+      retries: 12
+    develop:
+      watch:
+        - action: sync
+          path: ./src
+          target: /app/src
+        - action: sync
+          path: ./public
+          target: /app/public
+        - action: sync
+          path: ./index.html
+          target: /app/index.html
+        - action: rebuild
+          path: ./package.json
+        - action: rebuild
+          path: ./package-lock.json
+        - action: rebuild
+          path: ./vite.config.ts
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
