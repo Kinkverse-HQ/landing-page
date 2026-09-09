@@ -26,3 +26,4 @@ COPY docker/Caddyfile /etc/caddy/Caddyfile
 COPY --from=build /app/dist /srv
 USER 1000:1000
 EXPOSE 8080
+HEALTHCHECK --interval=10s --timeout=3s --start-period=5s CMD wget -q --spider http://127.0.0.1:8080/ || exit 1

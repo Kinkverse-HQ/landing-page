@@ -17,7 +17,7 @@ jobs:
       - run: docker build --target production --build-arg VITE_APP_URL=http://app.localhost:8080 -t landing:test .
       - run: |
           docker run -d --name landing-production -p 127.0.0.1:5174:8080 landing:test
-          curl --retry 12 --retry-connrefused --retry-delay 1 --fail http://localhost:5174/
+          curl --retry 12 --retry-all-errors --retry-delay 1 --fail http://127.0.0.1:5174/
       - if: always()
         run: |
           docker compose logs --tail 50
