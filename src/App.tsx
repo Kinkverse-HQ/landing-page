@@ -261,7 +261,7 @@ export default function App() {
               Create your KinkVerse profile (beta)
             </Button>
             <p className="font-mono-label mt-4 text-[10px] text-kv-muted">
-              Opens app.kinkverse.org
+              Opens {new URL(APP_URL).host}
             </p>
           </div>
         </Section>

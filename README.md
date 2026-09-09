@@ -2,6 +2,19 @@
 
 Public marketing site for [kinkverse.org](https://kinkverse.org). The app lives at [app.kinkverse.org](https://app.kinkverse.org).
 
+## Docker development
+
+Run `docker compose up --build --watch`, then open `http://localhost:5173`.
+Compose Watch synchronizes source without mounting host dependencies. Stop with
+`docker compose down`; only this project's resources are affected.
+`LANDING_PORT` changes the loopback port. `VITE_APP_URL` points CTAs to the local
+app (default `http://app.localhost:8080`). Analytics is disabled in Compose.
+The sibling `kinkverse` repository can include this site in its full stack.
+
+For a production-style static image: `docker build --target production -t kinkverse-landing:local .`.
+It serves port 8080 as a non-root user. Public Vite configuration is supplied as
+build arguments; committed/local `.env` files are excluded from the image.
+
 ## Run locally
 
 ```bash

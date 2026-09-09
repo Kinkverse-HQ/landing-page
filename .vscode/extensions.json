@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "EditorConfig.EditorConfig",
+    "bradlc.vscode-tailwindcss",
+    "ms-azuretools.vscode-docker",
+    "github.vscode-github-actions"
+  ]
+}

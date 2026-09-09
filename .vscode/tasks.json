@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Docker: landing development",
+      "type": "shell",
+      "command": "docker compose up --build --watch",
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Docker: stop landing",
+      "type": "shell",
+      "command": "docker compose down",
+      "problemMatcher": []
+    }
+  ]
+}
