@@ -4,6 +4,7 @@ import { Chip } from "./components/Chip";
 import { FeatureCard } from "./components/FeatureCard";
 import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
+import { LocktoberBanner } from "./components/LocktoberBanner";
 import { MockProfileCard } from "./components/MockProfileCard";
 import { PrivacyPill } from "./components/PrivacyPill";
 import { Section } from "./components/Section";
@@ -78,7 +79,12 @@ const PRODUCT_STRIP = ["Profile", "Kinks", "Badges", "Links"] as const;
 export default function App() {
   return (
     <>
-      <Header />
+      {/* One sticky container so the banner and header cannot overlap, and the
+          header needs no hardcoded offset when the banner wraps on mobile. */}
+      <div className="sticky top-0 z-50">
+        <LocktoberBanner />
+        <Header />
+      </div>
 
       <main>
         {/* Hero */}
