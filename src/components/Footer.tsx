@@ -5,7 +5,7 @@ export function Footer() {
     <footer className="border-t border-kv-border/60 px-4 py-10 sm:px-6 lg:px-8">
       <div className="mx-auto flex max-w-6xl flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
         <div>
-          <p className="font-display text-lg text-kv-lavender">KinkVerse</p>
+          <p className="font-display text-lg text-kv-lavender">Kinkverse</p>
           <p className="mt-1 text-sm text-kv-muted">Link your kinks.</p>
         </div>
         <nav aria-label="Footer">

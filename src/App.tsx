@@ -12,7 +12,7 @@ import { Section } from "./components/Section";
 const WHY_CARDS = [
   {
     title: "One home for your kink identity.",
-    body: "Your kink life is probably spread across bios, DMs, apps, chats, and private links. KinkVerse gives it one page you can share anywhere.",
+    body: "Your kink life is probably spread across bios, DMs, apps, chats, and private links. Kinkverse gives it one page you can share anywhere.",
     chips: ["links", "tags", "badges", "bio", "profile"],
   },
   {
@@ -105,7 +105,7 @@ export default function App() {
               </p>
               <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap">
                 <Button href={APP_URL} variant="primary">
-                  Create your KinkVerse profile (beta)
+                  Create your Kinkverse profile (beta)
                 </Button>
                 <Button href="#how-it-works" variant="secondary" external={false}>
                   See how it works
@@ -190,7 +190,7 @@ export default function App() {
           </ol>
           <div className="text-center">
             <Button href={APP_URL} variant="primary">
-              Create your KinkVerse profile (beta)
+              Create your Kinkverse profile (beta)
             </Button>
           </div>
         </Section>
@@ -209,7 +209,7 @@ export default function App() {
                 It is part of the page.
               </p>
               <p className="mb-4 text-sm leading-relaxed text-kv-lavender/90 sm:text-base">
-                KinkVerse is built for people who want to express themselves
+                Kinkverse is built for people who want to express themselves
                 without losing control. You decide what appears on your public
                 page and what stays hidden.
               </p>
@@ -230,7 +230,7 @@ export default function App() {
               </p>
               <div className="flex flex-wrap gap-2">
                 <PrivacyPill label="Public" active />
-                <PrivacyPill label="KinkVerse users" />
+                <PrivacyPill label="Kinkverse users" />
                 <PrivacyPill label="Smashed" />
                 <PrivacyPill label="Mutuals" />
                 <PrivacyPill label="Only me" />
@@ -264,7 +264,7 @@ export default function App() {
               Link your kinks. Control what shows. Keep the rest private.
             </p>
             <Button href={APP_URL} variant="primary" className="w-full sm:w-auto">
-              Create your KinkVerse profile (beta)
+              Create your Kinkverse profile (beta)
             </Button>
             <p className="font-mono-label mt-4 text-[10px] text-kv-muted">
               Opens app.kinkverse.org

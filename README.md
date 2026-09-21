@@ -1,4 +1,4 @@
-# KinkVerse Landing Page
+# Kinkverse Landing Page
 
 Public marketing site for [kinkverse.org](https://kinkverse.org). The app lives at [app.kinkverse.org](https://app.kinkverse.org).
 
