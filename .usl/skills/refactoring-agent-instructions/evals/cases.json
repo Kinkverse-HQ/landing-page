@@ -1,0 +1,34 @@
+{
+  "skill": "refactoring-agent-instructions",
+  "cases": [
+    {
+      "id": "refactors-bloated-agent-policy",
+      "kind": "should-trigger",
+      "prompt": "Refactor our root AGENTS.md and nested CLAUDE.md files. They repeat testing and security rules and agents load too much irrelevant context.",
+      "expect": [
+        "All applicable instruction files and their precedence are inspected.",
+        "Security and authorization rules are preserved unless an explicit replacement is verified.",
+        "Moves and removals are evidence-based rather than driven by size targets.",
+        "Links and effective coverage are verified."
+      ]
+    },
+    {
+      "id": "does-not-own-single-rule-addition",
+      "kind": "should-not-trigger",
+      "prompt": "Add the existing pnpm test command to AGENTS.md so every task can find it.",
+      "expect": [
+        "The focused instruction edit is handled without turning it into a repository-wide refactor."
+      ]
+    },
+    {
+      "id": "preserves-conflicting-security-intent",
+      "kind": "ambiguous",
+      "prompt": "Clean up these instructions. One file permits production database reads and a nested file forbids all production access.",
+      "expect": [
+        "Instruction precedence and scope are checked first.",
+        "The agent does not choose the broader permission when intent remains unresolved.",
+        "Only the material contradiction is escalated to the user."
+      ]
+    }
+  ]
+}

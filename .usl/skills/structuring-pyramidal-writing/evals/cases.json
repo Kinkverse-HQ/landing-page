@@ -1,0 +1,62 @@
+{
+  "skill": "structuring-pyramidal-writing",
+  "cases": [
+    {
+      "id": "builds-full-investment-pyramid",
+      "kind": "should-trigger",
+      "prompt": "Use Barbara Minto's Pyramid Principle to turn these market notes into a recommendation memo for our investment committee. Show the full subject-question-answer reasoning and then the draft.",
+      "expect": [
+        "The planning artifact identifies the decision, audience, governing question, and a concise evidence-supported answer.",
+        "Each analytical prose section contains at least five substantive sentences without exposing private chain-of-thought or padding.",
+        "Top-level claims directly support the answer, lower levels substantiate their parent, and the draft presents the answer before its detailed support.",
+        "Contrary or insufficient evidence changes the confidence or answer instead of being omitted."
+      ]
+    },
+    {
+      "id": "restructures-existing-memo",
+      "kind": "should-trigger",
+      "prompt": "Reorganize this sprawling operating memo into an answer-first pyramid. Keep all verified facts, but change the order and headings so the CEO can decide whether to consolidate the two teams.",
+      "expect": [
+        "The skill owns the argument structure while preserving verified facts and decision context.",
+        "Headings state governing insights rather than generic topic labels.",
+        "The number of supporting branches follows the evidence rather than a fixed three-part template."
+      ]
+    },
+    {
+      "id": "leaves-copyedit-to-clear-prose",
+      "kind": "should-not-trigger",
+      "prompt": "Copyedit this announcement for shorter sentences and plainer words. Keep its structure exactly as written.",
+      "expect": [
+        "The request remains with editing-clear-prose or ordinary editing because the user explicitly preserves the structure."
+      ]
+    },
+    {
+      "id": "does-not-impose-business-logic-on-fiction",
+      "kind": "should-not-trigger",
+      "prompt": "Write a suspenseful short story that withholds the central revelation until the last paragraph.",
+      "expect": [
+        "The skill does not replace the requested narrative arc with answer-first business writing."
+      ]
+    },
+    {
+      "id": "handles-unsettled-conclusion",
+      "kind": "ambiguous",
+      "prompt": "Make a Minto pyramid proving that we should enter Brazil. The research is incomplete and the demand study conflicts with our regulatory analysis.",
+      "expect": [
+        "The preferred conclusion is treated as a hypothesis rather than a fact.",
+        "Conflicting evidence and uncertainty are visible in the answer or a decision-contingent branch.",
+        "The agent does not invent evidence or force a clean recommendation."
+      ]
+    },
+    {
+      "id": "coordinates-structure-and-style",
+      "kind": "ambiguous",
+      "prompt": "Rewrite this board paper so its argument is pyramidal and its prose is much clearer, but preserve our finance terminology.",
+      "expect": [
+        "Pyramidal structuring governs the thesis, question, answer, grouping, and order.",
+        "Clear-prose editing may polish the resulting draft without overriding finance terminology or changing the argument.",
+        "The final response does not duplicate two competing writing workflows."
+      ]
+    }
+  ]
+}
