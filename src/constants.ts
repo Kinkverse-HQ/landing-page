@@ -5,7 +5,7 @@ export const APP_URL = "https://app.kinkverse.org";
 export const PRIVACY_URL = "/legal/en/kinkverse-privacy";
 export const TERMS_URL = "/legal/en/kinkverse-terms";
 export const LEGAL_URL = "/legal/";
-export const LOCKTOBER_RULES_URL = "/legal/en/locktober-2026-rules";
+export const LOCKTOBER_RULES_URL = "/legal/en/locktober-2026-rules/";
 export const CONTACT_EMAIL = "hello@kinkverse.org";
 
 /**
