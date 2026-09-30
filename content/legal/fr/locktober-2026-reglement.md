@@ -1,6 +1,6 @@
 # Locktober 2026 — Règlement de participation
 
-Version 1.1 — 30 septembre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
+Version 1.2 — 30 septembre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
 ## 1. Programme et organisateur
 
@@ -72,7 +72,13 @@ Un arrêt anticipé ne donne pas le badge. Il ne confisque pas automatiquement l
 
 Le classement est **facultatif sur inscription explicite**. Entrer dans le défi n’autorise pas votre inscription publique : vous n’y figurez que si vous avez choisi de rendre votre profil visible, dans le bot ou dans l’application Kinkverse. Le choix explique pseudonyme, score et autres éléments visibles. Vous pouvez quitter le classement sans perdre votre progression autrement acquise. Le badge n’est affiché que sur votre choix.
 
-Score et solde utilisable sont distincts. Le score est de 100 points par journée approuvée, plus 1 point par Treat obtenue en mission. Les Stars ne rapportent des points que converties par une mission : un achat de Stars peut donc influencer indirectement le score, comme l’abonnement requis pour participer. Les journées couvertes par un freeze, les cadeaux et les conversions d’achèvement ne rapportent pas de points. Un classement influencé par des achats n’est pas présenté comme relevant uniquement du mérite ou de l’habileté. Les égalités, erreurs et collusions suivent des règles connues et des éléments réexaminables, pas une modification cachée après résultat.
+Score et solde utilisable sont distincts. Une journée approuvée rapporte 50 points, plus jusqu’à 25 pour la rapidité et jusqu’à 24 pour les revues :
+
+- **Rapidité** : le délai entre l’envoi de votre contrôle et votre photo. 15 minutes ou moins, 25 points ; 30 minutes, 18 ; 60 minutes, 12 ; 90 minutes, 6. Au-delà, ou avec un délai prolongé, 0.
+- **Revues** : chaque revue due rapporte 4 points si vous la rendez à temps, plus 4 si votre vote rejoint la décision finale sur le contrôle. Si vous approuvez un contrôle finalement rejeté, cette revue compte −8 à la place des points de concordance. Une revue retirée avant que vous ayez pu voter rapporte 8. Le total des revues d’une journée reste compris entre 0 et 24 et compte une fois toutes ses revues réglées ; la décision d’un modérateur est finale.
+- **Missions** : une mission approuvée par jour ajoute les Stars qu’elle a converties, de 12 à 48.
+
+Les Stars ne rapportent des points que converties par une mission : un achat de Stars peut donc influencer indirectement le score, comme l’abonnement requis pour participer. Les journées couvertes par un freeze, les journées rejetées, les cadeaux et les conversions d’achèvement ne rapportent pas de points. Un classement influencé par des achats n’est pas présenté comme relevant uniquement du mérite ou de l’habileté. À score égal, le membre qui a atteint ce score le premier est classé devant. Les erreurs de revue et collusions suivent des règles connues et des éléments réexaminables, pas une modification cachée après résultat.
 
 ## 9. Produits, partenaires et promotions distinctes
 
@@ -82,9 +88,9 @@ Hors les semaines à lot décrites ci-dessous, ce règlement ne garantit aucun l
 
 - **Fenêtres.** Chaque semaine à lot court du dimanche 00 h 00 au dimanche suivant 00 h 00, heure de Paris. La première compte du 4 au 11 octobre 2026, puis du 11 au 18 octobre, du 18 au 25 octobre et du 25 octobre au 1er novembre : quatre semaines, jusqu’à la clôture des inscriptions. Les points du 1er au 3 octobre comptent pour le score de saison, pas pour la première semaine à lot.
 - **Éligibilité.** Vous devez avoir un parcours en cours (ni terminé ni retiré), un profil visible au classement et un score supérieur à zéro dans la fenêtre, et ne pas avoir déjà remporté une semaine à lot cette saison : on ne peut gagner qu’une fois.
-- **Score compté.** Celui de l’article 8, limité à la fenêtre : 100 points par journée approuvée et 1 point par Treat obtenue en mission dans cette semaine.
+- **Score compté.** Celui de l’article 8, limité à la fenêtre : les journées approuvées pour la première fois et les missions approuvées pendant cette semaine.
 - **Désignation.** Le gagnant est désigné après la fin de la semaine, selon le meilleur score éligible puis le départage ci-dessous. Le lot lui-même est attribué à la main, hors du jeu.
-- **Égalités.** Les scores égaux partagent le même rang. En cas d’égalité pour la première place, l’emporte le membre qui compte le plus de journées approuvées pendant la semaine, puis celui qui s’est inscrit le premier.
+- **Égalités.** À score égal, l’emporte le membre qui a atteint ce score le premier pendant la semaine.
 - **Annonce.** Le gagnant reçoit un message dans le bot. Un message est aussi envoyé aux utilisateurs du bot qui l’ont démarré, avec le nom du gagnant si son profil est visible, sinon la mention d’un membre qui garde son profil privé.
 - **Lot.** Une cage KINK3D neuve, au choix du gagnant, selon le guide du jeu. Le lot est expédié à l’adresse communiquée par le gagnant. Le gagnant dispose de **14 jours** à compter de l’annonce pour communiquer une adresse de livraison ; passé ce délai, le lot revient au membre éligible suivant. Aucune contrepartie en argent n’est promise.
 
@@ -105,6 +111,10 @@ La [politique de confidentialité](kinkverse-confidentialite.md) couvre Telegram
 Les recours utilisent nos coordonnées. La médiation commerciale figure dans les [CGV](kinkverse-cgv.md).
 
 Le droit français s’applique, sans priver le consommateur des protections impératives applicables dans son pays de résidence habituelle. Le consommateur peut saisir toute juridiction compétente selon les règles applicables, notamment celle de son domicile lorsque ces règles le permettent. Aucune compétence exclusive des tribunaux de Paris, aucun arbitrage obligatoire et aucune renonciation aux recours collectifs ou réglementaires ne sont imposés. Une clause inapplicable est écartée dans la mesure nécessaire ; le reste du contrat subsiste lorsque cela est possible. Une traduction ne réduit pas les droits impératifs et ne remplace pas un engagement individuel plus favorable. Les dispositions impératives et les règles d’interprétation favorables au consommateur prévalent en cas de divergence.
+
+## Changements de la version 1.2
+
+Calcul du score : rapidité, revues et une mission par jour, et égalités départagées par l’ordre d’arrivée au score (articles 8 et 9).
 
 ## Changements de la version 1.1
 
