@@ -20,6 +20,7 @@ export const COMMUNITY_LINKS = {
   contribute: `${COMMUNITY_URL}contribute/`,
 } as const;
 export const BLUESKY_URL = "https://bsky.app/profile/kinkverse.org";
+export const INSTAGRAM_URL = "https://www.instagram.com/kinkverse.app/";
 
 /** Locktober 2026 — Telegram bot that runs the challenge and sends daily cagechecks */
 export const TELEGRAM_BOT_HANDLE = "kinkverseappbot";
@@ -46,3 +47,11 @@ export const LOCKTOBER_END = new Date(2026, 10, 1);
  * as the reason and never calls it a closing date.
  */
 export const LOCK_IN_BY = "october 16";
+
+/** The early-bird year closes 17 October 2026 at 00:00 UTC (Kinkverse+ terms). */
+export const EARLY_BIRD_END = new Date(Date.UTC(2026, 9, 17));
+
+/** True while "lock in by october 16" and the €31 year are still true statements. */
+export function earlyBirdOpen(now: Date = new Date()): boolean {
+  return now < EARLY_BIRD_END;
+}

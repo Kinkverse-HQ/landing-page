@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import posthog from "posthog-js";
 import {
+  earlyBirdOpen,
   LOCK_IN_BY,
   LOCKTOBER_END,
   LOCKTOBER_START,
@@ -70,10 +71,10 @@ export function LocktoberBanner() {
   };
 
   return (
-    <div className="relative bg-kv-purple text-white">
+    <div className="relative bg-kv-red text-white">
       <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-center gap-x-3 gap-y-1.5 px-10 py-2 text-center sm:px-12">
         <p className="text-sm font-semibold sm:text-base">
-          🔒 Locktober 2026: 31 days locked. lock in by {LOCK_IN_BY}.
+          🔒 Locktober 2026: 31 days locked.{earlyBirdOpen(now ?? undefined) ? ` lock in by ${LOCK_IN_BY}.` : ""}
         </p>
 
         {status && (
@@ -91,7 +92,7 @@ export function LocktoberBanner() {
           target="_blank"
           rel="noopener noreferrer"
           onClick={trackClick}
-          className="border-[1.5px] border-white/80 px-3 py-1 text-xs font-semibold transition-colors hover:bg-white hover:text-kv-purple focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white sm:text-sm"
+          className="border-[1.5px] border-white/80 px-3 py-1 text-xs font-semibold transition-colors hover:bg-white hover:text-kv-red focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white sm:text-sm"
         >
           start in Telegram
         </a>

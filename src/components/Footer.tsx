@@ -2,7 +2,7 @@ import {
   APP_URL,
   BLUESKY_URL,
   COMMUNITY_URL,
-  CONTACT_EMAIL,
+  INSTAGRAM_URL,
   LEGAL_URL,
   LOCKTOBER_RULES_URL,
   PRIVACY_URL,
@@ -12,12 +12,12 @@ import {
 const LINKS = [
   { href: APP_URL, label: "open the app", external: true },
   { href: COMMUNITY_URL, label: "community", external: true },
+  { href: INSTAGRAM_URL, label: "Instagram", external: true },
   { href: BLUESKY_URL, label: "Bluesky", external: true },
   { href: LOCKTOBER_RULES_URL, label: "Locktober rules", external: false },
   { href: PRIVACY_URL, label: "privacy", external: false },
   { href: TERMS_URL, label: "terms", external: false },
   { href: LEGAL_URL, label: "legal", external: false },
-  { href: `mailto:${CONTACT_EMAIL}`, label: "contact", external: false },
 ] as const;
 
 export function Footer() {
