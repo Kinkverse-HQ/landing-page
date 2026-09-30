@@ -68,7 +68,7 @@ Avant publication d’un champ sensible ou utilisation d’une preuve de jeu, l�
 
 **Équipe et opérateurs délégués.** L’accès est limité aux besoins d’assistance, sécurité, modération, technique et droit, sous confidentialité et autorisations adaptées. « Privé » ne signifie pas inaccessible à tout opérateur. Un accès particulièrement sensible doit être justifié et traçable, sans navigation libre. Les informations d’un signalement sont examinées en protégeant aussi les droits et la confidentialité des autres personnes.
 
-**Prestataires.** Les catégories concernées comprennent base de données et authentification, notamment Supabase ; hébergement, réseau et stockage, notamment Cloudflare ; paiements, notamment Stripe pour les canaux qu’il traite ; analyses facultatives et diagnostics, notamment PostHog et Sentry lorsque configurés ; livraison des emails, assistance et outils administratifs nécessaires. Les prestataires effectivement utilisés comprennent notamment : Telegram (jeu et connexion) ; Hetzner Online GmbH (hébergement du jeu Telegram, de sa base de données et de l’assistance) ; Hostinger (administration et domaines personnalisés) ; Chatwoot (assistance) ; un outil de gestion de l’assistance et des emails ; GitHub (hébergement du site statique kinkverse.org) ; Resend (envoi des emails transactionnels). Nous limitons les données à leur fonction et encadrons les sous-traitants. Un prestataire de paiement ou de connexion peut aussi agir comme responsable indépendant pour ses propres obligations ; tous ne sont pas exclusivement nos sous-traitants.
+**Prestataires.** Nous faisons appel à des prestataires par catégories : hébergement et infrastructure, base de données et authentification, envoi d’emails, assistance, mesure d’audience facultative, diagnostic d’erreurs et paiement (notamment Stripe pour les canaux qu’il traite). Telegram intervient pour le jeu et la connexion. Nous limitons les données à leur fonction et encadrons les sous-traitants. Un prestataire de paiement ou de connexion peut aussi agir comme responsable indépendant pour ses propres obligations ; tous ne sont pas exclusivement nos sous-traitants.
 
 **Telegram et connexions externes.** Le service choisi reçoit les informations nécessaires à sa connexion ou à ses messages. Les conversations avec un bot Telegram ne sont pas présentées comme un canal chiffré de bout en bout. Ses conditions s’appliquent à son propre service. Nous limitons les identifiants, notifications et contenus au besoin de la fonction ; un groupe ou partage externe facultatif nécessite un choix distinct.
 
@@ -138,4 +138,4 @@ Une évolution importante de cette politique est annoncée avant application. Un
 
 ## Changements de la version 1.1
 
-Liste des prestataires effectivement utilisés complétée (article 6).
+Informations d’hébergement et de prestataires simplifiées.

@@ -83,7 +83,7 @@ Hors les semaines à lot décrites ci-dessous, ce règlement ne garantit aucun l
 - **Fenêtres.** Chaque semaine à lot court du dimanche 00 h 00 au dimanche suivant 00 h 00, heure de Paris. La première compte du 4 au 11 octobre 2026, puis du 11 au 18 octobre, du 18 au 25 octobre et du 25 octobre au 1er novembre : quatre semaines, jusqu’à la clôture des inscriptions. Les points du 1er au 3 octobre comptent pour le score de saison, pas pour la première semaine à lot.
 - **Éligibilité.** Vous devez avoir un parcours en cours (ni terminé ni retiré), un profil visible au classement et un score supérieur à zéro dans la fenêtre, et ne pas avoir déjà remporté une semaine à lot cette saison : on ne peut gagner qu’une fois.
 - **Score compté.** Celui de l’article 8, limité à la fenêtre : 100 points par journée approuvée et 1 point par Treat obtenue en mission dans cette semaine.
-- **Désignation.** Le meilleur score éligible de la semaine est proposé à l’opérateur, qui confirme et marque le gagnant après la fin de la semaine, avec un motif enregistré. Le lot lui-même est attribué à la main, hors du jeu.
+- **Désignation.** Le gagnant est désigné après la fin de la semaine, selon le meilleur score éligible puis le départage ci-dessous. Le lot lui-même est attribué à la main, hors du jeu.
 - **Égalités.** Les scores égaux partagent le même rang. En cas d’égalité pour la première place, l’emporte le membre qui compte le plus de journées approuvées pendant la semaine, puis celui qui s’est inscrit le premier.
 - **Annonce.** Le gagnant reçoit un message dans le bot. Un message est aussi envoyé aux utilisateurs du bot qui l’ont démarré, avec le nom du gagnant si son profil est visible, sinon la mention d’un membre qui garde son profil privé.
 - **Lot.** Une cage KINK3D neuve, au choix du gagnant, selon le guide du jeu. Le lot est expédié à l’adresse communiquée par le gagnant. Le gagnant dispose de **14 jours** à compter de l’annonce pour communiquer une adresse de livraison ; passé ce délai, le lot revient au membre éligible suivant. Aucune contrepartie en argent n’est promise.
@@ -108,4 +108,4 @@ Le droit français s’applique, sans priver le consommateur des protections imp
 
 ## Changements de la version 1.1
 
-Dates en heure de Paris (article 2) ; freezes du premier jour, plafonds, achat d’un freeze et redémarrage (article 4) ; règle de preuve (article 5) ; missions (article 6) ; conversion de six Stars pour une Treat (article 7) ; calcul du score (article 8) ; semaines à lot (article 9).
+Dates en heure de Paris (article 2) ; freezes du premier jour, plafonds, achat d’un freeze et redémarrage (article 4) ; règle de preuve (article 5) ; missions (article 6) ; conversion de six Stars pour une Treat (article 7) ; calcul du score (article 8) ; semaines à lot (article 9). Désignation du gagnant simplifiée.

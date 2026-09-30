@@ -20,17 +20,15 @@ USL Media may support community operations, moderation, customer support or comm
 
 Any future change of seller will be specifically notified under the applicable transfer clause. The seller, checkout, invoices, refund responsibility and approved payment arrangements must identify the same actual transaction structure.
 
-## Technical hosting
+## Hosting
 
-**The kinkverse.org website.** The showcase site is hosted by **GitHub, Inc.** (GitHub Pages), 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, United States.
+Kinkverse services are hosted by:
 
-**Telegram game and support.** The Telegram game, its database and the support desk (Chatwoot) are hosted by **Hetzner Online GmbH**, Industriestr. 25, 91710 Gunzenhausen, Germany; telephone **+49 (0)9831 505-0**; the servers are located in Nuremberg, Germany.
-
-**Kinkverse application.** The Kinkverse delivery infrastructure uses **Cloudflare, Inc.**, 101 Townsend Street, San Francisco, CA 94107, United States; telephone **+1 650 319 8930**. Database and authentication services use **Supabase** (SUPABASE PTE. LTD., 65 Chulia Street #38-02/03, OCBC Centre, Singapore 049513).
-
-**Kinkverse admin and custom profile domains.** They are hosted by **Hostinger International Limited**, 61 Lordou Vironos str., 6023 Larnaca, Cyprus, on servers located in Paris, France.
-
-The Privacy Policy explains the distinction between hosting, other service providers and the controller; use of a global provider is not a promise of EU-only processing.
+- **GitHub, Inc.**, 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, United States;
+- **Cloudflare, Inc.**, 101 Townsend Street, San Francisco, CA 94107, United States; telephone **+1 650 319 8930**;
+- **SUPABASE PTE. LTD.**, 65 Chulia Street #38-02/03, OCBC Centre, Singapore 049513;
+- **Hetzner Online GmbH**, Industriestr. 25, 91710 Gunzenhausen, Germany; telephone **+49 (0)9831 505-0**;
+- **Hostinger International Limited**, 61 Lordou Vironos str., 6023 Larnaca, Cyprus.
 
 ## Good Boys Club Boutique
 
@@ -46,4 +44,4 @@ The [Kinkverse Terms](kinkverse-terms.md), [Paid Terms](kinkverse-plus-terms.md)
 
 ## Changes in version 1.1
 
-Hosting providers updated: kinkverse.org website, Telegram game and support, application, admin and custom domains. The Boutique now publishes its own legal notice.
+Hosting information simplified. The Boutique now publishes its own legal notice.
