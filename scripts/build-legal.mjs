@@ -6,11 +6,24 @@ import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { Marked } from "marked";
+import { loadEnv } from "vite";
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const CONTENT = join(ROOT, "content", "legal");
 const DIST = join(ROOT, "dist");
 const SITE = "https://kinkverse.org";
+
+// The same PostHog project and reverse proxy as the landing page (src/main.tsx), read from the
+// committed .env the way Vite reads it. Without a key the pages carry no analytics at all.
+const ENV = loadEnv("production", ROOT, "VITE_PUBLIC_POSTHOG_");
+const POSTHOG_KEY = ENV.VITE_PUBLIC_POSTHOG_KEY;
+const POSTHOG_HOST = ENV.VITE_PUBLIC_POSTHOG_HOST ?? "https://eu.i.posthog.com";
+
+/** PostHog's standard loader stub, then the same init as the React app. */
+const analytics = () => !POSTHOG_KEY ? "" : `<script>
+!function(t,e){var o,n,p,r;e.__SV||(window.posthog&&window.posthog.__loaded)||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="init capture register register_once unregister identify reset get_distinct_id get_session_id set_config opt_in_capturing opt_out_capturing has_opted_out_capturing captureException".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+posthog.init(${JSON.stringify(POSTHOG_KEY)}, { api_host: ${JSON.stringify(POSTHOG_HOST)}, ui_host: "https://eu.posthog.com", defaults: "2026-01-30" });
+</script>`;
 
 /** Pack order = index order. `pair` is the slug of the other language's version of the same document. */
 const DOCS = [
@@ -117,6 +130,7 @@ ${alternates.map((a) => `<link rel="alternate" hreflang="${a.lang}" href="${SITE
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Permanent+Marker&display=swap" rel="stylesheet" />
 <link rel="icon" type="image/png" href="/favicon.png" />
 <link rel="stylesheet" href="/legal/legal.css" />
+${analytics()}
 </head>`;
 
 const chrome = (lang, inner, switchHtml = "") => `<body>
