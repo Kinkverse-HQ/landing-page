@@ -10,7 +10,7 @@ A Stars purchase, a Kinkverse+ subscription and a Boutique order are distinct tr
 
 The issuer and current seller of internal Stars, and the operator of the Treats programme, is **Unstatic Labs**, a French single-member simplified joint-stock company (*SASU à capital variable*), share capital €1,000, minimum capital €100; **RCS Paris 983 982 950**; registered office **60 rue François Ier, 75008 Paris, France**; VAT **FR48 983 982 950**.
 
-Contact for support, complaints, withdrawal and privacy requests: **odoo@unstaticlabs.com**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
+Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
 
 The [Kinkverse Terms](kinkverse-terms.md), the applicable [game rules](locktober-2026-rules.md) and the [Boutique Terms of Sale](https://boutique.goodboys.club/fr/content/cgv) apply to their respective activities. These terms take priority on Stars issuance, gifting, conversion and loyalty balances; the Boutique terms govern the actual product sale, delivery, return and product guarantees.
 
@@ -78,7 +78,7 @@ The systems maintain one consistent entitlement, not two independently spendable
 
 A consumer normally has **14 days from the purchase contract** to withdraw from unused purchased Stars, subject to any more protective mandatory law. The right is not waived merely because Stars are credited immediately, allocated to a challenge or described as a digital asset. We do not use a blanket digital-content waiver for the currency purchase.
 
-Use the online withdrawal function for the transaction or send an unambiguous statement to **odoo@unstaticlabs.com**. For a bot purchase, `/paysupport` is also a payment-help route. We acknowledge an online withdrawal on a durable medium and refund sums legally due within 14 days of notice, using the original method unless another lawful method is agreed without cost to you.
+Use the online withdrawal function for the transaction or send an unambiguous statement to **hello@kinkverse.org**. For a bot purchase, `/paysupport` is also a payment-help route. We acknowledge an online withdrawal on a durable medium and refund sums legally due within 14 days of notice, using the original method unless another lawful method is agreed without cost to you.
 
 For partially unused purchased units, the calculation uses the actual price paid attributable to those units, with free bonus units distinguished. There is no invented cash price for a promotional gift. We can reverse corresponding unused credits and reversible, unredeemed Treats derived from the withdrawn transaction. A technical conversion alone is not a reason to deny withdrawal. Where a subsequent digital service or item was genuinely supplied, its own information, withdrawal conditions and applicable remedies must also be respected; a ledger label cannot fabricate performance or a waiver.
 
@@ -128,7 +128,7 @@ French law governs these terms. This choice does not deprive a consumer of manda
 
 ## 16. Model withdrawal statement
 
-To Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France — **odoo@unstaticlabs.com**:
+To Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France — **hello@kinkverse.org**:
 
 I/We notify withdrawal from the following Stars purchase: …
 Order date and reference: …

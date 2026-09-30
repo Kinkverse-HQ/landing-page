@@ -6,7 +6,7 @@ Cette synthèse accompagne les [CGV Kinkverse+](kinkverse-cgv.md), les [conditio
 
 ## Arrêter un renouvellement
 
-La fonction de résiliation en ligne ou une demande à **odoo@unstaticlabs.com** permet d’arrêter le prochain renouvellement de Plus. L’accès ordinaire continue jusqu’à la date payée, qui est confirmée. Aucun motif ni effacement de compte n’est exigé. Une panne du portail d’un prestataire ne vous prive pas du droit de nous notifier votre décision.
+La fonction de résiliation en ligne ou une demande à **hello@kinkverse.org** permet d’arrêter le prochain renouvellement de Plus. L’accès ordinaire continue jusqu’à la date payée, qui est confirmée. Aucun motif ni effacement de compte n’est exigé. Une panne du portail d’un prestataire ne vous prive pas du droit de nous notifier votre décision.
 
 ## Se rétracter d’un contrat récent
 

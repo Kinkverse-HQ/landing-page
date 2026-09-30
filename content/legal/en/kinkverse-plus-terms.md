@@ -6,7 +6,7 @@ Version 1.1 — 30 September 2026. This version applies when made available and 
 
 Your seller is **Unstatic Labs**, a French single-member simplified joint-stock company (*SASU à capital variable*), share capital €1,000, minimum capital €100; **RCS Paris 983 982 950**; registered office **60 rue François Ier, 75008 Paris, France**; VAT **FR48 983 982 950**.
 
-Contact for support, complaints, withdrawal and privacy requests: **odoo@unstaticlabs.com**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
+Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
 
 These terms cover the continuously supplied **Kinkverse+ subscription**. The [Terms of Use](kinkverse-terms.md) govern the service and content. [Stars purchases](stars-and-treats-terms.md), [Locktober participation](locktober-2026-rules.md) and Boutique goods have separate terms. USL Media may assist operations but is not the seller under this version. A payment provider is not substituted for the seller unless a particular offer expressly identifies a different contracting model before purchase.
 
@@ -117,7 +117,7 @@ French law governs these terms. This choice does not deprive a consumer of manda
 
 ## Annex A — Model withdrawal form
 
-To Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France — **odoo@unstaticlabs.com**:
+To Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France — **hello@kinkverse.org**:
 
 I/We (*) hereby give notice that I/We (*) withdraw from my/our (*) contract for the following service: **Kinkverse+**.
 Ordered on: …

@@ -133,7 +133,7 @@ const chrome = (lang, inner, switchHtml = "") => `<body>
 ${inner}
 </main>
 <footer class="site-footer">
-  <p><a href="/">kinkverse.org</a> · <a href="/legal/">${UI[lang].legal}</a> · <a href="mailto:odoo@unstaticlabs.com">odoo@unstaticlabs.com</a></p>
+  <p><a href="/">kinkverse.org</a> · <a href="/legal/">${UI[lang].legal}</a> · <a href="mailto:hello@kinkverse.org">hello@kinkverse.org</a></p>
 </footer>
 </body>
 </html>
@@ -152,7 +152,7 @@ for (const doc of DOCS) {
   const file = join(CONTENT, doc.lang, `${doc.slug}.md`);
   if (!existsSync(file)) throw new Error(`missing ${file}`);
   const md = readFileSync(file, "utf8");
-  if (/\{\{|TODO|\bGBT\b|\bGBC\b/.test(md)) problems.push(`${doc.lang}/${doc.slug}: placeholder or forbidden token`);
+  if (/\{\{|TODO|\bGBT\b|\bGBC\b|odoo|valentin|viennot/i.test(md)) problems.push(`${doc.lang}/${doc.slug}: placeholder or forbidden token`);
   const title = /^# (.+)$/m.exec(md)?.[1];
   const versionLine = /^(Version [^—\n]+— [^.\n]+)/m.exec(md)?.[1];
   if (!title || !versionLine) throw new Error(`${file}: no title or version line`);

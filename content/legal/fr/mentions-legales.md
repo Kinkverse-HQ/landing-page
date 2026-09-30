@@ -6,9 +6,9 @@ Version 1.1 — 30 septembre 2026.
 
 **Unstatic Labs**, société par actions simplifiée unipersonnelle à capital variable de 1 000 €, capital minimum de 100 € ; **RCS Paris 983 982 950** ; siège social **60 rue François Ier, 75008 Paris, France** ; TVA **FR48 983 982 950**.
 
-SIRET : **983 982 950 00021**. Directeur de la publication : **Valentin Viennot**, président.
+SIRET : **983 982 950 00021**. Directeur de la publication : le président d’Unstatic Labs.
 
-Assistance, réclamations, rétractation et données personnelles : **odoo@unstaticlabs.com**. Téléphone : **+33 6 51 09 90 30**. Courrier : Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Indiquez le service concerné et, si disponible, votre référence de compte ou de commande, sans transmettre de coordonnées complètes de carte bancaire ni de contenu intime inutile.
+Assistance, réclamations, rétractation et données personnelles : **hello@kinkverse.org**. Téléphone : **+33 6 51 09 90 30**. Courrier : Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Indiquez le service concerné et, si disponible, votre référence de compte ou de commande, sans transmettre de coordonnées complètes de carte bancaire ni de contenu intime inutile.
 
 Kinkverse, Kinkverse+, Good Boys Club et Good Boys Obey sont des noms de services ou des enseignes. Dans cette version, **Unstatic Labs est le professionnel contractant et le vendeur** de Kinkverse+, des Stars internes et des commandes de la Boutique du Club. Une enseigne, un libellé bancaire ou un sous-traitant ne désigne pas un autre vendeur.
 
