@@ -12,7 +12,7 @@ Use the online cancellation function in your account/billing area or write to **
 
 Withdrawal and cancellation are different. A consumer normally has 14 days from the subscription or Stars purchase contract to withdraw; for physical goods the normal period begins on receipt, subject to the applicable rules and exceptions.
 
-Use the online withdrawal function or send a clear withdrawal statement to **hello@kinkverse.org** or by post to Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Include the transaction reference and a means to identify the order. The statutory model form is optional. We acknowledge online withdrawal on a durable medium.
+Use the online withdrawal function or send a clear withdrawal statement to **hello@kinkverse.org**. Include the transaction reference and a means to identify the order. The statutory model form is optional. We acknowledge online withdrawal on a durable medium.
 
 For Plus, a lawful proportion for service already supplied may be due only where immediate supply was expressly requested and the required information was provided. For Stars, merely receiving or allocating credits does not waive withdrawal from unused purchased units. Refunds legally due are made within the applicable period, normally 14 days from notice; physical-goods refunds may be withheld until the goods or proof of return are received where the law permits.
 

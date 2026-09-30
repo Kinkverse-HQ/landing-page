@@ -1,6 +1,6 @@
 # Legal notice — Kinkverse
 
-Version 1.1 — 30 September 2026.
+Version 1.2 — 30 September 2026.
 
 ## Publisher and current seller
 
@@ -8,17 +8,10 @@ Version 1.1 — 30 September 2026.
 
 SIRET: **983 982 950 00021**. Publication director: the President of Unstatic Labs.
 
-Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
+Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**.
 
 Kinkverse, Kinkverse+, Good Boys Club and Good Boys Obey are service or trading names. Under this version, **Unstatic Labs is the contracting professional and seller** for Kinkverse+, internal Stars and orders from the Club’s Boutique. A service name, bank-statement descriptor or subcontractor is not a different seller.
 
-## Group company
-
-**USL Media**, French SAS, **SIREN 106 928 831**, registered office **10 rue de Penthièvre, 75008 Paris, France**, VAT **FR36 106 928 831**, is a wholly owned group company.
-
-USL Media may support community operations, moderation, customer support or commercial operations as those functions are actually entrusted to it. Unstatic Labs remains responsible to its customers for the contracts it concludes, including when another group company helps perform them. Unstatic Labs also provides technology, intellectual property and infrastructure. This notice does not state that USL Media has already replaced Unstatic Labs as seller or data controller.
-
-Any future change of seller will be specifically notified under the applicable transfer clause. The seller, checkout, invoices, refund responsibility and approved payment arrangements must identify the same actual transaction structure.
 
 ## Hosting
 
@@ -41,6 +34,10 @@ Use the contact above for notices about illegal content, privacy, intellectual p
 ## Applicable documents
 
 The [Kinkverse Terms](kinkverse-terms.md), [Paid Terms](kinkverse-plus-terms.md), [Privacy Policy](kinkverse-privacy.md), [Locktober Rules](locktober-2026-rules.md) and [Stars and Treats Terms](stars-and-treats-terms.md) cover different activities. The Club’s Boutique has its own [Terms of Use](https://boutique.goodboys.club/fr/content/terms-of-use), [Terms of Sale](https://boutique.goodboys.club/fr/content/cgv) and [Privacy Policy](https://boutique.goodboys.club/fr/content/privacy-policy).
+
+## Changes in version 1.2
+
+Contact details reduced to the email address. Group company section removed.
 
 ## Changes in version 1.1
 

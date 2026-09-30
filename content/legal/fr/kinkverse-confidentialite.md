@@ -6,9 +6,9 @@ Version 1.1 — 30 septembre 2026. Cette version s’applique à compter de sa m
 
 **Unstatic Labs**, société par actions simplifiée unipersonnelle à capital variable de 1 000 €, capital minimum de 100 € ; **RCS Paris 983 982 950** ; siège social **60 rue François Ier, 75008 Paris, France** ; TVA **FR48 983 982 950**.
 
-Unstatic Labs est responsable des traitements décrits ici pour le compte Kinkverse, les profils, abonnements, QR et jeux. **USL Media ne devient pas responsable du traitement du seul fait de son appartenance au groupe.** Lorsqu’elle nous assiste sur instruction, son accès est limité à la fonction déléguée. Une évolution de l’entité déterminant les finalités et moyens sera expliquée avant sa mise en œuvre.
+Unstatic Labs est responsable des traitements décrits ici pour le compte Kinkverse, les profils, abonnements, QR et jeux. Une évolution de l’entité déterminant les finalités et moyens sera expliquée avant sa mise en œuvre.
 
-Assistance, réclamations, rétractation et données personnelles : **hello@kinkverse.org**. Téléphone : **+33 6 51 09 90 30**. Courrier : Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Indiquez le service concerné et, si disponible, votre référence de compte ou de commande, sans transmettre de coordonnées complètes de carte bancaire ni de contenu intime inutile.
+Assistance, réclamations, rétractation et données personnelles : **hello@kinkverse.org**.
 
 Ces droits ne dépendent pas d’un abonnement. Cette politique concerne visiteurs, membres, joueurs et personnes mentionnées dans un signalement. La [politique de la Boutique](https://boutique.goodboys.club/fr/content/privacy-policy) couvre les commandes et leur exécution ; Telegram et les fournisseurs de connexion externes ont leurs propres politiques pour leurs services.
 

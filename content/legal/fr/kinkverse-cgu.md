@@ -8,9 +8,7 @@ Kinkverse est un service d’identité, de profils et de liens destiné aux adul
 
 Le service est fourni par **Unstatic Labs**, société par actions simplifiée unipersonnelle à capital variable de 1 000 €, capital minimum de 100 € ; **RCS Paris 983 982 950** ; siège social **60 rue François Ier, 75008 Paris, France** ; TVA **FR48 983 982 950**.
 
-Assistance, réclamations, rétractation et données personnelles : **hello@kinkverse.org**. Téléphone : **+33 6 51 09 90 30**. Courrier : Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Indiquez le service concerné et, si disponible, votre référence de compte ou de commande, sans transmettre de coordonnées complètes de carte bancaire ni de contenu intime inutile.
-
-USL Media peut contribuer aux fonctions opérationnelles qui lui sont effectivement confiées. Cela ne change pas votre cocontractant actuel. Les [mentions légales](mentions-legales.md) identifient les sociétés et leurs rôles.
+Assistance, réclamations, rétractation et données personnelles : **hello@kinkverse.org**.
 
 Ces CGU régissent l’utilisation du service. Les [CGV Kinkverse+](kinkverse-cgv.md) prévalent pour l’abonnement ; les [conditions Stars et Treats](stars-et-treats.md) pour l’économie ; le [règlement Locktober](locktober-2026-reglement.md) pour ce programme. La [politique de confidentialité](kinkverse-confidentialite.md) explique les traitements de données. Accepter les CGU n’équivaut pas à consentir à tous les traitements facultatifs.
 
@@ -92,7 +90,7 @@ Le fonctionnement d’un service externe indépendant n’est pas garanti, sans 
 
 ## 12. Cession, changements et litiges
 
-Nous pouvons céder ce contrat à USL Media, à une autre société du groupe dédiée à Kinkverse ou à un successeur reprenant le service concerné, uniquement si la cession ne diminue ni vos droits, ni vos recours effectifs, ni la sécurité de l’exécution. Vous donnez votre accord préalable seulement à une cession répondant à ces conditions. La cession sera constatée par écrit et notifiée sur support durable avec l’identité du successeur, la date d’effet, ses coordonnées et les éventuels changements de paiement. Sauf exigence légale urgente empêchant ce délai, le préavis sera d’au moins 30 jours.
+Nous pouvons céder ce contrat à une société du groupe dédiée à Kinkverse ou à un successeur reprenant le service concerné, uniquement si la cession ne diminue ni vos droits, ni vos recours effectifs, ni la sécurité de l’exécution. Vous donnez votre accord préalable seulement à une cession répondant à ces conditions. La cession sera constatée par écrit et notifiée sur support durable avec l’identité du successeur, la date d’effet, ses coordonnées et les éventuels changements de paiement. Sauf exigence légale urgente empêchant ce délai, le préavis sera d’au moins 30 jours.
 
 Le successeur doit préserver le tarif acquis pour le même abonnement, la période payée, les droits protégés sur le pseudonyme et le QR code, les soldes, les récompenses acquises, les droits liés au badge d’achèvement, les possibilités de résiliation et les recours. La cession seule ne permet pas de les remettre à zéro. Elle n’autorise ni nouvelles finalités de traitement, ni élargissement d’audience, ni nouveau mandat de paiement. Nous conservons les obligations et responsabilités que la loi laisse à notre charge ; cette clause ne constitue pas une décharge expresse d’Unstatic Labs au sens de l’article 1216-1 du Code civil. Tout accord complémentaire légalement nécessaire sera recueilli. Vous pouvez également mettre fin au service payant concerné avant la cession et obtenir le remboursement de la période prépayée non utilisée, sans renoncer à vos autres droits impératifs.
 
