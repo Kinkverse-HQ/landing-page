@@ -21,7 +21,7 @@ export function HeroProfile() {
           loading="eager"
         />
         <figcaption className="font-mono border-t-[1.5px] border-kv-border px-4 py-2 text-xs text-kv-muted">
-          a real Kinkverse page · @{PROFILE_HANDLE.split(".")[0]}
+          @{PROFILE_HANDLE}
         </figcaption>
       </figure>
     </a>
