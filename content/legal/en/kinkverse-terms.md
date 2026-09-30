@@ -8,9 +8,7 @@ Kinkverse is an adult identity and profile service. It helps members describe th
 
 The operator and contracting party is **Unstatic Labs**, a French single-member simplified joint-stock company (*SASU à capital variable*), share capital €1,000, minimum capital €100; **RCS Paris 983 982 950**; registered office **60 rue François Ier, 75008 Paris, France**; VAT **FR48 983 982 950**.
 
-Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
-
-USL Media may assist with functions actually delegated to it, as explained in the [Legal Notice](legal-notice.md). It does not replace your contracting party merely by assisting us.
+Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**.
 
 By creating an account through an acceptance step, you agree to these terms. Visitors are informed of the rules relevant to their use. The [Privacy Policy](kinkverse-privacy.md) explains processing; acknowledging it is not blanket consent to optional or sensitive processing. The [Paid Terms](kinkverse-plus-terms.md) prevail on payment, entitlements and consumer remedies, and the [Locktober Rules](locktober-2026-rules.md) and [Stars and Treats Terms](stars-and-treats-terms.md) govern those activities.
 
@@ -94,7 +92,7 @@ We do not guarantee operation of independent external services, but that does no
 
 ## 12. Transfer, new terms and disputes
 
-We may transfer this contract to USL Media or another group company dedicated to Kinkverse, or to a successor taking over the relevant service, only if the transfer does not reduce your rights, practical remedies or the security of performance. You give advance agreement only to a transfer meeting these conditions. We will record the transfer in writing and notify you on a durable medium, identifying the successor, effective date, contacts and any payment changes. Except where an urgent legal requirement prevents it, notice will be at least 30 days in advance.
+We may transfer this contract to a group company dedicated to Kinkverse, or to a successor taking over the relevant service, only if the transfer does not reduce your rights, practical remedies or the security of performance. You give advance agreement only to a transfer meeting these conditions. We will record the transfer in writing and notify you on a durable medium, identifying the successor, effective date, contacts and any payment changes. Except where an urgent legal requirement prevents it, notice will be at least 30 days in advance.
 
 The successor must preserve your acquired price for the same subscription, paid period, protected handle and QR rights, balances, earned rewards, completion badge rights, cancellation rights and remedies. Transfer alone is not a reason to reset them. It does not authorize new data purposes, broader audiences or a new payment mandate. We remain responsible for obligations and liabilities that the law leaves with us; this clause is not an express release of Unstatic Labs under Article 1216-1 of the French Civil Code. Where additional agreement is legally required, we will obtain it. You may instead end the affected ongoing paid service before transfer and receive the unused prepaid portion, without waiving other mandatory rights.
 

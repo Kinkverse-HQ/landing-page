@@ -6,9 +6,9 @@ Version 1.2 — 30 September 2026. This version applies when made available and 
 
 Locktober is a voluntary, adults-only **31-day community challenge** operated through Kinkverse and its Telegram integration. The principal completion benefit is a **Locktober 2026 completion badge** on your Kinkverse account. Displaying it is optional.
 
-Organizer: **Unstatic Labs**, a French single-member simplified joint-stock company (*SASU à capital variable*), share capital €1,000, minimum capital €100; **RCS Paris 983 982 950**; registered office **60 rue François Ier, 75008 Paris, France**; VAT **FR48 983 982 950**.
+Organizer: the publisher of Kinkverse, identified in the [legal notice](legal-notice.md).
 
-Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
+Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**.
 
 The [Kinkverse Terms](kinkverse-terms.md), [Privacy Policy](kinkverse-privacy.md) and [Stars and Treats Terms](stars-and-treats-terms.md) also apply. This programme is not a medical service, a certification of real-world sexual behaviour or an instruction to undertake unsafe activity.
 

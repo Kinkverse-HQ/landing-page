@@ -166,7 +166,7 @@ for (const doc of DOCS) {
   const file = join(CONTENT, doc.lang, `${doc.slug}.md`);
   if (!existsSync(file)) throw new Error(`missing ${file}`);
   const md = readFileSync(file, "utf8");
-  if (/\{\{|TODO|\bGBT\b|\bGBC\b|odoo|valentin|viennot|chatwoot|komodo|outbox|mark_winner|admin(istration)? (interface|console)/i.test(md)) problems.push(`${doc.lang}/${doc.slug}: placeholder or forbidden token`);
+  if (/\{\{|TODO|\bGBT\b|\bGBC\b|odoo|valentin|viennot|chatwoot|komodo|outbox|mark_winner|USL Media|LegalPlace|51 ?09 ?90 ?30|admin(istration)? (interface|console)/i.test(md)) problems.push(`${doc.lang}/${doc.slug}: placeholder or forbidden token`);
   const title = /^# (.+)$/m.exec(md)?.[1];
   const versionLine = /^(Version [^—\n]+— [^.\n]+)/m.exec(md)?.[1];
   if (!title || !versionLine) throw new Error(`${file}: no title or version line`);

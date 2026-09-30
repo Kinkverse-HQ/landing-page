@@ -6,9 +6,9 @@ Version 1.1 — 30 September 2026. This version applies when made available and 
 
 Your seller is **Unstatic Labs**, a French single-member simplified joint-stock company (*SASU à capital variable*), share capital €1,000, minimum capital €100; **RCS Paris 983 982 950**; registered office **60 rue François Ier, 75008 Paris, France**; VAT **FR48 983 982 950**.
 
-Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
+Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**.
 
-These terms cover the continuously supplied **Kinkverse+ subscription**. The [Terms of Use](kinkverse-terms.md) govern the service and content. [Stars purchases](stars-and-treats-terms.md), [Locktober participation](locktober-2026-rules.md) and Boutique goods have separate terms. USL Media may assist operations but is not the seller under this version. A payment provider is not substituted for the seller unless a particular offer expressly identifies a different contracting model before purchase.
+These terms cover the continuously supplied **Kinkverse+ subscription**. The [Terms of Use](kinkverse-terms.md) govern the service and content. [Stars purchases](stars-and-treats-terms.md), [Locktober participation](locktober-2026-rules.md) and Boutique goods have separate terms. A payment provider is not substituted for the seller unless a particular offer expressly identifies a different contracting model before purchase.
 
 The consumer protections below apply when you buy as a consumer; any mandatory non-professional protections also remain. These terms do not remove rights merely because you use a profile to promote creative work.
 
@@ -103,7 +103,7 @@ The statutory French notice below forms part of these terms. Nothing excludes no
 
 ## 12. Transfer and new versions
 
-We may transfer this contract to USL Media or another group company dedicated to Kinkverse, or to a successor taking over the relevant service, only if the transfer does not reduce your rights, practical remedies or the security of performance. You give advance agreement only to a transfer meeting these conditions. We will record the transfer in writing and notify you on a durable medium, identifying the successor, effective date, contacts and any payment changes. Except where an urgent legal requirement prevents it, notice will be at least 30 days in advance.
+We may transfer this contract to a group company dedicated to Kinkverse, or to a successor taking over the relevant service, only if the transfer does not reduce your rights, practical remedies or the security of performance. You give advance agreement only to a transfer meeting these conditions. We will record the transfer in writing and notify you on a durable medium, identifying the successor, effective date, contacts and any payment changes. Except where an urgent legal requirement prevents it, notice will be at least 30 days in advance.
 
 The successor must preserve your acquired price for the same subscription, paid period, protected handle and QR rights, balances, earned rewards, completion badge rights, cancellation rights and remedies. Transfer alone is not a reason to reset them. It does not authorize new data purposes, broader audiences or a new payment mandate. We remain responsible for obligations and liabilities that the law leaves with us; this clause is not an express release of Unstatic Labs under Article 1216-1 of the French Civil Code. Where additional agreement is legally required, we will obtain it. You may instead end the affected ongoing paid service before transfer and receive the unused prepaid portion, without waiving other mandatory rights.
 
@@ -117,7 +117,7 @@ French law governs these terms. This choice does not deprive a consumer of manda
 
 ## Annex A — Model withdrawal form
 
-To Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France — **hello@kinkverse.org**:
+To Unstatic Labs, 60 rue François Ier, 75008 Paris, France — **hello@kinkverse.org**:
 
 I/We (*) hereby give notice that I/We (*) withdraw from my/our (*) contract for the following service: **Kinkverse+**.
 Ordered on: …

@@ -12,7 +12,7 @@ La fonction de résiliation en ligne ou une demande à **hello@kinkverse.org** p
 
 La rétractation est distincte de la résiliation. Le consommateur bénéficie normalement de 14 jours à compter du contrat d’abonnement ou d’achat de Stars ; pour un bien physique, le délai ordinaire commence à réception, sous réserve des règles et exceptions applicables.
 
-Utilisez la fonction de rétractation en ligne, une déclaration claire par email ou un courrier à Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Identifiez la transaction et fournissez un moyen de retrouver la commande. Le formulaire type est facultatif. La demande en ligne donne lieu à un accusé sur support durable.
+Utilisez la fonction de rétractation en ligne, ou une déclaration claire à **hello@kinkverse.org**. Identifiez la transaction et fournissez un moyen de retrouver la commande. Le formulaire type est facultatif. La demande en ligne donne lieu à un accusé sur support durable.
 
 Pour Plus, une proportion légalement due pour le service déjà fourni peut être retenue seulement après demande expresse de début immédiat et information valable. Pour les Stars, la livraison ou l’allocation des crédits ne vaut pas renonciation à la rétractation des unités achetées non utilisées. Le remboursement légal intervient normalement dans les 14 jours de la notification ; pour les biens, il peut être différé jusqu’à réception du retour ou de sa preuve lorsque la loi le permet.
 

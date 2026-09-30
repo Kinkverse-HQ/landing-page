@@ -6,9 +6,9 @@ Version 1.1 — 30 September 2026. This version applies when made available and 
 
 **Unstatic Labs**, a French single-member simplified joint-stock company (*SASU à capital variable*), share capital €1,000, minimum capital €100; **RCS Paris 983 982 950**; registered office **60 rue François Ier, 75008 Paris, France**; VAT **FR48 983 982 950**.
 
-Unstatic Labs is the controller for the Kinkverse account, profile, subscription, QR and game processing described here. **USL Media is not automatically a controller because it belongs to the group.** Where it assists us under our instructions, its access is limited to the delegated function. Any change to the entity deciding purposes and means will be explained before the new arrangement operates.
+Unstatic Labs is the controller for the Kinkverse account, profile, subscription, QR and game processing described here. Any change to the entity deciding purposes and means will be explained before the new arrangement operates.
 
-Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
+Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**.
 
 You may use that contact for the privacy function without being a paying member. This policy covers visitors, members, game participants and people whose data reaches us in reports. The [Boutique Privacy Policy](https://boutique.goodboys.club/fr/content/privacy-policy) covers orders and fulfillment; Telegram and external sign-in services have their own policies for their services.
 
