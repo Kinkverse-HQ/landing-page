@@ -33,6 +33,7 @@ npm run preview   # optional — preview production build
 |------|--------|
 | CTA / app URL | `src/constants.ts` → `APP_URL` |
 | Page copy | `src/App.tsx` (and section components) |
+| Legal documents (Markdown, FR/EN) | `content/legal/{fr,en}/*.md`, rendered to static HTML by `scripts/build-legal.mjs` (runs in `npm run build`; `npm run legal` re-renders into an existing `dist/`); styles in `scripts/legal.css` |
 | Legal / contact links | `src/constants.ts` (`PRIVACY_URL`, `TERMS_URL`, `CONTACT_EMAIL`) |
 | SEO / OG tags | `index.html` |
 | OG image (TODO) | `index.html` — add `og:image` when asset exists |

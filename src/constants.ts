@@ -1,9 +1,10 @@
 /** Primary app URL — change here to update all CTAs */
 export const APP_URL = "https://app.kinkverse.org";
 
-// TODO: Replace with real URLs when legal pages are published
-export const PRIVACY_URL = "#"; // TODO: https://app.kinkverse.org/privacy or dedicated page
-export const TERMS_URL = "#"; // TODO: https://app.kinkverse.org/terms or dedicated page
+/** Legal documents are built from content/legal/ (see scripts/build-legal.mjs). */
+export const PRIVACY_URL = "/legal/en/kinkverse-privacy";
+export const TERMS_URL = "/legal/en/kinkverse-terms";
+export const LEGAL_URL = "/legal/";
 export const CONTACT_EMAIL = "hello@kinkverse.org";
 
 /** Locktober 2026 — Telegram bot that runs the challenge and sends daily cagechecks */

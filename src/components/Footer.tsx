@@ -1,4 +1,4 @@
-import { APP_URL, PRIVACY_URL, TERMS_URL } from "../constants";
+import { APP_URL, LEGAL_URL, PRIVACY_URL, TERMS_URL } from "../constants";
 
 export function Footer() {
   return (
@@ -34,6 +34,14 @@ export function Footer() {
                 className="text-kv-muted underline-offset-2 hover:text-kv-lavender hover:underline focus-ring rounded-sm"
               >
                 Terms
+              </a>
+            </li>
+            <li>
+              <a
+                href={LEGAL_URL}
+                className="text-kv-muted/80 underline-offset-2 hover:text-kv-lavender hover:underline focus-ring rounded-sm"
+              >
+                Legal
               </a>
             </li>
             <li>
