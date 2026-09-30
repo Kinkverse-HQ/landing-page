@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
 import posthog from "posthog-js";
 import {
+  earlyBirdOpen,
+  LOCK_IN_BY,
   LOCKTOBER_END,
   LOCKTOBER_START,
-  TELEGRAM_BOT_HANDLE,
   TELEGRAM_BOT_URL,
 } from "../constants";
 
@@ -52,7 +53,7 @@ export function LocktoberBanner() {
   if (dismissed || (now && now >= LOCKTOBER_END)) return null;
 
   const countdown = now ? countdownTo(LOCKTOBER_START, now) : null;
-  const status = now ? (countdown ? `Starts in ${countdown}` : "Locktober is live") : null;
+  const status = now ? (countdown ? `starts in ${countdown}` : "Locktober is live") : null;
 
   const dismiss = () => {
     setDismissed(true);
@@ -73,12 +74,12 @@ export function LocktoberBanner() {
     <div className="relative bg-kv-red text-white">
       <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-center gap-x-3 gap-y-1.5 px-10 py-2 text-center sm:px-12">
         <p className="text-sm font-semibold sm:text-base">
-          🔒 Locktober is back — drop your Telegram @ for daily cagechecks.
+          🔒 Locktober 2026: 31 days locked.{earlyBirdOpen(now ?? undefined) ? ` lock in by ${LOCK_IN_BY}.` : ""}
         </p>
 
         {status && (
           <span
-            className="font-mono-label text-[10px] text-white/85 sm:text-xs"
+            className="font-mono-label hidden text-[10px] text-white/85 sm:inline sm:text-xs"
             aria-hidden="true"
           >
             {status}
@@ -91,17 +92,17 @@ export function LocktoberBanner() {
           target="_blank"
           rel="noopener noreferrer"
           onClick={trackClick}
-          className="rounded-sm border-2 border-white/80 px-3 py-1 text-xs font-semibold transition-colors hover:bg-white hover:text-kv-red focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white sm:text-sm"
+          className="border-[1.5px] border-white/80 px-3 py-1 text-xs font-semibold transition-colors hover:bg-white hover:text-kv-red focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white sm:text-sm"
         >
-          Open @{TELEGRAM_BOT_HANDLE}
+          start in Telegram
         </a>
       </div>
 
       <button
         type="button"
         onClick={dismiss}
-        aria-label="Dismiss Locktober announcement"
-        className="absolute top-1/2 right-2 flex size-8 -translate-y-1/2 items-center justify-center rounded-sm text-lg leading-none text-white/80 transition-colors hover:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white sm:right-4"
+        aria-label="dismiss the Locktober announcement"
+        className="absolute top-1/2 right-2 flex size-8 -translate-y-1/2 items-center justify-center text-lg leading-none text-white/80 transition-colors hover:text-white focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white sm:right-4"
       >
         ×
       </button>

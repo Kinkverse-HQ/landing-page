@@ -1,19 +1,23 @@
 @import "tailwindcss";
 
+/* Kinkverse design system (kinkverse repo, docs/decisions/0003-one-design-system.md).
+   Square corners, 1.5px keylines, no gradients, glows or blur. Brand red is for
+   the wordmark only: calls to action are violet. */
 @theme {
-  --color-kv-bg: #16051f;
-  --color-kv-bg-deep: #1a0824;
-  --color-kv-panel: #240b31;
-  --color-kv-red: #ff2d3f;
-  --color-kv-red-dim: #d41f30;
-  --color-kv-purple: #a33cff;
-  --color-kv-purple-bright: #c05cff;
-  --color-kv-lavender: #ead7ff;
-  --color-kv-muted: #9a7fb8;
-  --color-kv-border: #5a2a7a;
+  --color-kv-bg: #1b0e26;
+  --color-kv-bg-deep: #150a1e;
+  --color-kv-panel: #190f28;
+  --color-kv-red: #f12424;
+  --color-kv-purple: #9b00ff;
+  --color-kv-purple-dim: #7a00cc;
+  --color-kv-purple-bright: #dd9df2;
+  --color-kv-lavender: #f5f2f7;
+  --color-kv-muted: #998aa7;
+  --color-kv-border: #4a2a63;
 
   --font-display: "Permanent Marker", cursive;
-  --font-body: "Inter", system-ui, sans-serif;
+  --font-head: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --font-body: "IBM Plex Sans", system-ui, sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, monospace;
 }
 
@@ -54,52 +58,45 @@ body {
   text-transform: uppercase;
 }
 
-/* Neon card with rough purple border */
-.neon-card {
-  background: var(--color-kv-panel);
-  border: 2px solid var(--color-kv-purple);
-  box-shadow:
-    0 0 0 1px #3d1458,
-    0 0 24px rgba(163, 60, 255, 0.25),
-    4px 4px 0 rgba(163, 60, 255, 0.15);
+.font-head {
+  font-family: var(--font-head);
+  font-weight: 700;
 }
 
-.sticker-tilt {
-  transform: rotate(-1.5deg);
+/* The deliberate uppercase exceptions: section heads, labels, tags. */
+.kv-caps {
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
 }
 
-.sticker-tilt-alt {
-  transform: rotate(1deg);
-}
-
-.glow-red {
-  box-shadow: 0 0 20px rgba(255, 45, 63, 0.35);
-}
-
-.glow-purple {
-  box-shadow: 0 0 16px rgba(163, 60, 255, 0.4);
-}
-
-.chip-rough {
+.keyline {
   border: 1.5px solid var(--color-kv-border);
-  box-shadow: 2px 2px 0 rgba(90, 42, 122, 0.5);
+}
+
+.panel {
+  background: var(--color-kv-panel);
+  border: 1.5px solid var(--color-kv-border);
+}
+
+/* Folded sections: native <details>, so they open without JavaScript. */
+.fold > summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+.fold > summary::-webkit-details-marker {
+  display: none;
+}
+
+.fold > summary .fold-mark::before {
+  content: "+";
+}
+
+.fold[open] > summary .fold-mark::before {
+  content: "−";
 }
 
 .focus-ring:focus-visible {
   outline: 2px solid var(--color-kv-purple-bright);
   outline-offset: 3px;
-}
-
-/* Decorative sticker corner */
-.sticker-notch::before {
-  content: "";
-  position: absolute;
-  top: -6px;
-  right: 12px;
-  width: 28px;
-  height: 14px;
-  background: var(--color-kv-red);
-  transform: rotate(8deg);
-  opacity: 0.9;
-  border-radius: 2px;
 }
