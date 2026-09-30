@@ -10,7 +10,7 @@ Unstatic Labs is the controller for the Kinkverse account, profile, subscription
 
 Contact for support, complaints, withdrawal and privacy requests: **odoo@unstaticlabs.com**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
 
-You may use that contact for the privacy function without being a paying member. This policy covers visitors, members, game participants and people whose data reaches us in reports. The [Boutique Privacy Policy](../fr/boutique-confidentialite.md) covers orders and fulfillment; Telegram and external sign-in services have their own policies for their services.
+You may use that contact for the privacy function without being a paying member. This policy covers visitors, members, game participants and people whose data reaches us in reports. The [Boutique Privacy Policy](https://boutique.goodboys.club/fr/content/privacy-policy) covers orders and fulfillment; Telegram and external sign-in services have their own policies for their services.
 
 ## 2. The choices that matter
 

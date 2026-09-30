@@ -10,7 +10,7 @@ Unstatic Labs est responsable des traitements décrits ici pour le compte Kinkve
 
 Assistance, réclamations, rétractation et données personnelles : **odoo@unstaticlabs.com**. Téléphone : **+33 6 51 09 90 30**. Courrier : Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Indiquez le service concerné et, si disponible, votre référence de compte ou de commande, sans transmettre de coordonnées complètes de carte bancaire ni de contenu intime inutile.
 
-Ces droits ne dépendent pas d’un abonnement. Cette politique concerne visiteurs, membres, joueurs et personnes mentionnées dans un signalement. La [politique de la Boutique](boutique-confidentialite.md) couvre les commandes et leur exécution ; Telegram et les fournisseurs de connexion externes ont leurs propres politiques pour leurs services.
+Ces droits ne dépendent pas d’un abonnement. Cette politique concerne visiteurs, membres, joueurs et personnes mentionnées dans un signalement. La [politique de la Boutique](https://boutique.goodboys.club/fr/content/privacy-policy) couvre les commandes et leur exécution ; Telegram et les fournisseurs de connexion externes ont leurs propres politiques pour leurs services.
 
 ## 2. Les choix essentiels
 

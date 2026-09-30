@@ -1,4 +1,4 @@
-# Legal notice — Kinkverse and Good Boys Club
+# Legal notice — Kinkverse
 
 Version 1.1 — 30 September 2026.
 
@@ -32,9 +32,9 @@ Any future change of seller will be specifically notified under the applicable t
 
 The Privacy Policy explains the distinction between hosting, other service providers and the controller; use of a global provider is not a promise of EU-only processing.
 
-## Boutique hosting
+## Good Boys Club Boutique
 
-The Club’s Boutique is hosted by **Hetzner Online GmbH**, Industriestr. 25, 91710 Gunzenhausen, Germany, telephone **+49 (0)9831 505-0**. Its hosting arrangement is distinct from the Kinkverse infrastructure described above.
+The Club’s Boutique publishes its own [legal notice](https://boutique.goodboys.club/fr/content/mentions-legales) (in French), including its hosting.
 
 ## Legal and safety contact
 
@@ -42,8 +42,8 @@ Use the contact above for notices about illegal content, privacy, intellectual p
 
 ## Applicable documents
 
-The [Kinkverse Terms](kinkverse-terms.md), [Paid Terms](kinkverse-plus-terms.md), [Privacy Policy](kinkverse-privacy.md), [Locktober Rules](locktober-2026-rules.md) and [Stars and Treats Terms](stars-and-treats-terms.md) cover different activities. The Club’s Boutique has its own [Terms of Use](../fr/boutique-cgu.md), [Terms of Sale](../fr/boutique-cgv.md) and [Privacy Policy](../fr/boutique-confidentialite.md).
+The [Kinkverse Terms](kinkverse-terms.md), [Paid Terms](kinkverse-plus-terms.md), [Privacy Policy](kinkverse-privacy.md), [Locktober Rules](locktober-2026-rules.md) and [Stars and Treats Terms](stars-and-treats-terms.md) cover different activities. The Club’s Boutique has its own [Terms of Use](https://boutique.goodboys.club/fr/content/terms-of-use), [Terms of Sale](https://boutique.goodboys.club/fr/content/cgv) and [Privacy Policy](https://boutique.goodboys.club/fr/content/privacy-policy).
 
 ## Changes in version 1.1
 
-Hosting providers updated: kinkverse.org website, Telegram game and support, application, admin and custom domains, Boutique.
+Hosting providers updated: kinkverse.org website, Telegram game and support, application, admin and custom domains. The Boutique now publishes its own legal notice.

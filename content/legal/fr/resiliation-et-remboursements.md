@@ -2,7 +2,7 @@
 
 Version 1.1 — 30 septembre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
-Cette synthèse accompagne les [CGV Kinkverse+](kinkverse-cgv.md), les [conditions Stars et Treats](stars-et-treats.md) et les [CGV de la Boutique](boutique-cgv.md). Ces textes détaillent les situations concernées, sans réduire vos droits impératifs.
+Cette synthèse accompagne les [CGV Kinkverse+](kinkverse-cgv.md), les [conditions Stars et Treats](stars-et-treats.md) et les [CGV de la Boutique](https://boutique.goodboys.club/fr/content/cgv). Ces textes détaillent les situations concernées, sans réduire vos droits impératifs.
 
 ## Arrêter un renouvellement
 
