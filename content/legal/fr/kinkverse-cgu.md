@@ -8,7 +8,7 @@ Kinkverse est un service d’identité, de profils et de liens destiné aux adul
 
 Le service est fourni par **Unstatic Labs**, société par actions simplifiée unipersonnelle à capital variable de 1 000 €, capital minimum de 100 € ; **RCS Paris 983 982 950** ; siège social **60 rue François Ier, 75008 Paris, France** ; TVA **FR48 983 982 950**.
 
-Assistance, réclamations, rétractation et données personnelles : **odoo@unstaticlabs.com**. Téléphone : **+33 6 51 09 90 30**. Courrier : Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Indiquez le service concerné et, si disponible, votre référence de compte ou de commande, sans transmettre de coordonnées complètes de carte bancaire ni de contenu intime inutile.
+Assistance, réclamations, rétractation et données personnelles : **hello@kinkverse.org**. Téléphone : **+33 6 51 09 90 30**. Courrier : Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Indiquez le service concerné et, si disponible, votre référence de compte ou de commande, sans transmettre de coordonnées complètes de carte bancaire ni de contenu intime inutile.
 
 USL Media peut contribuer aux fonctions opérationnelles qui lui sont effectivement confiées. Cela ne change pas votre cocontractant actuel. Les [mentions légales](mentions-legales.md) identifient les sociétés et leurs rôles.
 
@@ -68,7 +68,7 @@ Les protections payantes figurent dans les CGV Kinkverse+. Un identifiant QR per
 
 ## 9. Signalements, modération et recours
 
-Tout le monde peut signaler un contenu par les fonctions du service ou à **odoo@unstaticlabs.com**, sans abonnement. Indiquez son emplacement ou identifiant, le problème et un contact lorsque pertinent. Pour une notification formelle de contenu illicite, exposez l’illicéité alléguée, les faits et votre conviction de bonne foi quant à leur exactitude. Ne retransmettez pas inutilement d’images illicites. L’anonymat est préservé lorsque la loi le permet, notamment dans les exceptions applicables aux signalements d’infractions sexuelles contre des enfants.
+Tout le monde peut signaler un contenu par les fonctions du service ou à **hello@kinkverse.org**, sans abonnement. Indiquez son emplacement ou identifiant, le problème et un contact lorsque pertinent. Pour une notification formelle de contenu illicite, exposez l’illicéité alléguée, les faits et votre conviction de bonne foi quant à leur exactitude. Ne retransmettez pas inutilement d’images illicites. L’anonymat est préservé lorsque la loi le permet, notamment dans les exceptions applicables aux signalements d’infractions sexuelles contre des enfants.
 
 Nous utilisons la détection automatisée et la revue humaine pour repérer les abus et contenus suspects. Ces outils peuvent se tromper. Les mesures comprennent avertissement, restriction de visibilité, retrait, suspension ou fermeture du compte. Nous examinons gravité, contexte, répétition, risque et droits en présence. Les risques crédibles pour les mineurs, les images intimes non consenties et les dangers immédiats sont prioritaires.
 

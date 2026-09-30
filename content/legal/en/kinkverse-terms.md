@@ -8,7 +8,7 @@ Kinkverse is an adult identity and profile service. It helps members describe th
 
 The operator and contracting party is **Unstatic Labs**, a French single-member simplified joint-stock company (*SASU à capital variable*), share capital €1,000, minimum capital €100; **RCS Paris 983 982 950**; registered office **60 rue François Ier, 75008 Paris, France**; VAT **FR48 983 982 950**.
 
-Contact for support, complaints, withdrawal and privacy requests: **odoo@unstaticlabs.com**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
+Contact for support, complaints, withdrawal and privacy requests: **hello@kinkverse.org**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
 
 USL Media may assist with functions actually delegated to it, as explained in the [Legal Notice](legal-notice.md). It does not replace your contracting party merely by assisting us.
 
@@ -70,7 +70,7 @@ Paid handle and QR protections are in the Paid Terms. A stable personal QR ident
 
 ## 9. Reports, moderation and appeals
 
-Anyone may report content through the reporting facilities made available in the service or at **odoo@unstaticlabs.com**, without buying a subscription. Give the exact location or identifier, explain the concern and provide a contact for follow-up where appropriate. For a formal illegal-content notice, identify the alleged illegality, the relevant facts and your good-faith belief that the notice is accurate. Do not forward illegal imagery unnecessarily. Anonymity is preserved where the law allows, including applicable exceptions for reports concerning sexual offences against children.
+Anyone may report content through the reporting facilities made available in the service or at **hello@kinkverse.org**, without buying a subscription. Give the exact location or identifier, explain the concern and provide a contact for follow-up where appropriate. For a formal illegal-content notice, identify the alleged illegality, the relevant facts and your good-faith belief that the notice is accurate. Do not forward illegal imagery unnecessarily. Anonymity is preserved where the law allows, including applicable exceptions for reports concerning sexual offences against children.
 
 We use automated detection and human review to identify spam, safety issues and suspected prohibited content. Automated tools can make mistakes. Measures may include warning, reduced visibility, removal, temporary restriction or account termination. We consider severity, context, repetition, risk and relevant rights. We prioritize credible risks to minors, non-consensual intimate material and immediate safety.
 

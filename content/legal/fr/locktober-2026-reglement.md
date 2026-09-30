@@ -8,7 +8,7 @@ Locktober est un **défi communautaire volontaire de 31 jours**, réservé aux a
 
 Organisateur : **Unstatic Labs**, société par actions simplifiée unipersonnelle à capital variable de 1 000 €, capital minimum de 100 € ; **RCS Paris 983 982 950** ; siège social **60 rue François Ier, 75008 Paris, France** ; TVA **FR48 983 982 950**.
 
-Assistance, réclamations, rétractation et données personnelles : **odoo@unstaticlabs.com**. Téléphone : **+33 6 51 09 90 30**. Courrier : Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Indiquez le service concerné et, si disponible, votre référence de compte ou de commande, sans transmettre de coordonnées complètes de carte bancaire ni de contenu intime inutile.
+Assistance, réclamations, rétractation et données personnelles : **hello@kinkverse.org**. Téléphone : **+33 6 51 09 90 30**. Courrier : Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Indiquez le service concerné et, si disponible, votre référence de compte ou de commande, sans transmettre de coordonnées complètes de carte bancaire ni de contenu intime inutile.
 
 Les [CGU Kinkverse](kinkverse-cgu.md), la [politique de confidentialité](kinkverse-confidentialite.md) et les [conditions Stars et Treats](stars-et-treats.md) s’appliquent également. Le programme n’est ni un service médical, ni une certification de comportement sexuel réel, ni une instruction de prendre un risque.
 
