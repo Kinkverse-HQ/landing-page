@@ -5,7 +5,7 @@ import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 import { Locktober } from "./components/Locktober";
 import { LocktoberBanner } from "./components/LocktoberBanner";
-import { MockProfileCard } from "./components/MockProfileCard";
+import { HeroProfile } from "./components/HeroProfile";
 import { Section } from "./components/Section";
 
 // Audience names come from the app's shared vocabulary (packages/tag-visibility).
@@ -60,7 +60,7 @@ export default function App() {
               </p>
             </div>
             <div className="flex justify-center lg:justify-end">
-              <MockProfileCard />
+              <HeroProfile />
             </div>
           </div>
         </Section>
