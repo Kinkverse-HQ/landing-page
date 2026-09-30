@@ -3,12 +3,12 @@ import { Chip } from "./Chip";
 export function MockProfileCard() {
   return (
     <div
-      className="neon-card sticker-notch relative w-full max-w-sm rounded-sm p-4 sticker-tilt sm:p-5"
+      className="panel relative w-full max-w-sm p-4 sm:p-5"
       aria-hidden="true"
     >
       <div className="mb-3 flex items-start gap-3">
         <div
-          className="h-16 w-16 shrink-0 rounded-sm border-2 border-kv-purple bg-kv-bg-deep"
+          className="h-16 w-16 shrink-0 border-[1.5px] border-kv-purple bg-kv-bg-deep"
           role="presentation"
         >
           <svg
@@ -22,13 +22,13 @@ export function MockProfileCard() {
         </div>
         <div className="min-w-0 flex-1">
           <p className="font-mono-label text-[10px] text-kv-muted">handle</p>
-          <a className="font-display truncate text-lg text-kv-lavender sm:text-xl" href="https://subboyforhung.members.goodboys.club/">
+          <a className="font-head truncate text-xl text-kv-lavender sm:text-xl" href="https://subboyforhung.members.goodboys.club/">
             @subboyforhung
             <br />
             .members.goodboys.club
           </a>
      
-          <span className="font-mono-label mt-1 inline-block rounded-sm border border-kv-red/50 bg-kv-red/10 px-2 py-0.5 text-[9px] text-kv-red">
+          <span className="font-mono-label mt-1 inline-block border border-kv-purple bg-kv-purple/15 px-2 py-0.5 text-[9px] text-kv-purple-bright">
             Public preview
           </span>
         </div>
@@ -48,7 +48,7 @@ export function MockProfileCard() {
           {["X", "Bluesky", "Instagram"].map((link) => (
             <span
               key={link}
-              className="font-mono-label rounded-sm border border-kv-border bg-kv-bg px-2 py-1 text-[10px] text-kv-lavender chip-rough"
+              className="font-mono-label border-[1.5px] border-kv-border bg-kv-bg px-2 py-1 text-[10px] text-kv-lavender"
             >
               {link}
             </span>
@@ -59,16 +59,12 @@ export function MockProfileCard() {
       <div>
         <p className="font-mono-label mb-1.5 text-[9px] text-kv-muted">badges</p>
         <div className="flex flex-wrap gap-1.5">
-          <Chip label="Verified link" variant="accent" />
+          <Chip label="Locktober 2026" variant="accent" />
           <Chip label="Early profile" />
           <Chip label="Private by default" variant="muted" />
         </div>
       </div>
 
-      <div
-        className="absolute -bottom-2 -right-2 h-8 w-8 rounded-sm bg-kv-red opacity-80"
-        aria-hidden="true"
-      />
     </div>
   );
 }

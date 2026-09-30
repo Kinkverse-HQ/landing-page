@@ -1,8 +1,28 @@
-import { APP_URL, LEGAL_URL, PRIVACY_URL, TERMS_URL } from "../constants";
+import {
+  APP_URL,
+  BLUESKY_URL,
+  COMMUNITY_URL,
+  CONTACT_EMAIL,
+  LEGAL_URL,
+  LOCKTOBER_RULES_URL,
+  PRIVACY_URL,
+  TERMS_URL,
+} from "../constants";
+
+const LINKS = [
+  { href: APP_URL, label: "open the app", external: true },
+  { href: COMMUNITY_URL, label: "community", external: true },
+  { href: BLUESKY_URL, label: "Bluesky", external: true },
+  { href: LOCKTOBER_RULES_URL, label: "Locktober rules", external: false },
+  { href: PRIVACY_URL, label: "privacy", external: false },
+  { href: TERMS_URL, label: "terms", external: false },
+  { href: LEGAL_URL, label: "legal", external: false },
+  { href: `mailto:${CONTACT_EMAIL}`, label: "contact", external: false },
+] as const;
 
 export function Footer() {
   return (
-    <footer className="border-t border-kv-border/60 px-4 py-10 sm:px-6 lg:px-8">
+    <footer className="border-t-[1.5px] border-kv-border px-4 py-10 sm:px-6 lg:px-8">
       <div className="mx-auto flex max-w-6xl flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
         <div>
           <p className="font-display text-lg text-kv-lavender">Kinkverse</p>
@@ -10,48 +30,17 @@ export function Footer() {
         </div>
         <nav aria-label="Footer">
           <ul className="flex flex-wrap gap-x-5 gap-y-2 text-sm">
-            <li>
-              <a
-                href={APP_URL}
-                className="text-kv-lavender/90 underline-offset-2 hover:text-kv-purple-bright hover:underline focus-ring rounded-sm"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Open app
-              </a>
-            </li>
-            <li>
-              <a
-                href={PRIVACY_URL}
-                className="text-kv-muted underline-offset-2 hover:text-kv-lavender hover:underline focus-ring rounded-sm"
-              >
-                Privacy
-              </a>
-            </li>
-            <li>
-              <a
-                href={TERMS_URL}
-                className="text-kv-muted underline-offset-2 hover:text-kv-lavender hover:underline focus-ring rounded-sm"
-              >
-                Terms
-              </a>
-            </li>
-            <li>
-              <a
-                href={LEGAL_URL}
-                className="text-kv-muted/80 underline-offset-2 hover:text-kv-lavender hover:underline focus-ring rounded-sm"
-              >
-                Legal
-              </a>
-            </li>
-            <li>
-              <a
-                href={`https://www.instagram.com/goodboysobey/`}
-                className="text-kv-muted underline-offset-2 hover:text-kv-lavender hover:underline focus-ring rounded-sm"
-              >
-                Contact
-              </a>
-            </li>
+            {LINKS.map((link) => (
+              <li key={link.label}>
+                <a
+                  href={link.href}
+                  className="focus-ring text-kv-muted underline-offset-2 hover:text-kv-lavender hover:underline"
+                  {...(link.external ? { target: "_blank", rel: "noopener noreferrer" } : {})}
+                >
+                  {link.label}
+                </a>
+              </li>
+            ))}
           </ul>
         </nav>
       </div>
