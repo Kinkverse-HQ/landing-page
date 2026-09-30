@@ -1,0 +1,49 @@
+# Legal notice — Kinkverse and Good Boys Club
+
+Version 1.1 — 30 September 2026.
+
+## Publisher and current seller
+
+**Unstatic Labs**, a French single-member simplified joint-stock company (*SASU à capital variable*), share capital €1,000, minimum capital €100; **RCS Paris 983 982 950**; registered office **60 rue François Ier, 75008 Paris, France**; VAT **FR48 983 982 950**.
+
+SIRET: **983 982 950 00021**. Publication director: **Valentin Viennot**, President.
+
+Contact for support, complaints, withdrawal and privacy requests: **odoo@unstaticlabs.com**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
+
+Kinkverse, Kinkverse+, Good Boys Club and Good Boys Obey are service or trading names. Under this version, **Unstatic Labs is the contracting professional and seller** for Kinkverse+, internal Stars and orders from the Club’s Boutique. A service name, bank-statement descriptor or subcontractor is not a different seller.
+
+## Group company
+
+**USL Media**, French SAS, **SIREN 106 928 831**, registered office **10 rue de Penthièvre, 75008 Paris, France**, VAT **FR36 106 928 831**, is a wholly owned group company.
+
+USL Media may support community operations, moderation, customer support or commercial operations as those functions are actually entrusted to it. Unstatic Labs remains responsible to its customers for the contracts it concludes, including when another group company helps perform them. Unstatic Labs also provides technology, intellectual property and infrastructure. This notice does not state that USL Media has already replaced Unstatic Labs as seller or data controller.
+
+Any future change of seller will be specifically notified under the applicable transfer clause. The seller, checkout, invoices, refund responsibility and approved payment arrangements must identify the same actual transaction structure.
+
+## Technical hosting
+
+**The kinkverse.org website.** The showcase site is hosted by **GitHub, Inc.** (GitHub Pages), 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, United States.
+
+**Telegram game and support.** The Telegram game, its database and the support desk (Chatwoot) are hosted by **Hetzner Online GmbH**, Industriestr. 25, 91710 Gunzenhausen, Germany; telephone **+49 (0)9831 505-0**; the servers are located in Nuremberg, Germany.
+
+**Kinkverse application.** The Kinkverse delivery infrastructure uses **Cloudflare, Inc.**, 101 Townsend Street, San Francisco, CA 94107, United States; telephone **+1 650 319 8930**. Database and authentication services use **Supabase** (SUPABASE PTE. LTD., 65 Chulia Street #38-02/03, OCBC Centre, Singapore 049513).
+
+**Kinkverse admin and custom profile domains.** They are hosted by **Hostinger International Limited**, 61 Lordou Vironos str., 6023 Larnaca, Cyprus, on servers located in Paris, France.
+
+The Privacy Policy explains the distinction between hosting, other service providers and the controller; use of a global provider is not a promise of EU-only processing.
+
+## Boutique hosting
+
+The Club’s Boutique is hosted by **Hetzner Online GmbH**, Industriestr. 25, 91710 Gunzenhausen, Germany, telephone **+49 (0)9831 505-0**. Its hosting arrangement is distinct from the Kinkverse infrastructure described above.
+
+## Legal and safety contact
+
+Use the contact above for notices about illegal content, privacy, intellectual property or other legal concerns. Identify the content or transaction precisely and describe the issue. Reports can be made without an account, including by people who are not eligible to use the adult community. French and English are accepted. This is not an emergency response service.
+
+## Applicable documents
+
+The [Kinkverse Terms](kinkverse-terms.md), [Paid Terms](kinkverse-plus-terms.md), [Privacy Policy](kinkverse-privacy.md), [Locktober Rules](locktober-2026-rules.md) and [Stars and Treats Terms](stars-and-treats-terms.md) cover different activities. The Club’s Boutique has its own [Terms of Use](../fr/boutique-cgu.md), [Terms of Sale](../fr/boutique-cgv.md) and [Privacy Policy](../fr/boutique-confidentialite.md).
+
+## Changes in version 1.1
+
+Hosting providers updated: kinkverse.org website, Telegram game and support, application, admin and custom domains, Boutique.
