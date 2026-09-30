@@ -68,7 +68,7 @@ Before publishing a sensitive field or using game evidence, the interface explai
 
 **Staff and delegated operators.** Access is limited to support, security, moderation, technical operations and legal duties, with confidentiality and appropriate authorization. Private or restricted does not mean “invisible to the operator.” Access to particularly sensitive content must be justified and auditable, not unrestricted browsing. Reports about you may be assessed subject to protection of other people’s rights and confidentiality.
 
-**Service providers.** Relevant categories include database and authentication providers (including Supabase), hosting, network and storage (including Cloudflare), payments (including Stripe where offered), optional product analytics and feature delivery (including PostHog), limited error monitoring (including Sentry), email delivery, operational record systems and professional advisers. The providers actually used include: Telegram (game and sign-in); Hetzner Online GmbH (hosting of the Telegram game, its database and the support desk); Hostinger (admin and custom domains); Chatwoot (support); a support and email management tool; GitHub (static hosting of kinkverse.org); and Resend (transactional email delivery). Each receives only what its function requires. A provider can be our processor for one activity and an independent controller for another; payment fraud, regulated payment processing and external sign-in are not all controlled exclusively by us.
+**Service providers.** We use providers by category: hosting and infrastructure, database and authentication, email delivery, customer support, optional audience measurement, error diagnostics and payment (including Stripe where offered). Telegram is involved for the game and sign-in. Each receives only what its function requires. A provider can be our processor for one activity and an independent controller for another; payment fraud, regulated payment processing and external sign-in are not all controlled exclusively by us.
 
 **Telegram.** Choosing the Telegram game sends relevant account-linking information, messages and submitted media through Telegram and our bot integration. Telegram operates its own platform and payment system. Bot/cloud conversations are not represented as end-to-end encrypted. Your Telegram settings and participation in a group may expose information to other group members. Do not post private evidence in a public group.
 
@@ -138,4 +138,4 @@ Material policy changes are brought to your attention. A policy update cannot it
 
 ## Changes in version 1.1
 
-List of providers actually used completed (section 6).
+Hosting and service-provider information simplified.

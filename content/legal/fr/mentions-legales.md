@@ -20,17 +20,15 @@ USL Media peut participer aux opérations communautaires, à la modération, à 
 
 Tout changement futur de vendeur fait l’objet de l’information spécifique prévue par les conditions applicables. Le vendeur, le parcours de paiement, les factures, les remboursements et les modalités d’encaissement autorisées doivent décrire la même organisation réelle.
 
-## Hébergement technique
+## Hébergement
 
-**Site kinkverse.org.** Le site vitrine est hébergé par **GitHub, Inc.** (GitHub Pages), 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis.
+Les services Kinkverse sont hébergés par :
 
-**Jeu Telegram et assistance.** Le jeu Telegram, sa base de données et le service d’assistance (Chatwoot) sont hébergés par **Hetzner Online GmbH**, Industriestr. 25, 91710 Gunzenhausen, Allemagne ; téléphone **+49 (0)9831 505-0** ; les serveurs sont situés à Nuremberg, Allemagne.
-
-**Application Kinkverse.** L’infrastructure de diffusion de Kinkverse utilise **Cloudflare, Inc.**, 101 Townsend Street, San Francisco, CA 94107, États-Unis ; téléphone **+1 650 319 8930**. La base de données et l’authentification utilisent **Supabase** (SUPABASE PTE. LTD., 65 Chulia Street #38-02/03, OCBC Centre, Singapour 049513).
-
-**Administration Kinkverse et domaines personnalisés de profil.** Ils sont hébergés par **Hostinger International Limited**, 61 Lordou Vironos str., 6023 Larnaca, Chypre, sur des serveurs situés à Paris, France.
-
-La politique de confidentialité distingue hébergeur, autres prestataires et responsable du traitement. L’utilisation d’un prestataire mondial n’implique pas un traitement exclusivement européen.
+- **GitHub, Inc.**, 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis ;
+- **Cloudflare, Inc.**, 101 Townsend Street, San Francisco, CA 94107, États-Unis ; téléphone **+1 650 319 8930** ;
+- **SUPABASE PTE. LTD.**, 65 Chulia Street #38-02/03, OCBC Centre, Singapour 049513 ;
+- **Hetzner Online GmbH**, Industriestr. 25, 91710 Gunzenhausen, Allemagne ; téléphone **+49 (0)9831 505-0** ;
+- **Hostinger International Limited**, 61 Lordou Vironos str., 6023 Larnaca, Chypre.
 
 ## Boutique du Good Boys Club
 
@@ -46,4 +44,4 @@ Les [CGU Kinkverse](kinkverse-cgu.md), [CGV Kinkverse+](kinkverse-cgv.md), [poli
 
 ## Changements de la version 1.1
 
-Hébergeurs mis à jour : site kinkverse.org, jeu Telegram et assistance, application, administration et domaines personnalisés. La Boutique publie désormais ses propres mentions légales.
+Informations d’hébergement simplifiées. La Boutique publie désormais ses propres mentions légales.
