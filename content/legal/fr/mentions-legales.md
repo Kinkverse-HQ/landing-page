@@ -1,4 +1,4 @@
-# Mentions légales — Kinkverse et Good Boys Club
+# Mentions légales — Kinkverse
 
 Version 1.1 — 30 septembre 2026.
 
@@ -32,9 +32,9 @@ Tout changement futur de vendeur fait l’objet de l’information spécifique p
 
 La politique de confidentialité distingue hébergeur, autres prestataires et responsable du traitement. L’utilisation d’un prestataire mondial n’implique pas un traitement exclusivement européen.
 
-## Hébergement de la Boutique
+## Boutique du Good Boys Club
 
-La Boutique du Club est hébergée par **Hetzner Online GmbH**, Industriestr. 25, 91710 Gunzenhausen, Allemagne, téléphone **+49 (0)9831 505-0**. Cet hébergement est distinct de la description d’infrastructure Kinkverse ci-dessus.
+La Boutique du Club publie ses propres [mentions légales](https://boutique.goodboys.club/fr/content/mentions-legales), dont son hébergement.
 
 ## Signalements et contact juridique
 
@@ -42,8 +42,8 @@ Les coordonnées ci-dessus permettent de signaler un contenu illicite, une attei
 
 ## Documents applicables
 
-Les [CGU Kinkverse](kinkverse-cgu.md), [CGV Kinkverse+](kinkverse-cgv.md), [politique de confidentialité](kinkverse-confidentialite.md), [règlement Locktober](locktober-2026-reglement.md) et [conditions Stars et Treats](stars-et-treats.md) régissent des activités distinctes. La Boutique du Club possède ses propres [CGU](boutique-cgu.md), [CGV](boutique-cgv.md) et [politique de confidentialité](boutique-confidentialite.md).
+Les [CGU Kinkverse](kinkverse-cgu.md), [CGV Kinkverse+](kinkverse-cgv.md), [politique de confidentialité](kinkverse-confidentialite.md), [règlement Locktober](locktober-2026-reglement.md) et [conditions Stars et Treats](stars-et-treats.md) régissent des activités distinctes. La Boutique du Club possède ses propres [CGU](https://boutique.goodboys.club/fr/content/terms-of-use), [CGV](https://boutique.goodboys.club/fr/content/cgv) et [politique de confidentialité](https://boutique.goodboys.club/fr/content/privacy-policy).
 
 ## Changements de la version 1.1
 
-Hébergeurs mis à jour : site kinkverse.org, jeu Telegram et assistance, application, administration et domaines personnalisés, Boutique.
+Hébergeurs mis à jour : site kinkverse.org, jeu Telegram et assistance, application, administration et domaines personnalisés. La Boutique publie désormais ses propres mentions légales.

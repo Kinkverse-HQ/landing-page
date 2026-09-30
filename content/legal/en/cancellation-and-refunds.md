@@ -2,7 +2,7 @@
 
 Version 1.1 — 30 September 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
-This page explains the routes available under the [Paid Terms](kinkverse-plus-terms.md), [Stars and Treats Terms](stars-and-treats-terms.md) and [Boutique Terms of Sale](../fr/boutique-cgv.md). It does not reduce any of those rights.
+This page explains the routes available under the [Paid Terms](kinkverse-plus-terms.md), [Stars and Treats Terms](stars-and-treats-terms.md) and [Boutique Terms of Sale](https://boutique.goodboys.club/fr/content/cgv). It does not reduce any of those rights.
 
 ## Cancel a subscription renewal
 

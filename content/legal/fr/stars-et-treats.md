@@ -12,7 +12,7 @@ L’émetteur et vendeur actuel des Stars, également opérateur du programme Tr
 
 Assistance, réclamations, rétractation et données personnelles : **odoo@unstaticlabs.com**. Téléphone : **+33 6 51 09 90 30**. Courrier : Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. Indiquez le service concerné et, si disponible, votre référence de compte ou de commande, sans transmettre de coordonnées complètes de carte bancaire ni de contenu intime inutile.
 
-Les [CGU Kinkverse](kinkverse-cgu.md), le [règlement du jeu](locktober-2026-reglement.md) et les [CGV de la Boutique](boutique-cgv.md) s’appliquent à leurs activités. Ces conditions prévalent pour émission, cadeaux, conversion et soldes ; les CGV de la Boutique régissent vente de produits, livraison, retours et garanties.
+Les [CGU Kinkverse](kinkverse-cgu.md), le [règlement du jeu](locktober-2026-reglement.md) et les [CGV de la Boutique](https://boutique.goodboys.club/fr/content/cgv) s’appliquent à leurs activités. Ces conditions prévalent pour émission, cadeaux, conversion et soldes ; les CGV de la Boutique régissent vente de produits, livraison, retours et garanties.
 
 ## 2. Éligibilité et limites
 

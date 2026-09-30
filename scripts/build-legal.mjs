@@ -15,7 +15,7 @@ const SITE = "https://kinkverse.org";
 /** Pack order = index order. `pair` is the slug of the other language's version of the same document. */
 const DOCS = [
   { lang: "fr", slug: "mentions-legales", pair: "legal-notice", group: "kinkverse",
-    desc: "Éditeur, vendeur, hébergeurs et contact juridique de Kinkverse et du Good Boys Club." },
+    desc: "Éditeur, vendeur, hébergeurs et contact juridique de Kinkverse." },
   { lang: "fr", slug: "kinkverse-cgu", pair: "kinkverse-terms", group: "kinkverse",
     desc: "Conditions générales d’utilisation et règles de la communauté Kinkverse." },
   { lang: "fr", slug: "kinkverse-cgv", pair: "kinkverse-plus-terms", group: "kinkverse",
@@ -28,14 +28,8 @@ const DOCS = [
     desc: "Règlement de participation au défi Locktober 2026." },
   { lang: "fr", slug: "stars-et-treats", pair: "stars-and-treats-terms", group: "kinkverse",
     desc: "Conditions économiques et de fidélité des Stars et des Good Boy Treats." },
-  { lang: "fr", slug: "boutique-cgu", pair: null, group: "boutique",
-    desc: "Conditions générales d’utilisation de la Boutique du Good Boys Club." },
-  { lang: "fr", slug: "boutique-cgv", pair: null, group: "boutique",
-    desc: "Conditions générales de vente de la Boutique du Good Boys Club." },
-  { lang: "fr", slug: "boutique-confidentialite", pair: null, group: "boutique",
-    desc: "Politique de confidentialité de la Boutique du Good Boys Club." },
   { lang: "en", slug: "legal-notice", pair: "mentions-legales", group: "kinkverse",
-    desc: "Publisher, seller, hosting providers and legal contact for Kinkverse and the Good Boys Club." },
+    desc: "Publisher, seller, hosting providers and legal contact for Kinkverse." },
   { lang: "en", slug: "kinkverse-terms", pair: "kinkverse-cgu", group: "kinkverse",
     desc: "Terms of use and community rules for Kinkverse." },
   { lang: "en", slug: "kinkverse-plus-terms", pair: "kinkverse-cgv", group: "kinkverse",
@@ -195,11 +189,11 @@ const indexInner = `<div class="wrap">
 <div class="cols">
 <section lang="fr" aria-labelledby="fr-h"><h2 id="fr-h">Français</h2>
 <h3>Kinkverse</h3>${list("fr", "kinkverse")}
-<h3>Boutique Good Boys Club</h3>${list("fr", "boutique")}
+<p class="note">Documents de la Boutique du Good Boys Club : <a href="https://boutique.goodboys.club/fr/content/cgv">boutique.goodboys.club</a>.</p>
 </section>
 <section lang="en" aria-labelledby="en-h"><h2 id="en-h">English</h2>
 <h3>Kinkverse</h3>${list("en", "kinkverse")}
-<p class="note">The Good Boys Club Boutique documents are published in French only.</p>
+<p class="note">Good Boys Club Boutique documents: <a href="https://boutique.goodboys.club/fr/content/cgv">boutique.goodboys.club</a>.</p>
 </section>
 </div></div>`;
 writePage("legal", head("en", "Legal documents · Documents juridiques — Kinkverse",

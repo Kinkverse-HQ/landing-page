@@ -12,7 +12,7 @@ The issuer and current seller of internal Stars, and the operator of the Treats 
 
 Contact for support, complaints, withdrawal and privacy requests: **odoo@unstaticlabs.com**. Telephone: **+33 6 51 09 90 30**. Postal correspondence: Unstatic Labs, chez LegalPlace, 60 rue François Ier, 75008 Paris, France. State the relevant service and, where available, your account or order reference; do not send payment-card details or unnecessary intimate material.
 
-The [Kinkverse Terms](kinkverse-terms.md), the applicable [game rules](locktober-2026-rules.md) and the [Boutique Terms of Sale](../fr/boutique-cgv.md) apply to their respective activities. These terms take priority on Stars issuance, gifting, conversion and loyalty balances; the Boutique terms govern the actual product sale, delivery, return and product guarantees.
+The [Kinkverse Terms](kinkverse-terms.md), the applicable [game rules](locktober-2026-rules.md) and the [Boutique Terms of Sale](https://boutique.goodboys.club/fr/content/cgv) apply to their respective activities. These terms take priority on Stars issuance, gifting, conversion and loyalty balances; the Boutique terms govern the actual product sale, delivery, return and product guarantees.
 
 ## 2. Eligibility and limits
 
