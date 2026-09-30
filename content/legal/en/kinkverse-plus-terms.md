@@ -105,7 +105,7 @@ The statutory French notice below forms part of these terms. Nothing excludes no
 
 We may transfer this contract to USL Media or another group company dedicated to Kinkverse, or to a successor taking over the relevant service, only if the transfer does not reduce your rights, practical remedies or the security of performance. You give advance agreement only to a transfer meeting these conditions. We will record the transfer in writing and notify you on a durable medium, identifying the successor, effective date, contacts and any payment changes. Except where an urgent legal requirement prevents it, notice will be at least 30 days in advance.
 
-The successor must preserve your acquired price for the same subscription, paid period, protected handle and QR rights, balances, earned rewards, completion rights, cancellation rights and remedies. Transfer alone is not a reason to reset them. It does not authorize new data purposes, broader audiences or a new payment mandate. We remain responsible for obligations and liabilities that the law leaves with us; this clause is not an express release of Unstatic Labs under Article 1216-1 of the French Civil Code. Where additional agreement is legally required, we will obtain it. You may instead end the affected ongoing paid service before transfer and receive the unused prepaid portion, without waiving other mandatory rights.
+The successor must preserve your acquired price for the same subscription, paid period, protected handle and QR rights, balances, earned rewards, completion badge rights, cancellation rights and remedies. Transfer alone is not a reason to reset them. It does not authorize new data purposes, broader audiences or a new payment mandate. We remain responsible for obligations and liabilities that the law leaves with us; this clause is not an express release of Unstatic Labs under Article 1216-1 of the French Civil Code. Where additional agreement is legally required, we will obtain it. You may instead end the affected ongoing paid service before transfer and receive the unused prepaid portion, without waiving other mandatory rights.
 
 We keep records of the version and offer accepted. Material changes are notified before applying and do not retrospectively reduce existing price, earned rights or completed orders. Where a new agreement is needed, we obtain it rather than assuming silence is sufficient.
 
@@ -198,4 +198,4 @@ Lorsque le professionnel n'a pas procédé au remboursement dans les conditions 
 
 ## Changes in version 1.1
 
-Consumer mediation: the membership in progress is stated, pending its contact details.
+Consumer mediation: the membership in progress is stated, pending its contact details. Transfer: the preserved rights refer to the completion badge.

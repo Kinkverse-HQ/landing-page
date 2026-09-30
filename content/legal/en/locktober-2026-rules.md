@@ -44,7 +44,7 @@ A missed day without a usable freeze interrupts the completion run. A restart ca
 
 Participation remains voluntary throughout. Never continue a practice because of a countdown, a score, invested Stars or pressure from another player. Stop when needed for safety or consent, and seek appropriate help. The programme does not control your body, equipment or a third party’s choices. No badge, reward or submission requires an unsafe act.
 
-The evidence shows the chastity device being worn, framed as closely as possible, with no erection, sex act or body part other than the one requested. Any pornographic or sexually explicit image is prohibited, including in private check-ins. Use only the compliant, non-explicit form of evidence requested. Do not include another identifiable person without their informed authorization; do not include minors. A content filter or Plus entitlement does not override this rule. If an instruction cannot be met without prohibited or unsafe content, report it rather than complying.
+The evidence follows the instruction shown. No sex act and no content beyond what the instruction asks for. Any pornographic image is prohibited, including in private check-ins. Use only the evidence requested. Do not include another identifiable person without their informed authorization; do not include minors. A content filter or Plus entitlement does not override this rule. If an instruction cannot be met without prohibited or unsafe content, report it rather than complying.
 
 You authorize the necessary sharing of a submitted check-in with assigned peer reviewers and authorized operators through the specific participation consent. It is not authorization for public posting, promotional reuse or permanent access to your profile. Do not send raw evidence to public social networks to obtain support.
 
@@ -84,9 +84,9 @@ Apart from the prize weeks described below, there is no guaranteed physical priz
 - **Eligibility.** Your run must be in progress (neither completed nor withdrawn), your profile must be visible on the leaderboard, your score in the window must be above zero, and you must not already have won a prize week this season: a member can win only once.
 - **Score counted.** The score of section 8, limited to the window: 100 points per approved day and 1 point per Treat obtained through a mission during that week.
 - **Selection.** The highest eligible score of the week is proposed to the operator, who confirms and marks the winner after the week has ended, with a recorded reason. The prize itself is allocated by hand, outside the game.
-- **Ties.** Equal scores share the same rank. No further tie-break rule is set at present: in a tie for first place, the operator chooses the winner.
+- **Ties.** Equal scores share the same rank. In a tie for first place, the member with the most approved days during the week wins, then the member who enrolled first.
 - **Announcement.** The winner receives a message in the bot. A message is also sent to users who have started the bot, naming the winner if their profile is visible, otherwise referring to a member who keeps their profile private.
-- **Prize.** A brand-new KINK3D cage of the winner’s choice, according to the game guide. The prize is shipped to the address the winner provides. No cash alternative is promised.
+- **Prize.** A brand-new KINK3D cage of the winner’s choice, according to the game guide. The prize is shipped to the address the winner provides. The winner has **14 days** from the announcement to provide a delivery address; after that, the prize goes to the next eligible member. No cash alternative is promised.
 
 Any other leaderboard promotion, repost campaign or partner gift will have **separate rules before entry**, identifying eligibility, dates, territories, selection, tie-breaking, prize and fulfillment. A discussion, teaser or possible partnership does not establish that a promotion has opened. Once a promotion is actually offered, its specific commitments cannot be cancelled merely by relying on this paragraph.
 

@@ -44,7 +44,7 @@ Une journée manquée sans freeze utilisable interrompt le parcours d’achèvem
 
 La participation reste volontaire. Ne poursuivez jamais une pratique pour un compteur, un classement, des Stars engagées ou sous la pression d’un tiers. Arrêtez lorsque votre sécurité ou votre consentement l’exige et recherchez une aide adaptée. Le programme ne contrôle pas votre corps, vos équipements ou les choix d’un tiers. Aucun badge, gain ou envoi ne requiert une pratique dangereuse.
 
-La preuve montre le dispositif de chasteté porté, cadré au plus près, sans érection, acte sexuel ni autre partie du corps que celle demandée. Toute image pornographique ou sexuellement explicite est interdite, y compris dans les validations privées. Utilisez uniquement la preuve conforme et non explicite demandée. N’incluez aucun mineur et aucun autre adulte identifiable sans autorisation éclairée. Un filtre ou l’abonnement Plus ne déroge pas à cette règle. Signalez une consigne impossible à exécuter sans danger ou contenu interdit plutôt que de vous y conformer.
+La preuve suit la consigne affichée. Aucun acte sexuel ni contenu allant au-delà de ce que la consigne demande. Toute image pornographique est interdite, y compris dans les validations privées. Utilisez uniquement la preuve demandée. N’incluez aucun mineur et aucun autre adulte identifiable sans autorisation éclairée. Un filtre ou l’abonnement Plus ne déroge pas à cette règle. Signalez une consigne impossible à exécuter sans danger ou contenu interdit plutôt que de vous y conformer.
 
 Un consentement de participation spécifique autorise la communication nécessaire de votre preuve aux reviewers attribués et opérateurs autorisés. Il n’autorise ni publication, ni réutilisation promotionnelle, ni accès permanent au profil. N’envoyez pas de preuve intime sur un réseau public pour obtenir de l’assistance.
 
@@ -84,9 +84,9 @@ Hors les semaines à lot décrites ci-dessous, ce règlement ne garantit aucun l
 - **Éligibilité.** Vous devez avoir un parcours en cours (ni terminé ni retiré), un profil visible au classement et un score supérieur à zéro dans la fenêtre, et ne pas avoir déjà remporté une semaine à lot cette saison : on ne peut gagner qu’une fois.
 - **Score compté.** Celui de l’article 8, limité à la fenêtre : 100 points par journée approuvée et 1 point par Treat obtenue en mission dans cette semaine.
 - **Désignation.** Le meilleur score éligible de la semaine est proposé à l’opérateur, qui confirme et marque le gagnant après la fin de la semaine, avec un motif enregistré. Le lot lui-même est attribué à la main, hors du jeu.
-- **Égalités.** Les scores égaux partagent le même rang. Aucune règle de départage supplémentaire n’est fixée à ce jour : en cas d’égalité pour la première place, l’opérateur désigne le gagnant.
+- **Égalités.** Les scores égaux partagent le même rang. En cas d’égalité pour la première place, l’emporte le membre qui compte le plus de journées approuvées pendant la semaine, puis celui qui s’est inscrit le premier.
 - **Annonce.** Le gagnant reçoit un message dans le bot. Un message est aussi envoyé aux utilisateurs du bot qui l’ont démarré, avec le nom du gagnant si son profil est visible, sinon la mention d’un membre qui garde son profil privé.
-- **Lot.** Une cage KINK3D neuve, au choix du gagnant, selon le guide du jeu. Le lot est expédié à l’adresse communiquée par le gagnant. Aucune contrepartie en argent n’est promise.
+- **Lot.** Une cage KINK3D neuve, au choix du gagnant, selon le guide du jeu. Le lot est expédié à l’adresse communiquée par le gagnant. Le gagnant dispose de **14 jours** à compter de l’annonce pour communiquer une adresse de livraison ; passé ce délai, le lot revient au membre éligible suivant. Aucune contrepartie en argent n’est promise.
 
 Toute autre promotion de classement, campagne de repartage ou cadeau de partenaire dispose de **règles séparées avant l’ouverture** : éligibilité, dates, territoires, sélection, égalités, lot et exécution. Une discussion, annonce exploratoire ou possibilité de partenariat n’ouvre pas une promotion. Les engagements d’une promotion réellement proposée restent opposables.
 

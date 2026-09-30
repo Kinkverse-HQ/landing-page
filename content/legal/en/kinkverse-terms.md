@@ -96,7 +96,7 @@ We do not guarantee operation of independent external services, but that does no
 
 We may transfer this contract to USL Media or another group company dedicated to Kinkverse, or to a successor taking over the relevant service, only if the transfer does not reduce your rights, practical remedies or the security of performance. You give advance agreement only to a transfer meeting these conditions. We will record the transfer in writing and notify you on a durable medium, identifying the successor, effective date, contacts and any payment changes. Except where an urgent legal requirement prevents it, notice will be at least 30 days in advance.
 
-The successor must preserve your acquired price for the same subscription, paid period, protected handle and QR rights, balances, earned rewards, completion rights, cancellation rights and remedies. Transfer alone is not a reason to reset them. It does not authorize new data purposes, broader audiences or a new payment mandate. We remain responsible for obligations and liabilities that the law leaves with us; this clause is not an express release of Unstatic Labs under Article 1216-1 of the French Civil Code. Where additional agreement is legally required, we will obtain it. You may instead end the affected ongoing paid service before transfer and receive the unused prepaid portion, without waiving other mandatory rights.
+The successor must preserve your acquired price for the same subscription, paid period, protected handle and QR rights, balances, earned rewards, completion badge rights, cancellation rights and remedies. Transfer alone is not a reason to reset them. It does not authorize new data purposes, broader audiences or a new payment mandate. We remain responsible for obligations and liabilities that the law leaves with us; this clause is not an express release of Unstatic Labs under Article 1216-1 of the French Civil Code. Where additional agreement is legally required, we will obtain it. You may instead end the affected ongoing paid service before transfer and receive the unused prepaid portion, without waiving other mandatory rights.
 
 Material contractual changes are notified before application. A new privacy purpose requiring consent is not authorized by continued use. Changes do not retrospectively alter earned rewards or promises in existing orders. The Paid Terms address changes affecting subscriptions.
 
@@ -106,4 +106,4 @@ Commercial complaints and consumer mediation are covered in the Paid Terms. Priv
 
 ## Changes in version 1.1
 
-No substantive change; the version number is aligned with the other documents.
+Section 12: the rights preserved on a transfer refer to the completion badge (there is no completion conversion this season). Version number aligned with the other documents.
