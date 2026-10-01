@@ -92,12 +92,12 @@ Apart from the prizes described below, there is no guaranteed physical prize, pa
 - **Selection.** The winner is designated after the week has ended, based on the highest eligible score and then the tie-break below. The prize itself is allocated by hand, outside the game.
 - **Ties.** On equal scores, the member who reached that score first during the week wins.
 - **Announcement.** The winner receives a message in the bot. A message is also sent to users who have started the bot, naming the winner if their profile is visible, otherwise referring to a member who keeps their profile private.
-- **Prize.** A $50 KINK3D gift card. The code is sent to the winner in the bot within 7 days of the announcement. No cash alternative is promised.
+- **Prize.** A US$50 KINK3D gift card. The code is sent to the winner in the bot within 7 days of the announcement. No cash alternative is promised.
 
 ### Season #1
 
 - **Who wins.** The member ranked #1 on the leaderboard at 15 November 2026 23:59, Paris time.
-- **Eligibility.** Your profile is visible on the leaderboard, you have at least 7 days played, and your run was not withdrawn or removed. A member who also won a prize week can win it.
+- **Eligibility.** Your profile is visible on the leaderboard, you have at least 7 days played (a day whose check was decided: approved, missed or covered by a freeze; a day credited by the club does not count), and your run was not withdrawn or removed. A member who also won a prize week can win it.
 - **Ties.** The leaderboard’s own order.
 - **Announcement.** On 16 November 2026, in the bot.
 - **Prize.** 1,500 Treats credited to the winner’s wallet, valid for 12 months from crediting, usable under the [Stars and Treats terms](stars-and-treats-terms.md). No cash alternative.
@@ -107,10 +107,11 @@ Apart from the prizes described below, there is no guaranteed physical prize, pa
 - **Who can enter.** Locktober 2026 players aged 18 or over. A post is matched to a player through the Story card it shows.
 - **How to enter.** A public post on your own X or Bluesky account, published between 1 and 31 October 2026 (Paris time), that shows your Locktober Story card and mentions @kinkverseapp (X) or @kinkverse.org (Bluesky). Showing your cage check is optional. We repost the entries we see; our repost is not a condition of entry.
 - **What counts.** Your single most reposted post, using the repost count each network shows on 1 November 2026 at 12:00, Paris time. If the same card is posted on both networks from accounts that are clearly yours (same username or display name, or one account linked in the other’s bio), the reposts of the two posts are added together. Quote posts and Kinkverse’s own reposts do not count. Entries whose reposts are bought, automated or otherwise manipulated are excluded.
-- **Ties.** The earlier post wins.
-- **Prizes.** 1st: 1,500 Treats credited to your wallet, valid for 12 months. 2nd: a $50 KINK3D gift card, its code sent in the bot within 7 days. 3rd to 5th: 1,000 Stars each, credited to your wallet and usable under the Stars and Treats terms. No cash alternative.
+- **Ties.** The earlier post wins; when two posts are added together, the earlier of the two counts.
+- **Prizes.** 1st: 1,500 Treats credited to your wallet, valid for 12 months. 2nd: a US$50 KINK3D gift card, its code sent in the bot within 7 days of the announcement. 3rd to 5th: 1,000 Stars each, credited to your wallet and usable under the Stars and Treats terms. No cash alternative.
 - **Announcement.** On 1 November 2026, in the bot.
 - **Prizes stack.** Winning this contest does not prevent winning a prize week or Season #1, and the reverse.
+- **Your post and data.** By entering, you let Kinkverse repost your post from its accounts; you can delete your post at any time. To run the contest we record the public post, its repost count and the account that published it, and keep them until the prizes are delivered. Kinkverse never posts your cage check for you.
 - **Platforms.** This contest is not sponsored, endorsed or administered by X or Bluesky.
 
 Any other promotion will have **separate rules before entry**, identifying eligibility, dates, territories, selection, tie-breaking, prize and fulfillment. A discussion, teaser or possible partnership does not establish that a promotion has opened. Once a promotion is actually offered, its specific commitments cannot be cancelled merely by relying on this paragraph.
@@ -131,7 +132,7 @@ Appeals and complaints use our contact above. Commercial mediation is set out in
 
 ## Changes in version 1.3
 
-Weekly prize is a $50 KINK3D gift card; season #1 prize and repost contest added (section 9).
+Weekly prize is a US$50 KINK3D gift card; season #1 prize and repost contest added (section 9).
 
 ## Changes in version 1.2
 
