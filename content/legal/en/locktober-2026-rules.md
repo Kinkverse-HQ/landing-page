@@ -1,6 +1,6 @@
 # Locktober 2026 — Participation Rules
 
-Version 1.2 — 30 September 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.3 — 2 October 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. The programme
 
@@ -82,7 +82,7 @@ Stars earn points only when converted by a mission: buying Stars can therefore i
 
 ## 9. Products, partners and separate promotions
 
-Apart from the prize weeks described below, there is no guaranteed physical prize, partner, weekly drop, social-media prize, catalogue item, collection-opening day or discount on a named product under these rules. Boutique access and stock can vary. A Treat balance is not a reservation of merchandise and cannot pay delivery charges.
+Apart from the prizes described below, there is no guaranteed physical prize, partner, weekly drop, catalogue item, collection-opening day or discount on a named product under these rules. Boutique access and stock can vary. A Treat balance is not a reservation of merchandise and cannot pay delivery charges.
 
 ### Prize weeks
 
@@ -92,9 +92,28 @@ Apart from the prize weeks described below, there is no guaranteed physical priz
 - **Selection.** The winner is designated after the week has ended, based on the highest eligible score and then the tie-break below. The prize itself is allocated by hand, outside the game.
 - **Ties.** On equal scores, the member who reached that score first during the week wins.
 - **Announcement.** The winner receives a message in the bot. A message is also sent to users who have started the bot, naming the winner if their profile is visible, otherwise referring to a member who keeps their profile private.
-- **Prize.** A brand-new KINK3D cage of the winner’s choice, according to the game guide. The prize is shipped to the address the winner provides. The winner has **14 days** from the announcement to provide a delivery address; after that, the prize goes to the next eligible member. No cash alternative is promised.
+- **Prize.** A $50 KINK3D gift card. The code is sent to the winner in the bot within 7 days of the announcement. No cash alternative is promised.
 
-Any other leaderboard promotion, repost campaign or partner gift will have **separate rules before entry**, identifying eligibility, dates, territories, selection, tie-breaking, prize and fulfillment. A discussion, teaser or possible partnership does not establish that a promotion has opened. Once a promotion is actually offered, its specific commitments cannot be cancelled merely by relying on this paragraph.
+### Season #1
+
+- **Who wins.** The member ranked #1 on the leaderboard at 15 November 2026 23:59, Paris time.
+- **Eligibility.** Your profile is visible on the leaderboard, you have at least 7 days played, and your run was not withdrawn or removed. A member who also won a prize week can win it.
+- **Ties.** The leaderboard’s own order.
+- **Announcement.** On 16 November 2026, in the bot.
+- **Prize.** 1,500 Treats credited to the winner’s wallet, valid for 12 months from crediting, usable under the [Stars and Treats terms](stars-and-treats-terms.md). No cash alternative.
+
+### Repost contest
+
+- **Who can enter.** Locktober 2026 players aged 18 or over. A post is matched to a player through the Story card it shows.
+- **How to enter.** A public post on your own X or Bluesky account, published between 1 and 31 October 2026 (Paris time), that shows your Locktober Story card and mentions @kinkverseapp (X) or @kinkverse.org (Bluesky). Showing your cage check is optional. We repost the entries we see; our repost is not a condition of entry.
+- **What counts.** Your single most reposted post, using the repost count each network shows on 1 November 2026 at 12:00, Paris time. If the same card is posted on both networks from accounts that are clearly yours (same username or display name, or one account linked in the other’s bio), the reposts of the two posts are added together. Quote posts and Kinkverse’s own reposts do not count. Entries whose reposts are bought, automated or otherwise manipulated are excluded.
+- **Ties.** The earlier post wins.
+- **Prizes.** 1st: 1,500 Treats credited to your wallet, valid for 12 months. 2nd: a $50 KINK3D gift card, its code sent in the bot within 7 days. 3rd to 5th: 1,000 Stars each, credited to your wallet and usable under the Stars and Treats terms. No cash alternative.
+- **Announcement.** On 1 November 2026, in the bot.
+- **Prizes stack.** Winning this contest does not prevent winning a prize week or Season #1, and the reverse.
+- **Platforms.** This contest is not sponsored, endorsed or administered by X or Bluesky.
+
+Any other promotion will have **separate rules before entry**, identifying eligibility, dates, territories, selection, tie-breaking, prize and fulfillment. A discussion, teaser or possible partnership does not establish that a promotion has opened. Once a promotion is actually offered, its specific commitments cannot be cancelled merely by relying on this paragraph.
 
 ## 10. Errors, removal and ending the programme
 
@@ -109,6 +128,10 @@ If we cancel the season, participation-dependent unconverted Stars are released 
 The [Privacy Policy](kinkverse-privacy.md) covers Telegram, evidence, reviews, rankings, retention and deletion. Deleting proof may prevent future assessment of that proof; it is not a justification to retain every image forever or automatically confiscate an independently established reward. We minimize any record needed for a genuine dispute.
 
 Appeals and complaints use our contact above. Commercial mediation is set out in the [Paid Terms](kinkverse-plus-terms.md). French law governs these terms. This choice does not deprive a consumer of mandatory protection applicable in their country of habitual residence. You may bring proceedings before any court available under applicable consumer jurisdiction rules, including your home courts where those rules allow. These terms do not impose exclusive Paris jurisdiction, mandatory arbitration or a waiver of collective or regulatory remedies. If a clause cannot lawfully apply, it is disapplied to the necessary extent; the other clauses remain effective where the contract can continue. A translation cannot reduce mandatory rights or override a more favourable individual commitment. French statutory notices retain their legal meaning; ambiguity in consumer terms is interpreted as required by consumer law.
+
+## Changes in version 1.3
+
+Weekly prize is a $50 KINK3D gift card; season #1 prize and repost contest added (section 9).
 
 ## Changes in version 1.2
 
