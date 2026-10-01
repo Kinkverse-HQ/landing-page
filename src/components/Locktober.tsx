@@ -12,7 +12,7 @@ const FACTS = [
   ["31", "days locked"],
   ["1", "photo a day"],
   ["3", "players judge it"],
-  ["1", "KINK3D cage a week"],
+  ["$50", "KINK3D gift card a week"],
 ] as const;
 
 function trackStart() {
@@ -93,7 +93,7 @@ export function Locktober() {
 
         <ul className="my-12 grid grid-cols-2 gap-px border-[1.5px] border-kv-border bg-kv-border sm:grid-cols-4">
           {FACTS.map(([value, label]) => (
-            <li key={label} className="bg-kv-bg-deep px-4 py-5">
+            <li key={label} className="bg-kv-bg-deep px-4 py-5 text-balance">
               <span className="font-head block text-4xl text-kv-lavender">{value}</span>
               <span className="font-mono-label text-[10px] text-kv-muted sm:text-xs">
                 {label}
@@ -153,8 +153,17 @@ export function Locktober() {
               missions make the difference.
             </p>
             <p>
-              every week from October 4 to November 1, the best score wins a
-              brand-new KINK3D cage of their choice. one win per player.
+              every week from October 4 to November 1, the most points wins a
+              $50 KINK3D gift card. one win per player. #1 on the leaderboard
+              on november 15 wins 🍪 1,500 treats. and the most reposted Story
+              card wins 🍪 1,500 treats too. all prizes in{" "}
+              <a
+                href={LOCKTOBER_RULES_URL}
+                className="focus-ring text-kv-purple-bright underline underline-offset-2 hover:text-kv-lavender"
+              >
+                the rules
+              </a>
+              .
             </p>
           </Fold>
           <Fold title="your photos stay private">

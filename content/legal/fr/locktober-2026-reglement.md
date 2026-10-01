@@ -1,6 +1,6 @@
 # Locktober 2026 — Règlement de participation
 
-Version 1.2 — 30 septembre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
+Version 1.3 — 2 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
 ## 1. Programme et organisateur
 
@@ -82,7 +82,7 @@ Les Stars ne rapportent des points que converties par une mission : un achat de 
 
 ## 9. Produits, partenaires et promotions distinctes
 
-Hors les semaines à lot décrites ci-dessous, ce règlement ne garantit aucun lot physique, partenaire, cadeau hebdomadaire, concours social, article du catalogue, date d’ouverture de collection ou remise sur un produit nommé. Accès et stock varient. Un solde de Treats n’est pas une réservation et ne paie pas la livraison.
+Hors les lots décrits ci-dessous, ce règlement ne garantit aucun lot physique, partenaire, cadeau hebdomadaire, article du catalogue, date d’ouverture de collection ou remise sur un produit nommé. Accès et stock varient. Un solde de Treats n’est pas une réservation et ne paie pas la livraison.
 
 ### Semaines à lot
 
@@ -92,9 +92,29 @@ Hors les semaines à lot décrites ci-dessous, ce règlement ne garantit aucun l
 - **Désignation.** Le gagnant est désigné après la fin de la semaine, selon le meilleur score éligible puis le départage ci-dessous. Le lot lui-même est attribué à la main, hors du jeu.
 - **Égalités.** À score égal, l’emporte le membre qui a atteint ce score le premier pendant la semaine.
 - **Annonce.** Le gagnant reçoit un message dans le bot. Un message est aussi envoyé aux utilisateurs du bot qui l’ont démarré, avec le nom du gagnant si son profil est visible, sinon la mention d’un membre qui garde son profil privé.
-- **Lot.** Une cage KINK3D neuve, au choix du gagnant, selon le guide du jeu. Le lot est expédié à l’adresse communiquée par le gagnant. Le gagnant dispose de **14 jours** à compter de l’annonce pour communiquer une adresse de livraison ; passé ce délai, le lot revient au membre éligible suivant. Aucune contrepartie en argent n’est promise.
+- **Lot.** Une carte cadeau KINK3D de 50 dollars américains. Le code est envoyé au gagnant dans le bot dans les 7 jours suivant l’annonce. Aucune contrepartie en argent n’est promise.
 
-Toute autre promotion de classement, campagne de repartage ou cadeau de partenaire dispose de **règles séparées avant l’ouverture** : éligibilité, dates, territoires, sélection, égalités, lot et exécution. Une discussion, annonce exploratoire ou possibilité de partenariat n’ouvre pas une promotion. Les engagements d’une promotion réellement proposée restent opposables.
+### N° 1 de la saison
+
+- **Qui gagne.** Le membre classé n° 1 au classement le 15 novembre 2026 à 23 h 59, heure de Paris.
+- **Éligibilité.** Votre profil est visible au classement, vous comptez au moins 7 jours joués (un jour dont le contrôle a été tranché : approuvé, manqué ou couvert par un freeze ; un jour crédité par le club ne compte pas) et votre parcours n’a été ni retiré ni exclu. Un membre qui a aussi remporté une semaine à lot peut remporter le lot du n° 1 de la saison.
+- **Égalités.** L’ordre du classement lui-même.
+- **Annonce.** Le 16 novembre 2026, dans le bot.
+- **Lot.** 1 500 Treats créditées sur le portefeuille du gagnant, valables 12 mois à compter de leur crédit, utilisables selon les [conditions Stars et Treats](stars-et-treats.md). Aucune contrepartie en argent.
+
+### Concours de repartage
+
+- **Qui peut participer.** Les joueurs Locktober 2026 âgés de 18 ans ou plus. Une publication est rattachée à un joueur grâce à la carte Story qu’elle montre.
+- **Comment participer.** Une publication publique sur votre propre compte X ou Bluesky, mise en ligne entre le 1er et le 31 octobre 2026 (heure de Paris), qui montre votre carte Story Locktober et mentionne @kinkverseapp (X) ou @kinkverse.org (Bluesky). Montrer votre contrôle de cage est facultatif. Nous repartageons les participations que nous voyons ; notre repartage n’est pas une condition de participation.
+- **Ce qui compte.** Votre seule publication la plus repartagée, selon le nombre de repartages que chaque réseau affiche le 1er novembre 2026 à 12 h 00, heure de Paris. Si la même carte est publiée sur les deux réseaux depuis des comptes manifestement à vous (même nom d’utilisateur ou même nom affiché, ou un compte lié dans la bio de l’autre), les repartages des deux publications s’additionnent. Les citations et les repartages de Kinkverse lui-même ne comptent pas. Les participations dont les repartages sont achetés, automatisés ou autrement manipulés sont exclues.
+- **Égalités.** L’emporte la publication la plus ancienne ; lorsque deux publications s’additionnent, la plus ancienne des deux compte.
+- **Lots.** 1er : 1 500 Treats créditées sur votre portefeuille, valables 12 mois. 2e : une carte cadeau KINK3D de 50 dollars américains, dont le code est envoyé dans le bot dans les 7 jours suivant l’annonce. Du 3e au 5e : 1 000 Stars chacune, créditées sur votre portefeuille et utilisables selon les conditions Stars et Treats. Aucune contrepartie en argent.
+- **Annonce.** Le 1er novembre 2026, dans le bot.
+- **Lots cumulables.** Gagner ce concours n’empêche pas de gagner une semaine à lot ni le n° 1 de la saison, et inversement.
+- **Votre publication et vos données.** En participant, vous autorisez Kinkverse à repartager votre publication depuis ses comptes ; vous pouvez supprimer votre publication à tout moment. Pour organiser le concours, nous enregistrons la publication publique, son nombre de repartages et le compte qui l’a publiée, et les conservons jusqu’à la remise des lots. Kinkverse ne publie jamais votre contrôle de cage à votre place.
+- **Plateformes.** Ce concours n’est ni parrainé, ni approuvé, ni administré par X ou Bluesky.
+
+Toute autre promotion dispose de **règles séparées avant l’ouverture** : éligibilité, dates, territoires, sélection, égalités, lot et exécution. Une discussion, annonce exploratoire ou possibilité de partenariat n’ouvre pas une promotion. Les engagements d’une promotion réellement proposée restent opposables.
 
 ## 10. Erreurs, exclusions et arrêt
 
@@ -111,6 +131,10 @@ La [politique de confidentialité](kinkverse-confidentialite.md) couvre Telegram
 Les recours utilisent nos coordonnées. La médiation commerciale figure dans les [CGV](kinkverse-cgv.md).
 
 Le droit français s’applique, sans priver le consommateur des protections impératives applicables dans son pays de résidence habituelle. Le consommateur peut saisir toute juridiction compétente selon les règles applicables, notamment celle de son domicile lorsque ces règles le permettent. Aucune compétence exclusive des tribunaux de Paris, aucun arbitrage obligatoire et aucune renonciation aux recours collectifs ou réglementaires ne sont imposés. Une clause inapplicable est écartée dans la mesure nécessaire ; le reste du contrat subsiste lorsque cela est possible. Une traduction ne réduit pas les droits impératifs et ne remplace pas un engagement individuel plus favorable. Les dispositions impératives et les règles d’interprétation favorables au consommateur prévalent en cas de divergence.
+
+## Changements de la version 1.3
+
+Le lot hebdomadaire est une carte cadeau KINK3D de 50 dollars américains ; lot du n° 1 de la saison et concours de repartage ajoutés (article 9).
 
 ## Changements de la version 1.2
 
