@@ -154,11 +154,15 @@ export function Locktober() {
               missions make the difference.
             </p>
             <p>
-              🥇 Earn the most points this week and win a $50 KINK3D gift card.
-              prize weeks run from October 4th to November 1st. one win per
-              player. complete all 31 days to qualify: the highest-ranked
-              finisher wins 🍪 1,500 treats. winner announced November 16th.
-              and the most reposted Story card wins 🍪 1,500 treats too. all
+              🥇 earn the most points in a week and win a $50 KINK3D gift card.
+              prize weeks run october 4th–31st, one win per player.
+            </p>
+            <p>
+              🏆 the best-ranked boy to finish all 31 days wins 🍪 1,500 treats.
+              winner announced november 16th.
+            </p>
+            <p>
+              📸 the most reposted Story card wins 🍪 1,500 treats too. all
               prizes in{" "}
               <a
                 href={LOCKTOBER_RULES_URL}

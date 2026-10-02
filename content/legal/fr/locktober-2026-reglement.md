@@ -96,8 +96,8 @@ Hors les lots décrits ci-dessous, ce règlement ne garantit aucun lot physique,
 
 ### N° 1 de la saison
 
-- **Gagnant.** Le participant éligible ayant terminé le défi et le mieux classé au classement le 15 novembre 2026 à 23 h 59, heure de Paris.
-- **Éligibilité.** Votre profil est visible au classement, vous avez terminé les 31 journées validées, y compris les journées couvertes par un freeze correctement appliqué, et votre parcours n’a été ni retiré ni exclu. Un membre qui a aussi remporté une semaine à lot peut remporter le lot du n° 1 de la saison.
+- **Gagnant.** Le participant éligible le mieux placé au classement le 15 novembre 2026 à 23 h 59, heure de Paris.
+- **Éligibilité.** Votre profil est visible au classement, vous avez terminé les 31 journées validées, y compris les journées couvertes par un freeze correctement appliqué, et votre parcours n’a été ni retiré ni exclu. Remporter une semaine à lot n’empêche pas de remporter le lot du n° 1 de la saison.
 - **Égalités.** L’ordre du classement lui-même.
 - **Annonce.** Le 16 novembre 2026, dans le bot.
 - **Lot.** 1 500 Treats créditées sur le portefeuille du gagnant, valables 12 mois à compter de leur crédit, utilisables selon les [conditions Stars et Treats](stars-et-treats.md). Aucune contrepartie en argent.
@@ -134,7 +134,7 @@ Le droit français s’applique, sans priver le consommateur des protections imp
 
 ## Changements de la version 1.5
 
-Le lot du n° 1 de la saison exige les 31 journées validées, y compris les journées couvertes par un freeze correctement appliqué ; le participant éligible ayant terminé le défi et le mieux classé gagne (article 9).
+Le lot de la saison exige désormais les 31 journées validées, y compris celles couvertes par un freeze correctement appliqué ; il revient au participant éligible le mieux placé (article 9).
 
 ## Changements de la version 1.4
 

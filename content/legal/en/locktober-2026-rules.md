@@ -96,8 +96,8 @@ Apart from the prizes described below, there is no guaranteed physical prize, pa
 
 ### Season #1
 
-- **Who wins.** The highest-ranked eligible finisher on the leaderboard at November 15th, 2026 at 23:59, Paris time.
-- **Eligibility.** Your profile is visible on the leaderboard, you have completed all 31 qualifying days, including properly applied freeze days, and your run was not withdrawn or removed. A member who also won a prize week can win it.
+- **Who wins.** The eligible member ranked highest on the leaderboard on November 15th, 2026 at 23:59, Paris time.
+- **Eligibility.** Your profile is visible on the leaderboard; you completed all 31 qualifying days (days covered by a correctly applied freeze count); and your run was not withdrawn or removed. Winning a prize week does not stop you from winning the season prize.
 - **Ties.** The leaderboard’s own order.
 - **Announcement.** On November 16th, 2026, in the bot.
 - **Prize.** 1,500 Treats credited to the winner’s wallet, valid for 12 months from crediting, usable under the [Stars and Treats terms](stars-and-treats-terms.md). No cash alternative.
@@ -132,7 +132,7 @@ Appeals and complaints use our contact above. Commercial mediation is set out in
 
 ## Changes in version 1.5
 
-Season #1 eligibility requires all 31 qualifying days, including properly applied freeze days; the highest-ranked eligible finisher wins (section 9).
+Season #1 eligibility requires all 31 qualifying days, including properly applied freeze days; the highest-ranked eligible member wins (section 9).
 
 ## Changes in version 1.4
 

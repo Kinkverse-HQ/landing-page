@@ -85,7 +85,11 @@ export function LocktoberBanner() {
             {status}
           </span>
         )}
-        <span className="sr-only">Locktober starts October 1st, 2026.</span>
+        <span className="sr-only">
+          {now && !countdown
+            ? "Locktober started October 1st, 2026."
+            : "Locktober starts October 1st, 2026."}
+        </span>
 
         <a
           href={TELEGRAM_BOT_URL}
