@@ -29,7 +29,7 @@ No registered domain name is sold to you under these terms. A hosted profile add
 | Monthly | **€12** | One calendar month |
 | Early-bird annual | **€31** | Twelve months |
 
-The annual early-bird offer is scheduled to remain available through **16 October 2026**, closing **17 October 2026 at 00:00 UTC**. We may extend the offer or introduce later offers with clear prospective information. Closing an offer does not change the rate of an existing eligible subscription. Comparing €31 with €144 means comparison with twelve €12 monthly periods, not a claim that an annual subscription previously cost €144.
+The annual early-bird offer is scheduled to remain available through **October 16th, 2026**, closing **October 17th, 2026 at 00:00 UTC**. We may extend the offer or introduce later offers with clear prospective information. Closing an offer does not change the rate of an existing eligible subscription. Comparing €31 with €144 means comparison with twelve €12 monthly periods, not a claim that an annual subscription previously cost €144.
 
 Other supported channels, including an offered Telegram subscription, show their exact price, currency/Telegram Stars quantity and duration separately before purchase. A channel’s fees or the cost to acquire Telegram Stars can make its real-money cost different from the web offer. No unspecified Telegram price or automatic renewal is implied by this paragraph.
 
