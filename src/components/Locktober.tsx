@@ -154,10 +154,11 @@ export function Locktober() {
             </p>
             <p>
               🥇 Earn the most points this week and win a $50 KINK3D gift card.
-              one win per player. the highest-ranked eligible finisher on the
-              leaderboard at November 15th, 2026 at 23:59 Paris time wins 🍪
-              1,500 treats, announced November 16th. and the most reposted
-              Story card wins 🍪 1,500 treats too. all prizes in{" "}
+              prize weeks run from October 4th to November 1st. one win per
+              player. complete all 31 days to qualify: the highest-ranked
+              finisher wins 🍪 1,500 treats. winner announced November 16th.
+              and the most reposted Story card wins 🍪 1,500 treats too. all
+              prizes in{" "}
               <a
                 href={LOCKTOBER_RULES_URL}
                 className="focus-ring text-kv-purple-bright underline underline-offset-2 hover:text-kv-lavender"
