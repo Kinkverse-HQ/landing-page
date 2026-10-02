@@ -1,6 +1,6 @@
 # Locktober 2026 — Participation Rules
 
-Version 1.3 — 2 October 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.4 — 2 October 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. The programme
 
@@ -60,9 +60,9 @@ We may allocate promotional Stars or gift-only budgets to acknowledge constructi
 
 Stars are optional internal game credits governed by the [Stars and Treats Terms](stars-and-treats-terms.md). They are not Telegram Stars, money held on deposit or a payment for the completion badge.
 
-For this season, **six Stars validly allocated produce one Treat** (6 Stars = 1 Treat). Only whole Treats are produced; leftover Stars stay in your balance. Conversions take place when your missions are approved and as your days are approved; timing, the speed of your check-ins and other disclosed criteria can change the pace and, for the conversion tied to daily progress, move the result moderately away from this base rate. The conversion information explains what can vary.
+**Six Stars produce one Treat** (6 Stars = 1 Treat), in Locktober 2026 and in later seasons unless a version announced before you join a season says otherwise. Only whole Treats are produced; leftover Stars stay in your balance. Stars turn into Treats when a mission is approved, and as your days are approved in any run: each approved date mints a share of your wallet that grows over 31 approved dates. A date approved in two runs counts once. When you complete a run with no other run in progress, you choose: mint the Stars left, or keep them for the next season, with a bonus of 150 Stars when that season's run starts. Without an answer, they are minted on 30 November 2026, or 48 hours after you complete if that is later. The speed of your check-ins and reviews can move progress minting moderately away from the base rate. Each minting appears in your Treats history with the Stars it used.
 
-Stars already converted are not counted twice; refunded or reversed Stars and Stars gifted away are excluded from your allocation. Stars that have not been converted are not silently consumed. Gifts received and validly allocated belong to the recipient’s run, not simultaneously to the sender’s.
+Stars already converted are not counted twice; refunded or reversed Stars and Stars gifted away are excluded from your allocation. Stars that have not been converted are not silently consumed. Gifts received belong to the recipient's wallet, not simultaneously to the sender's.
 
 **This is a reward conversion, not repayment of your purchase price.** Treats have no fixed euro value. They can be used as eligible product discounts in the Club’s Boutique under the terms offered there when an order is placed. Existing credited Treats are available for eligible redemption without waiting for the season to end, subject to verification of a genuinely disputed transaction.
 
@@ -122,13 +122,17 @@ We may correct duplicate rewards, incorrect reviews, proven manipulation or tech
 
 Except where urgent action is necessary, material rule changes are explained in advance. Changes do not retrospectively increase the completion conditions, reduce earned rewards or the promised conversion of already allocated Stars. Where continuing a feature is impossible for a legal or serious operational reason, we apply an appropriate correction, substitute with your agreement, or lawful refund/termination remedy rather than simply keeping all prepaid value.
 
-If we cancel the season, participation-dependent unconverted Stars are released and purchased balances are addressed under the economy terms. We preserve lawfully earned Treats and badge records already earned. Plus remains a separate service, but cancellation of a materially advertised included programme does not erase any conformity or other consumer remedy relating to Plus.
+If we cancel the season, your unconverted Stars stay in your wallet for later seasons, and purchased balances are also addressed under the economy terms. We preserve lawfully earned Treats and badge records already earned. Plus remains a separate service, but cancellation of a materially advertised included programme does not erase any conformity or other consumer remedy relating to Plus.
 
 ## 11. Privacy, complaints and applicable law
 
 The [Privacy Policy](kinkverse-privacy.md) covers Telegram, evidence, reviews, rankings, retention and deletion. Deleting proof may prevent future assessment of that proof; it is not a justification to retain every image forever or automatically confiscate an independently established reward. We minimize any record needed for a genuine dispute.
 
 Appeals and complaints use our contact above. Commercial mediation is set out in the [Paid Terms](kinkverse-plus-terms.md). French law governs these terms. This choice does not deprive a consumer of mandatory protection applicable in their country of habitual residence. You may bring proceedings before any court available under applicable consumer jurisdiction rules, including your home courts where those rules allow. These terms do not impose exclusive Paris jurisdiction, mandatory arbitration or a waiver of collective or regulatory remedies. If a clause cannot lawfully apply, it is disapplied to the necessary extent; the other clauses remain effective where the contract can continue. A translation cannot reduce mandatory rights or override a more favourable individual commitment. French statutory notices retain their legal meaning; ambiguity in consumer terms is interpreted as required by consumer law.
+
+## Changes in version 1.4
+
+Stars belong to your wallet, not to a season: conversion in later seasons, the choice when you complete a run, how days mint Stars into Treats, gifts and cancellation (sections 7 and 10).
 
 ## Changes in version 1.3
 

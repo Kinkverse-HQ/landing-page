@@ -135,8 +135,9 @@ export function Locktober() {
             </p>
             <p>
               as your days get approved, your stars turn into treats: 6 🌟 make
-              1 🍪. complete every day and they all turn. treats are discounts
-              at the Good Boys Club boutique.
+              1 🍪. when you complete a run, you choose: turn the stars left, or
+              keep them for the next season. treats are discounts at the Good
+              Boys Club boutique.
             </p>
             <p>you don't need stars to play or to finish.</p>
           </Fold>

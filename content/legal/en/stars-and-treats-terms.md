@@ -1,6 +1,6 @@
 # Stars and Good Boy Treats — Economy and Loyalty Terms
 
-Version 1.1 — 30 September 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.2 — 2 October 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. Three different things
 
@@ -102,7 +102,7 @@ For a partial return, discounts and Treats are attributed proportionately to the
 
 ## 12. Expiry, inactivity and closure
 
-Purchased Stars and credited Treats have **no routine seasonal expiry under this version**. A separately offered promotional allocation may have a clear expiry stated before acceptance. The end of Locktober is not automatic expiry of the wallet.
+Purchased Stars and credited Treats have **no routine seasonal expiry under this version**. A separately offered promotional allocation may have a clear expiry stated before acceptance. The end of Locktober is not automatic expiry of the wallet. Your Stars balance belongs to your account, not to a season: Stars you have not converted remain available in later seasons. Season rules (freeze price, one restart per season, gift limits, the leaderboard) apply in the season where you use them.
 
 We may end a programme or supported use for a genuine legal, operational or commercial reason. Normally we give at least **90 days’ notice**, allowing usable redemption or exercise of remaining rights. We do not create a last-minute nominal catalogue solely to extinguish accrued rights. If purchased Stars become unusable because we permanently stop all their described uses, we refund the attributable unused purchase amount or agree an appropriate alternative. A no-cash-out rule does not remove this remedy. Where a legal restriction prevents the normal notice period, mandatory remedies and necessary balance handling still apply.
 
@@ -166,6 +166,10 @@ Use of this model is optional. You may use any unambiguous withdrawal statement 
 > Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité encourt une amende civile d'un montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre d'affaires moyen annuel (article L. 242-18-1 du code de la consommation).
 >
 > Le consommateur bénéficie également de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le contenu numérique ou le service numérique est conservé, ou à un remboursement intégral contre renonciation au contenu numérique ou au service numérique.
+
+## Changes in version 1.2
+
+Stars belong to your account, not to a season (section 12).
 
 ## Changes in version 1.1
 
