@@ -1,0 +1,5 @@
+# Season completion rule evidence
+
+Captured 2 October 2026 from the production build served locally on the supervisor's isolated preview. Public rules only; no signed-in user. Desktop 1280 × 720 and mobile 375 × 812. Scenario: follow the season-prize section anchor in each language and read eligibility, cutoff, announcement and prize; both require all 31 qualifying days including correctly applied freezes. Browser composition was inspected at both widths, with no horizontal clipping. Images are viewport captures and do not prove functional game eligibility.
+
+The screenshots show the final tested English/French rule content in this change. `npm ci` and `npm run build` passed; the generator emitted 14 legal pages. Fresh independent source/evidence review accepted bilingual alignment. All four screenshots were personally inspected for private data, credentials, contacts, address bars and paths; JPEG metadata contains only the JFIF header, with no EXIF/XMP or comments. Existing public contest descriptions shown around the section are unchanged.

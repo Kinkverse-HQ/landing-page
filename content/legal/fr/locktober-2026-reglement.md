@@ -1,6 +1,6 @@
 # Locktober 2026 — Règlement de participation
 
-Version 1.3 — 2 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
+Version 1.4 — 2 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
 ## 1. Programme et organisateur
 
@@ -96,8 +96,8 @@ Hors les lots décrits ci-dessous, ce règlement ne garantit aucun lot physique,
 
 ### N° 1 de la saison
 
-- **Qui gagne.** Le membre classé n° 1 au classement le 15 novembre 2026 à 23 h 59, heure de Paris.
-- **Éligibilité.** Votre profil est visible au classement, vous comptez au moins 7 jours joués (un jour dont le contrôle a été tranché : approuvé, manqué ou couvert par un freeze ; un jour crédité par le club ne compte pas) et votre parcours n’a été ni retiré ni exclu. Un membre qui a aussi remporté une semaine à lot peut remporter le lot du n° 1 de la saison.
+- **Gagnant.** Le participant éligible ayant terminé le défi et le mieux classé au classement le 15 novembre 2026 à 23 h 59, heure de Paris.
+- **Éligibilité.** Votre profil est visible au classement, vous avez terminé les 31 journées validées, y compris les journées couvertes par un freeze correctement appliqué, et votre parcours n’a été ni retiré ni exclu. Un membre qui a aussi remporté une semaine à lot peut remporter le lot du n° 1 de la saison.
 - **Égalités.** L’ordre du classement lui-même.
 - **Annonce.** Le 16 novembre 2026, dans le bot.
 - **Lot.** 1 500 Treats créditées sur le portefeuille du gagnant, valables 12 mois à compter de leur crédit, utilisables selon les [conditions Stars et Treats](stars-et-treats.md). Aucune contrepartie en argent.
@@ -131,6 +131,10 @@ La [politique de confidentialité](kinkverse-confidentialite.md) couvre Telegram
 Les recours utilisent nos coordonnées. La médiation commerciale figure dans les [CGV](kinkverse-cgv.md).
 
 Le droit français s’applique, sans priver le consommateur des protections impératives applicables dans son pays de résidence habituelle. Le consommateur peut saisir toute juridiction compétente selon les règles applicables, notamment celle de son domicile lorsque ces règles le permettent. Aucune compétence exclusive des tribunaux de Paris, aucun arbitrage obligatoire et aucune renonciation aux recours collectifs ou réglementaires ne sont imposés. Une clause inapplicable est écartée dans la mesure nécessaire ; le reste du contrat subsiste lorsque cela est possible. Une traduction ne réduit pas les droits impératifs et ne remplace pas un engagement individuel plus favorable. Les dispositions impératives et les règles d’interprétation favorables au consommateur prévalent en cas de divergence.
+
+## Changements de la version 1.4
+
+Le lot du n° 1 de la saison exige les 31 journées validées, y compris les journées couvertes par un freeze correctement appliqué ; le participant éligible ayant terminé le défi et le mieux classé gagne (article 9).
 
 ## Changements de la version 1.3
 
