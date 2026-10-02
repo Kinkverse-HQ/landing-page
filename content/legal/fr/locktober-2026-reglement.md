@@ -1,6 +1,6 @@
 # Locktober 2026 — Règlement de participation
 
-Version 1.3 — 2 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
+Version 1.4 — 2 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
 ## 1. Programme et organisateur
 
@@ -60,9 +60,9 @@ Nous pouvons attribuer des Stars promotionnelles ou un budget réservé aux cade
 
 Les Stars sont des crédits internes facultatifs régis par les [conditions économiques](stars-et-treats.md). Ce ne sont ni des Telegram Stars, ni de l’argent en dépôt, ni le prix d’achat du badge.
 
-Pour cette saison, **six Stars valablement allouées produisent une Treat** (6 Stars = 1 Treat). Seules des Treats entières sont produites ; les Stars restantes demeurent dans votre solde. Les conversions ont lieu lorsque vos missions sont approuvées et à mesure que vos journées sont approuvées ; le calendrier, la rapidité de vos validations et les autres critères annoncés peuvent faire varier le rythme et, pour la conversion liée à la progression quotidienne, écarter modérément le résultat de ce taux de base. L’information de conversion explique ce qui varie.
+**Six Stars produisent une Treat** (6 Stars = 1 Treat), pendant Locktober 2026 et lors des saisons suivantes, sauf si une version annoncée avant votre entrée dans une saison en dispose autrement. Seules des Treats entières sont produites ; les Stars restantes demeurent dans votre solde. Les Stars se convertissent en Treats lorsqu’une mission est approuvée et à mesure que vos journées sont approuvées, dans n’importe quel parcours : chaque date approuvée convertit une part de votre portefeuille, part qui augmente au fil des 31 dates approuvées. Une date approuvée dans deux parcours ne compte qu’une fois. Lorsque vous terminez un parcours sans autre parcours en cours, vous choisissez : convertir les Stars restantes, ou les garder pour la saison suivante, avec un bonus de 150 Stars au démarrage du parcours de cette saison. Sans réponse de votre part, elles sont converties le 30 novembre 2026, ou 48 heures après la fin de votre parcours si cette date est plus tardive. La rapidité de vos validations et de vos revues peut faire varier modérément, par rapport au taux de base, la conversion liée à la progression. Chaque conversion apparaît dans votre historique de Treats avec les Stars utilisées.
 
-Les unités déjà converties ne sont pas comptées deux fois ; les Stars remboursées, annulées ou offertes à autrui ne restent pas dans votre allocation. Les Stars non converties ne sont pas consommées silencieusement. Un cadeau accepté et valablement alloué appartient au parcours du destinataire, pas simultanément à celui de l’émetteur.
+Les unités déjà converties ne sont pas comptées deux fois ; les Stars remboursées, annulées ou offertes à autrui ne restent pas dans votre allocation. Les Stars non converties ne sont pas consommées silencieusement. Un cadeau reçu appartient au portefeuille du destinataire, pas simultanément à celui de l’émetteur.
 
 **Il s’agit d’une conversion de récompense, pas du remboursement du prix d’achat.** Les Treats n’ont pas de valeur fixe en euros. Elles permettent des remises sur les produits éligibles aux conditions de la Boutique lors de la commande. Une Treat créditée est utilisable sans attendre la fin de saison, sous réserve de la vérification d’une transaction réellement contestée.
 
@@ -122,7 +122,7 @@ Les doublons, erreurs de revue, manipulations établies et erreurs techniques pe
 
 Sauf urgence, les changements importants sont annoncés avant application. Ils n’augmentent pas rétroactivement les conditions d’achèvement et ne diminuent ni les récompenses acquises ni la conversion promise d’allocations existantes. Si une raison légale ou opérationnelle sérieuse empêche la poursuite, une correction, substitution acceptée ou solution légale de remboursement ou résiliation s’applique, sans conservation automatique de toute valeur prépayée.
 
-Si nous annulons la saison, les Stars non converties dépendant de la participation sont libérées et les soldes achetés suivent les conditions économiques. Les Treats et badges licitement acquis restent préservés. Plus reste un service distinct, mais l’annulation d’un programme substantiellement annoncé comme inclus n’efface pas les recours de conformité ou autres droits liés à Plus.
+Si nous annulons la saison, vos Stars non converties restent dans votre portefeuille pour les saisons suivantes, et les soldes achetés suivent aussi les conditions économiques. Les Treats et badges licitement acquis restent préservés. Plus reste un service distinct, mais l’annulation d’un programme substantiellement annoncé comme inclus n’efface pas les recours de conformité ou autres droits liés à Plus.
 
 ## 11. Données, réclamations et droit applicable
 
@@ -131,6 +131,10 @@ La [politique de confidentialité](kinkverse-confidentialite.md) couvre Telegram
 Les recours utilisent nos coordonnées. La médiation commerciale figure dans les [CGV](kinkverse-cgv.md).
 
 Le droit français s’applique, sans priver le consommateur des protections impératives applicables dans son pays de résidence habituelle. Le consommateur peut saisir toute juridiction compétente selon les règles applicables, notamment celle de son domicile lorsque ces règles le permettent. Aucune compétence exclusive des tribunaux de Paris, aucun arbitrage obligatoire et aucune renonciation aux recours collectifs ou réglementaires ne sont imposés. Une clause inapplicable est écartée dans la mesure nécessaire ; le reste du contrat subsiste lorsque cela est possible. Une traduction ne réduit pas les droits impératifs et ne remplace pas un engagement individuel plus favorable. Les dispositions impératives et les règles d’interprétation favorables au consommateur prévalent en cas de divergence.
+
+## Changements de la version 1.4
+
+Les Stars appartiennent à votre portefeuille, pas à une saison : conversion lors des saisons suivantes, choix à la fin d’un parcours, conversion des journées en Treats, cadeaux et annulation (articles 7 et 10).
 
 ## Changements de la version 1.3
 
