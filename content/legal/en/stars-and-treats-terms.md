@@ -52,7 +52,7 @@ There is no guaranteed recurring grant or payment for favourable reviews. We may
 
 Treats may be granted directly as a stated reward or created by converting eligible Stars under a versioned programme rule. A converted Star cannot simultaneously remain spendable. We show the debit, reward credit and any correction in the relevant history. Receiving a Treat is not a cash refund.
 
-For Locktober 2026, **six Stars validly allocated produce one Treat** (6 Stars = 1 Treat). Only whole Treats are produced; leftover Stars stay in your balance. Timing and distributions can vary as disclosed in the game rules. Different future programmes require their own clearly stated rule before participation; they cannot retrospectively change this season’s allocated balance.
+**Six Stars produce one Treat** (6 Stars = 1 Treat), in Locktober 2026 and in later seasons, as set out in the game rules. Only whole Treats are produced; leftover Stars stay in your balance. Timing and distributions can vary as disclosed in the game rules. A later season keeps the 6 Stars = 1 Treat rate unless a version announced before you join that season says otherwise; no rule change retrospectively reduces Stars already allocated or converted.
 
 Treats already credited can be used for eligible Boutique offers without waiting for the season to finish. A conversion, an optional mission reward, a promotional grant and leaderboard score are separate events. No unit can be counted twice merely because more than one application displays it.
 
@@ -169,7 +169,7 @@ Use of this model is optional. You may use any unambiguous withdrawal statement 
 
 ## Changes in version 1.2
 
-Stars belong to your account, not to a season (section 12).
+Stars belong to your account, not to a season (section 12); the 6 Stars = 1 Treat rate carries into later seasons (section 6).
 
 ## Changes in version 1.1
 
