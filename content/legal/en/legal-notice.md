@@ -1,6 +1,6 @@
 # Legal notice — Kinkverse
 
-Version 1.2 — 30 September 2026.
+Version 1.2 — September 30th, 2026.
 
 ## Publisher and current seller
 

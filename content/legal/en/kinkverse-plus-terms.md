@@ -1,6 +1,6 @@
 # Kinkverse+ — Terms of Sale
 
-Version 1.1 — 30 September 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.1 — September 30th, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. Seller and scope
 

@@ -1,6 +1,6 @@
 # Locktober 2026 — Participation Rules
 
-Version 1.4 — 2 October 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.4 — October 2nd, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. The programme
 
