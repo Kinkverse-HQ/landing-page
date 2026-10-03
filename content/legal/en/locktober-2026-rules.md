@@ -14,7 +14,7 @@ The [Kinkverse Terms](kinkverse-terms.md), [Privacy Policy](kinkverse-privacy.md
 
 ## 2. Entry, dates and eligibility
 
-Registration opened on **September 25th, 2026 at 00:00 Paris time** and remains open until **October 30th, 2026 inclusive, Paris time**. Daily checks ordinarily start on October 1st; a selected cohort may start earlier. The last challenge day is November 30th, 2026 at the latest. All deadlines shown in the game are in Paris time. Your personal start and daily deadlines are shown when you join. Registration alone does not complete a day.
+Registration opened on **September 25th, 2026 at 00:00 Paris time** and remains open until **October 31st, 2026 inclusive, Paris time**. Daily checks ordinarily start on October 1st; a selected cohort may start earlier. The last challenge day is December 1st, 2026 at the latest. All deadlines shown in the game are in Paris time. Your personal start and daily deadlines are shown when you join. Registration alone does not complete a day.
 
 You need an eligible Kinkverse account, active **Kinkverse+ access**, a supported Telegram account for the Telegram game, and the specific participation/privacy choices needed for the game. You must meet the minimum 18-year age and any higher applicable local requirement. Plus eligibility is not certification of adulthood. We may require additional proportionate assurance or restrict an unsupported territory.
 

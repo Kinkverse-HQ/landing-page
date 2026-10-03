@@ -14,7 +14,7 @@ Les [CGU Kinkverse](kinkverse-cgu.md), la [politique de confidentialité](kinkve
 
 ## 2. Inscription, calendrier et éligibilité
 
-Les inscriptions ont ouvert le **25 septembre 2026 à 00 h 00, heure de Paris**, et restent ouvertes jusqu’au **30 octobre 2026 inclus, heure de Paris**. Les contrôles quotidiens commencent ordinairement le 1er octobre ; une cohorte sélectionnée peut commencer plus tôt. Le dernier jour du défi est au plus tard le **30 novembre 2026**. Toutes les échéances affichées dans le jeu sont en heure de Paris. Votre date de départ et vos échéances quotidiennes sont affichées à l’entrée. L’inscription seule ne valide pas une journée.
+Les inscriptions ont ouvert le **25 septembre 2026 à 00 h 00, heure de Paris**, et restent ouvertes jusqu’au **31 octobre 2026 inclus, heure de Paris**. Les contrôles quotidiens commencent ordinairement le 1er octobre ; une cohorte sélectionnée peut commencer plus tôt. Le dernier jour du défi est au plus tard le **1er décembre 2026**. Toutes les échéances affichées dans le jeu sont en heure de Paris. Votre date de départ et vos échéances quotidiennes sont affichées à l’entrée. L’inscription seule ne valide pas une journée.
 
 Vous devez avoir un compte Kinkverse éligible, un accès **Kinkverse+ actif**, un compte Telegram pris en charge pour le jeu Telegram et effectuer les choix spécifiques nécessaires à la participation et à la confidentialité. Vous devez avoir au moins 18 ans et atteindre tout âge local supérieur applicable. Kinkverse+ ne certifie pas votre majorité. Une assurance supplémentaire proportionnée ou une restriction territoriale peut être nécessaire.
 
