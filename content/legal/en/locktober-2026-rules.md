@@ -1,6 +1,6 @@
 # Locktober 2026 — Participation Rules
 
-Version 1.4 — 2 October 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.5 — October 2nd, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. The programme
 
@@ -14,7 +14,7 @@ The [Kinkverse Terms](kinkverse-terms.md), [Privacy Policy](kinkverse-privacy.md
 
 ## 2. Entry, dates and eligibility
 
-Registration opened on **25 September 2026 at 00:00 Paris time** and remains open until **30 October 2026 inclusive, Paris time**. Daily checks ordinarily start on 1 October; a selected cohort may start earlier. The last challenge day is 30 November 2026 at the latest. All deadlines shown in the game are in Paris time. Your personal start and daily deadlines are shown when you join. Registration alone does not complete a day.
+Registration opened on **September 25th, 2026 at 00:00 Paris time** and remains open until **October 31st, 2026 inclusive, Paris time**. Daily checks ordinarily start on October 1st; a selected cohort may start earlier. The last challenge day is December 1st, 2026 at the latest. All deadlines shown in the game are in Paris time. Your personal start and daily deadlines are shown when you join. Registration alone does not complete a day.
 
 You need an eligible Kinkverse account, active **Kinkverse+ access**, a supported Telegram account for the Telegram game, and the specific participation/privacy choices needed for the game. You must meet the minimum 18-year age and any higher applicable local requirement. Plus eligibility is not certification of adulthood. We may require additional proportionate assurance or restrict an unsupported territory.
 
@@ -60,7 +60,7 @@ We may allocate promotional Stars or gift-only budgets to acknowledge constructi
 
 Stars are optional internal game credits governed by the [Stars and Treats Terms](stars-and-treats-terms.md). They are not Telegram Stars, money held on deposit or a payment for the completion badge.
 
-**Six Stars produce one Treat** (6 Stars = 1 Treat), in Locktober 2026 and in later seasons unless a version announced before you join a season says otherwise. Only whole Treats are produced; leftover Stars stay in your balance. Stars turn into Treats when a mission is approved, and as your days are approved in any run: each approved date mints a share of your wallet that grows over 31 approved dates. A date approved in two runs counts once. When you complete a run with no other run in progress, you choose: mint the Stars left, or keep them for the next season, with a bonus of 150 Stars when that season's run starts. Without an answer, they are minted on 30 November 2026, or 48 hours after you complete if that is later. The speed of your check-ins and reviews can move progress minting moderately away from the base rate. Each minting appears in your Treats history with the Stars it used.
+**Six Stars produce one Treat** (6 Stars = 1 Treat), in Locktober 2026 and in later seasons unless a version announced before you join a season says otherwise. Only whole Treats are produced; leftover Stars stay in your balance. Stars turn into Treats when a mission is approved, and as your days are approved in any run: each approved date mints a share of your wallet that grows over 31 approved dates. A date approved in two runs counts once. When you complete a run with no other run in progress, you choose: mint the Stars left, or keep them for the next season, with a bonus of 150 Stars when that season's run starts. Without an answer, they are minted on November 30th, 2026, or 48 hours after you complete if that is later. The speed of your check-ins and reviews can move progress minting moderately away from the base rate. Each minting appears in your Treats history with the Stars it used.
 
 Stars already converted are not counted twice; refunded or reversed Stars and Stars gifted away are excluded from your allocation. Stars that have not been converted are not silently consumed. Gifts received belong to the recipient's wallet, not simultaneously to the sender's.
 
@@ -86,7 +86,7 @@ Apart from the prizes described below, there is no guaranteed physical prize, pa
 
 ### Prize weeks
 
-- **Windows.** Each prize week runs from Sunday 00:00 to the following Sunday 00:00, Paris time. The first counts 4 to 11 October 2026, then 11 to 18 October, 18 to 25 October and 25 October to 1 November: four weeks, up to the close of registration. Points from 1 to 3 October count toward the season score, not toward the first prize week.
+- **Windows.** Each prize week runs from Sunday 00:00 to the following Sunday 00:00, Paris time. The first counts October 4th to October 11th, 2026, then October 11th to October 18th, October 18th to October 25th and October 25th to November 1st: four weeks, up to the close of registration. Points from October 1st to 3rd count toward the season score, not toward the first prize week.
 - **Eligibility.** Your run must be in progress (neither completed nor withdrawn), your profile must be visible on the leaderboard, your score in the window must be above zero, and you must not already have won a prize week this season: a member can win only once.
 - **Score counted.** The score of section 8, limited to the window: the days first approved and the missions approved during that week.
 - **Selection.** The winner is designated after the week has ended, based on the highest eligible score and then the tie-break below. The prize itself is allocated by hand, outside the game.
@@ -96,20 +96,20 @@ Apart from the prizes described below, there is no guaranteed physical prize, pa
 
 ### Season #1
 
-- **Who wins.** The member ranked #1 on the leaderboard at 15 November 2026 23:59, Paris time.
-- **Eligibility.** Your profile is visible on the leaderboard, you have at least 7 days played (a day whose check was decided: approved, missed or covered by a freeze; a day credited by the club does not count), and your run was not withdrawn or removed. A member who also won a prize week can win it.
+- **Who wins.** The eligible member ranked highest on the leaderboard on November 15th, 2026 at 23:59, Paris time.
+- **Eligibility.** Your profile is visible on the leaderboard; you completed all 31 qualifying days (days covered by a correctly applied freeze count); and your run was not withdrawn or removed. Winning a prize week does not stop you from winning the season prize.
 - **Ties.** The leaderboard’s own order.
-- **Announcement.** On 16 November 2026, in the bot.
+- **Announcement.** On November 16th, 2026, in the bot.
 - **Prize.** 1,500 Treats credited to the winner’s wallet, valid for 12 months from crediting, usable under the [Stars and Treats terms](stars-and-treats-terms.md). No cash alternative.
 
 ### Repost contest
 
 - **Who can enter.** Locktober 2026 players aged 18 or over. A post is matched to a player through the Story card it shows.
-- **How to enter.** A public post on your own X or Bluesky account, published between 1 and 31 October 2026 (Paris time), that shows your Locktober Story card and mentions @kinkverseapp (X) or @kinkverse.org (Bluesky). Showing your cage check is optional. We repost the entries we see; our repost is not a condition of entry.
-- **What counts.** Your single most reposted post, using the repost count each network shows on 1 November 2026 at 12:00, Paris time. If the same card is posted on both networks from accounts that are clearly yours (same username or display name, or one account linked in the other’s bio), the reposts of the two posts are added together. Quote posts and Kinkverse’s own reposts do not count. Entries whose reposts are bought, automated or otherwise manipulated are excluded.
+- **How to enter.** A public post on your own X or Bluesky account, published between October 1st and October 31st, 2026 (Paris time), that shows your Locktober Story card and mentions @kinkverseapp (X) or @kinkverse.org (Bluesky). Showing your cage check is optional. We repost the entries we see; our repost is not a condition of entry.
+- **What counts.** Your single most reposted post, using the repost count each network shows on November 1st, 2026 at 12:00, Paris time. If the same card is posted on both networks from accounts that are clearly yours (same username or display name, or one account linked in the other’s bio), the reposts of the two posts are added together. Quote posts and Kinkverse’s own reposts do not count. Entries whose reposts are bought, automated or otherwise manipulated are excluded.
 - **Ties.** The earlier post wins; when two posts are added together, the earlier of the two counts.
 - **Prizes.** 1st: 1,500 Treats credited to your wallet, valid for 12 months. 2nd: a US$50 KINK3D gift card, its code sent in the bot within 7 days of the announcement. 3rd to 5th: 1,000 Stars each, credited to your wallet and usable under the Stars and Treats terms. No cash alternative.
-- **Announcement.** On 1 November 2026, in the bot.
+- **Announcement.** On November 1st, 2026, in the bot.
 - **Prizes stack.** Winning this contest does not prevent winning a prize week or Season #1, and the reverse.
 - **Your post and data.** By entering, you let Kinkverse repost your post from its accounts; you can delete your post at any time. To run the contest we record the public post, its repost count and the account that published it, and keep them until the prizes are delivered. Kinkverse never posts your cage check for you.
 - **Platforms.** This contest is not sponsored, endorsed or administered by X or Bluesky.
@@ -129,6 +129,10 @@ If we cancel the season, your unconverted Stars stay in your wallet for later se
 The [Privacy Policy](kinkverse-privacy.md) covers Telegram, evidence, reviews, rankings, retention and deletion. Deleting proof may prevent future assessment of that proof; it is not a justification to retain every image forever or automatically confiscate an independently established reward. We minimize any record needed for a genuine dispute.
 
 Appeals and complaints use our contact above. Commercial mediation is set out in the [Paid Terms](kinkverse-plus-terms.md). French law governs these terms. This choice does not deprive a consumer of mandatory protection applicable in their country of habitual residence. You may bring proceedings before any court available under applicable consumer jurisdiction rules, including your home courts where those rules allow. These terms do not impose exclusive Paris jurisdiction, mandatory arbitration or a waiver of collective or regulatory remedies. If a clause cannot lawfully apply, it is disapplied to the necessary extent; the other clauses remain effective where the contract can continue. A translation cannot reduce mandatory rights or override a more favourable individual commitment. French statutory notices retain their legal meaning; ambiguity in consumer terms is interpreted as required by consumer law.
+
+## Changes in version 1.5
+
+Season #1 eligibility requires all 31 qualifying days, including properly applied freeze days; the highest-ranked eligible member wins (section 9).
 
 ## Changes in version 1.4
 

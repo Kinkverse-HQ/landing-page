@@ -1,6 +1,6 @@
 # Stars and Good Boy Treats — Economy and Loyalty Terms
 
-Version 1.2 — 2 October 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.2 — October 2nd, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. Three different things
 

@@ -46,7 +46,7 @@ export const LOCKTOBER_END = new Date(2026, 10, 1);
  * the €31 Kinkverse+ early-bird year (Kinkverse+ terms), so the page gives that
  * as the reason and never calls it a closing date.
  */
-export const LOCK_IN_BY = "october 16";
+export const LOCK_IN_BY = "October 16th";
 
 /** The early-bird year closes 17 October 2026 at 00:00 UTC (Kinkverse+ terms). */
 export const EARLY_BIRD_END = new Date(Date.UTC(2026, 9, 17));
