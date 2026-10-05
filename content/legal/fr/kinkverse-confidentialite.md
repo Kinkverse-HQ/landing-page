@@ -92,6 +92,18 @@ Une fonction IA facultative doit identifier son fonctionnement, les données uti
 
 Les notifications opérationnelles sont distinctes du marketing. Nous limitons leur contenu intime et vous permettons de régler les notifications facultatives. Un appareil partagé, un écran verrouillé ou un email peut néanmoins révéler l’existence d’une interaction.
 
+### Comment les profils améliorent les suggestions
+
+Kinkverse combine les associations observées dans les profils des membres avec des données de recherche, notamment le Big Kink Survey, pour suggérer des tags pertinents. La source des profils comprend les comptes existants éligibles, sans exiger l’utilisation de l’assistant de profil. Elle sert aux suggestions dans Kinkverse ; elle n’autorise ni une réutilisation publicitaire ni l’entraînement d’une IA généraliste.
+
+Nous utilisons les tags et rôles actuels du catalogue approuvés, les stickers du catalogue sélectionnés et les plages de la toile des kinks que vous définissez ou approuvez. La curiosité enregistrée dans l’assistant reste soumise au choix de contribution annoncé et à sa durée de conservation. Vos réponses au questionnaire, vos Limites, vos réponses aux vérifications de limites, nom, email, localisation, textes, mensurations, dates et autres valeurs numériques du profil, photos, fichiers et messages privés sont exclus des données d’apprentissage partagées. Une suggestion n’ajoute aucun tag à votre profil et ne modifie pas son audience sans votre action.
+
+Dans le service d’apprentissage, un identifiant aléatoire distingue la contribution de l’identifiant du compte. Chaque contribution est limitée ; un élément ou une association doit être présent chez au moins cinq personnes pour entrer dans le modèle partagé. Pour l’apprentissage communautaire, le moteur de recommandation reçoit des associations agrégées, sans identifiants des contributeurs ni contributions individuelles. Ces protections réduisent l’exposition ; elles ne garantissent pas l’anonymat des données sous-jacentes. Un suivi restreint des contributeurs permet d’appliquer les exclusions et la suppression des comptes aux modèles concernés.
+
+Une association entre tags indique que des personnes les ont sélectionnés ensemble. Elle ne prouve ni votre intérêt pour un tag, ni l’équivalence de deux pratiques, ni votre consentement à une interaction. Un tag absent n’est pas interprété comme un refus. Vos choix explicites et vos Limites personnelles priment sur les suggestions.
+
+Les modifications du profil sont prises en compte lors des reconstructions suivantes. Les demandes d’arrêt de l’apprentissage concerné, les retraits applicables et la suppression du compte excluent la contribution et rendent les modèles concernés indisponibles pour les nouvelles recommandations ; la reconstruction utilise ensuite les profils restant éligibles. L’audience du profil est un contrôle distinct et ne peut, à elle seule, élargir la finalité d’apprentissage. Un retrait déjà enregistré n’est pas annulé silencieusement. Vous pouvez utiliser le contrôle de confidentialité concerné lorsqu’il est disponible ou écrire à **hello@kinkverse.org** pour exercer vos droits.
+
 ## 9. Conservation
 
 | Données | Durée ou critère normal |

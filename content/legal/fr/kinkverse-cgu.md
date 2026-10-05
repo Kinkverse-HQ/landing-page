@@ -50,6 +50,8 @@ Vous conservez les droits que vous détenez. Vous nous accordez une licence non 
 
 Ce n’est **pas une licence générale de marketing, de publicité, de vente ou d’entraînement d’IA**. Une promotion utilisant votre profil ou votre image identifiable exige une permission distincte. La licence cesse à la suppression du contenu ou du compte, sauf opérations strictement nécessaires de suppression, expiration des sauvegardes, conservation de litige ou obligations légales décrites dans la politique de confidentialité. Une preuve conservée légalement ne peut rester publiée pour cette seule raison.
 
+Kinkverse peut utiliser les sélections actuelles des profils éligibles pour construire, avec des données de recherche, des associations agrégées améliorant les suggestions de tags. Cet usage est limité à la finalité de recommandation et aux protections décrites dans la Politique de confidentialité. Il ne modifie pas votre audience, n’autorise pas un entraînement d’IA sans rapport et ne remplace aucune base juridique ou autorisation spécifique requise pour le traitement de données sensibles. L’acceptation des CGU n’autorise pas rétroactivement un traitement antérieur et n’annule pas un retrait enregistré.
+
 ## 7. Audiences, QR codes et connexions
 
 Vous choisissez ce que vous publiez et à qui vous le partagez. L’intérêt qu’un autre membre vous porte ne lui donne pas accès à vos champs restreints. Un contenu public peut être consulté, copié ou indexé par des tiers. Un blocage ne peut cacher une page publique à tout navigateur anonyme. Les consignes aux moteurs de recherche ne sont pas des contrôles d’accès.
