@@ -108,6 +108,8 @@ Les modifications du profil sont prises en compte lors des reconstructions suiva
 
 | Données | Durée ou critère normal |
 |---|---|
+| Copies temporaires pour l’apprentissage des profils | Inutilisables après 15 minutes. Supprimées immédiatement à la fin du traitement ou après un retrait ou une suppression qui les invalide ; sinon lors du prochain nettoyage planifié réussi. |
+| Métadonnées de reprise des traitements d’apprentissage | La reprise cesse après 24 heures ; suppression lors du prochain nettoyage réussi. Sans données individuelles de sélection ; le suivi des contributeurs est distinct. |
 | Compte et profil | Pendant le maintien du compte ; examen après 24 mois d’inactivité d’un compte gratuit avec avertissements, sans supprimer silencieusement abonnement actif, solde payé ou droits ouverts. |
 | Données opérationnelles après suppression | Retrait sans retard injustifié ; suppression des copies opérationnelles sous 30 jours, sauf exception documentée. |
 | Sauvegardes | Sauvegardes tournantes de 30 jours ; réapplication des suppressions lors d’une restauration. |

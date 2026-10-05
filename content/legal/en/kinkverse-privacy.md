@@ -108,6 +108,8 @@ Profile changes are reflected in subsequent rebuilds. Requests to stop covered l
 
 | Record | Normal retention limit or criterion |
 |---|---|
+| Temporary profile-learning snapshots | Unusable after 15 minutes. Deleted immediately after completed processing or an invalidating withdrawal/deletion; otherwise deleted on the next successful scheduled cleanup. |
+| Learning-job retry metadata | Retry use ends after 24 hours, followed by the next successful cleanup. Contains no individual feature rows; contributor lineage is separate. |
 | Account and chosen profile | While actively used. Free inactive accounts are reviewed after 24 months, with advance notice before deletion. Active paid rights and unresolved purchased balances are not silently destroyed as inactivity. |
 | Deleted operational content | Withdrawn from normal serving without undue delay; operational erasure completed within 30 days unless a documented legal exception applies. |
 | Rolling backups | 30 days. Data pending expiry is isolated from ordinary use; restoration must reapply deletions. |
