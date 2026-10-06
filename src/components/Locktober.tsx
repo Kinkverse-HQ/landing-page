@@ -135,8 +135,9 @@ export function Locktober() {
             </p>
             <p>
               as your days get approved, your stars turn into treats: 6 🌟 make
-              1 🍪. complete every day and they all turn. treats are discounts
-              at the Good Boys Club boutique.
+              1 🍪. when you finish a run, you choose: turn the rest into
+              treats, or keep them for the next season. treats are discounts at
+              the Good Boys Club boutique.
             </p>
             <p>you don't need stars to play or to finish.</p>
           </Fold>
@@ -153,10 +154,16 @@ export function Locktober() {
               missions make the difference.
             </p>
             <p>
-              every week from October 4 to November 1, the most points wins a
-              $50 KINK3D gift card. one win per player. #1 on the leaderboard
-              on november 15 wins 🍪 1,500 treats. and the most reposted Story
-              card wins 🍪 1,500 treats too. all prizes in{" "}
+              🥇 earn the most points in a week and win a $50 KINK3D gift card.
+              prize weeks run october 4th–31st, one win per player.
+            </p>
+            <p>
+              🏆 the best-ranked boy to finish all 31 days wins 🍪 1,500 treats.
+              winner announced november 16th.
+            </p>
+            <p>
+              📸 the most reposted Story card wins 🍪 1,500 treats too. all
+              prizes in{" "}
               <a
                 href={LOCKTOBER_RULES_URL}
                 className="focus-ring text-kv-purple-bright underline underline-offset-2 hover:text-kv-lavender"

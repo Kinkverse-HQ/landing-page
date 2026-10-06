@@ -1,6 +1,6 @@
 # Stars et Good Boy Treats — Conditions économiques et de fidélité
 
-Version 1.1 — 30 septembre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
+Version 1.2 — 2 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
 ## 1. Trois notions distinctes
 
@@ -52,7 +52,7 @@ Aucune attribution récurrente ni rémunération d’avis favorables n’est gar
 
 Les Treats peuvent être attribuées directement comme récompense définie ou produites par conversion de Stars éligibles sous une règle versionnée. Une Star convertie ne reste pas utilisable simultanément. Débit, crédit et corrections sont visibles dans l’historique. Une Treat reçue n’est pas un remboursement en argent.
 
-Pour Locktober 2026, **six Stars valablement allouées produisent une Treat** (6 Stars = 1 Treat). Seules des Treats entières sont produites ; les Stars restantes demeurent dans votre solde. Le calendrier et les distributions peuvent varier selon les règles divulguées. Un programme futur aura ses règles annoncées avant participation, sans modification rétroactive des allocations de cette saison.
+**Six Stars produisent une Treat** (6 Stars = 1 Treat), pendant Locktober 2026 et lors des saisons suivantes, selon les règles du jeu. Seules des Treats entières sont produites ; les Stars restantes demeurent dans votre solde. Le calendrier et les distributions peuvent varier selon les règles divulguées. Une saison ultérieure conserve le taux de 6 Stars = 1 Treat, sauf si une version annoncée avant votre entrée dans cette saison en dispose autrement ; aucune modification de règle ne réduit rétroactivement les Stars déjà allouées ou converties.
 
 Une Treat créditée est utilisable dans les offres éligibles sans attendre la fin de saison. Conversion, mission, promotion et score de classement restent distincts. L’affichage dans plusieurs applications ne crée pas plusieurs unités.
 
@@ -100,7 +100,7 @@ Pour un retour partiel, remises et Treats suivent l’attribution des articles d
 
 ## 12. Expiration, inactivité et fermeture
 
-Les Stars achetées et Treats créditées **n’ont pas d’expiration saisonnière ordinaire dans cette version**. Une allocation promotionnelle distincte peut avoir une limite clairement annoncée avant acceptation. La fin de Locktober n’expire pas automatiquement le portefeuille.
+Les Stars achetées et Treats créditées **n’ont pas d’expiration saisonnière ordinaire dans cette version**. Une allocation promotionnelle distincte peut avoir une limite clairement annoncée avant acceptation. La fin de Locktober n’expire pas automatiquement le portefeuille. Votre solde de Stars appartient à votre compte, non à une saison : les Stars que vous n’avez pas converties restent disponibles lors des saisons suivantes. Les règles de saison (prix du freeze, un seul redémarrage par saison, limites de cadeaux, classement) s’appliquent dans la saison où vous les utilisez.
 
 Un programme peut cesser pour une raison légale, opérationnelle ou commerciale réelle, normalement avec **au moins 90 jours de préavis** et une possibilité effective d’utiliser les droits restants. Un catalogue nominal de dernière minute ne peut servir à les éteindre. Si les Stars achetées deviennent inutilisables parce que nous supprimons définitivement tous leurs usages décrits, leur prix d’achat non utilisé est remboursé ou une alternative adaptée est convenue. L’interdiction de retrait en argent n’écarte pas ce recours. Une urgence légale peut raccourcir le préavis, sans supprimer les droits impératifs et le traitement des soldes.
 
@@ -164,6 +164,10 @@ Ce modèle est facultatif. Toute déclaration sans ambiguïté ou la fonction en
 > Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité encourt une amende civile d'un montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre d'affaires moyen annuel (article L. 242-18-1 du code de la consommation).
 >
 > Le consommateur bénéficie également de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le contenu numérique ou le service numérique est conservé, ou à un remboursement intégral contre renonciation au contenu numérique ou au service numérique.
+
+## Changements de la version 1.2
+
+Les Stars appartiennent à votre compte, non à une saison (article 12) ; le taux de 6 Stars = 1 Treat se poursuit lors des saisons suivantes (article 6).
 
 ## Changements de la version 1.1
 
