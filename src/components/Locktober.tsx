@@ -139,12 +139,19 @@ export function Locktober() {
               treats, or keep them for the next season. treats are discounts at
               the Good Boys Club boutique.
             </p>
+            <p>
+              Stars left after removal or withdrawal remain in your wallet for
+              future eligible play; ending a run does not automatically convert
+              or refund them.
+            </p>
             <p>you don't need stars to play or to finish.</p>
           </Fold>
           <Fold title="missions 🎯">
             <p>
-              optional extra tasks from the bot. you need 50 🌟 to open one.
-              send your proof fast and a mission turns up to 48 🌟 into 8 🍪.
+              Optional missions require at least 48 Stars in your balance. An
+              approved mission converts up to 48 Stars into Treats, according to
+              its difficulty, review and your available balance. A rejected,
+              declined or expired mission spends no Stars.
             </p>
           </Fold>
           <Fold title="leaderboard and prizes 🏆">
