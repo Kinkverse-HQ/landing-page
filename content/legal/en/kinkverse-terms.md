@@ -52,6 +52,8 @@ You retain the rights you hold in your content. You grant us a non-exclusive, wo
 
 This is **not** a general marketing, advertising, sale or AI-training licence. Promotion using your identifiable profile or image requires separate permission. The licence ends when you delete the content or account, except for strictly necessary removal, backup expiry, dispute preservation or other legal duties described in the Privacy Policy. Retained legal evidence is not permission to keep publishing the content.
 
+Kinkverse may use eligible current profile selections to build aggregate relationships that improve tag suggestions, together with research data. This use is limited to the recommendation purpose and safeguards described in the Privacy Policy. It does not change your chosen audience, authorize unrelated AI training, or replace any legal basis or specific permission required for sensitive-data processing. Accepting these terms does not retrospectively authorize earlier processing or override a recorded withdrawal.
+
 ## 7. Audiences, QR codes and connections
 
 You choose what to publish and whom to share with. We do not treat another member’s interest in you as permission to see restricted fields. Publication to a public audience means strangers may view, copy or index that content. Blocking cannot hide an otherwise public page from every anonymous browser. Search-engine controls are not access controls.

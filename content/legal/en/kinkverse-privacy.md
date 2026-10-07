@@ -92,10 +92,24 @@ Automated systems may suggest tags, assess submitted content, route reviews, cal
 
 Operational notifications are separate from marketing. We minimize intimate content in notifications and provide controls for optional messages. A shared device, lock screen or email account may nevertheless reveal that an interaction occurred.
 
+### How profiles help improve suggestions
+
+Kinkverse combines patterns from member profiles with research data, including the Big Kink Survey, to suggest relevant tags. The profile source includes existing eligible accounts and does not depend on using the Profile Wizard. This supports suggestions within Kinkverse; it does not authorize advertising reuse or general-purpose AI training.
+
+We use current approved catalog tags and roles, selected catalog stickers, and Kinks Web ranges that you set or approve. Curiosity recorded through the Wizard remains subject to its disclosed contribution setting and retention. Your questionnaire answers, Limits, limit-check responses, name, email, location, text, measurements, dates and other numeric profile values, photos, uploads and private messages are excluded from the shared learning data. Suggestions never add a tag to your profile or change its audience without your action.
+
+Inside the learning service, a random identifier separates the contribution from the account identifier. Each contribution is limited, and a feature or relationship must be supported by at least five people before it can enter the shared model. For community learning, the recommendation engine receives aggregate relationships, without contributor identifiers or individual contribution records. These safeguards reduce exposure; they are not a guarantee that the underlying data is anonymous. We keep restricted contributor lineage so that exclusions and account deletion can be applied to affected models.
+
+A relationship between tags means that people selected them together. It does not prove that you like a tag, that two practices are equivalent, or that you consent to an interaction. Missing tags are not treated as dislikes. Your explicit choices and personal Limits take precedence over suggestions.
+
+Profile changes are reflected in subsequent rebuilds. Requests to stop covered learning, applicable withdrawals and account deletion exclude the contribution and make affected models unavailable for new recommendation requests; rebuilding then uses the remaining eligible profiles. Changing the audience of a profile is a separate control and does not itself enlarge the learning purpose. Existing recorded withdrawals are not silently reversed. You can use the relevant privacy control where available or contact **hello@kinkverse.org** to exercise your rights.
+
 ## 9. Retention schedule
 
 | Record | Normal retention limit or criterion |
 |---|---|
+| Temporary profile-learning snapshots | Unusable after 15 minutes. Deleted immediately after completed processing or an invalidating withdrawal/deletion; otherwise deleted on the next successful scheduled cleanup. |
+| Learning-job retry metadata | Retry use ends after 24 hours, followed by the next successful cleanup. Contains no individual feature rows; contributor lineage is separate. |
 | Account and chosen profile | While actively used. Free inactive accounts are reviewed after 24 months, with advance notice before deletion. Active paid rights and unresolved purchased balances are not silently destroyed as inactivity. |
 | Deleted operational content | Withdrawn from normal serving without undue delay; operational erasure completed within 30 days unless a documented legal exception applies. |
 | Rolling backups | 30 days. Data pending expiry is isolated from ordinary use; restoration must reapply deletions. |
