@@ -1,6 +1,6 @@
 # Locktober 2026 — Règlement de participation
 
-Version 1.5 — 2 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
+Version 1.6 — 9 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
 ## 1. Programme et organisateur
 
@@ -52,7 +52,7 @@ Un consentement de participation spécifique autorise la communication nécessai
 
 Évaluez honnêtement les critères indiqués. La rapidité peut être reconnue seulement avec l’exactitude et la sécurité. N’échangez pas des validations, ne sanctionnez pas des limites, ne réclamez pas de paiement et ne réutilisez pas les preuves. L’incitation récompense la contribution, pas un avis favorable.
 
-Les missions facultatives exigent au moins **48 Stars** dans votre solde. Une mission approuvée convertit **jusqu’à 48 Stars** en Treats, selon sa difficulté, son évaluation et votre solde disponible. Une mission rejetée, déclinée ou expirée ne dépense aucune Star. Refuser ou ne pas finir une mission facultative n’invalide pas automatiquement une journée ordinaire. La personnalisation sensible exige son consentement spécifique. Les missions, cercles, fonctions de keyholder et modes futurs ne sont pas promis par une simple discussion.
+Les missions facultatives exigent au moins **48 Stars** dans votre solde. Une mission approuvée convertit **jusqu’à 48 Stars** en Treats, mais seulement sur les missions les plus difficiles et seulement avec un 5/5, dans la limite de votre solde disponible. Une mission refusée par vous, rejetée à l’évaluation ou expirée ne dépense aucune Star. Refuser ou ne pas finir une mission facultative n’invalide pas automatiquement une journée ordinaire. La personnalisation sensible exige son consentement spécifique. Les missions, cercles, fonctions de keyholder et modes futurs ne sont pas promis par une simple discussion.
 
 Nous pouvons attribuer des Stars promotionnelles ou un budget réservé aux cadeaux pour reconnaître une contribution constructive, selon le budget disponible et une attribution identifiée. Il n’existe ni rémunération récurrente garantie, ni droit automatique à une attribution, ni quota de travail à exécuter pour nous. Une récompense définie effectivement acquise est honorée, sous réserve d’erreur réelle, de fraude et des conditions applicables.
 
@@ -62,7 +62,7 @@ Les Stars sont des crédits internes facultatifs régis par les [conditions éco
 
 **Six Stars produisent une Treat** (6 Stars = 1 Treat), pendant Locktober 2026 et lors des saisons suivantes, sauf si une version annoncée avant votre entrée dans une saison en dispose autrement. Seules des Treats entières sont produites ; les Stars restantes demeurent dans votre solde. Les Stars se convertissent en Treats lorsqu’une mission est approuvée et à mesure que vos journées sont approuvées, dans n’importe quel parcours : chaque date approuvée convertit une part de votre portefeuille, part qui augmente au fil des 31 dates approuvées. Une date approuvée dans deux parcours ne compte qu’une fois. Lorsque vous terminez un parcours sans autre parcours en cours, vous choisissez : convertir les Stars restantes, ou les garder pour la saison suivante, avec un bonus de 150 Stars au démarrage du parcours de cette saison. Sans réponse de votre part, elles sont converties le 30 novembre 2026, ou 48 heures après la fin de votre parcours si cette date est plus tardive. La rapidité de vos validations et de vos revues peut faire varier modérément, par rapport au taux de base, la conversion liée à la progression. Chaque conversion apparaît dans votre historique de Treats avec les Stars utilisées.
 
-Les Stars restantes après une exclusion ou un retrait restent dans votre portefeuille pour une participation future éligible ; la fin d’un parcours ne les convertit ni ne les rembourse automatiquement.
+Les Stars restantes après un parcours exclu ou retiré restent dans votre portefeuille pour une participation future éligible ; la fin d’un tel parcours ne les convertit ni ne les rembourse automatiquement, sans affecter votre droit de rétractation prévu par les [conditions Stars et Treats](stars-et-treats.md).
 
 Les unités déjà converties ne sont pas comptées deux fois ; les Stars remboursées, annulées ou offertes à autrui ne restent pas dans votre allocation. Les Stars non converties ne sont pas consommées silencieusement. Un cadeau reçu appartient au portefeuille du destinataire, pas simultanément à celui de l’émetteur.
 
@@ -78,7 +78,7 @@ Score et solde utilisable sont distincts. Une journée approuvée rapporte 50 po
 
 - **Rapidité** : le délai entre l’envoi de votre contrôle et votre photo. 15 minutes ou moins, 25 points ; 30 minutes, 18 ; 60 minutes, 12 ; 90 minutes, 6. Au-delà, ou avec un délai prolongé, 0.
 - **Revues** : chaque revue due rapporte 4 points si vous la rendez à temps, plus 4 si votre vote rejoint la décision finale sur le contrôle. Si vous approuvez un contrôle finalement rejeté, cette revue compte −8 à la place des points de concordance. Une revue retirée avant que vous ayez pu voter rapporte 8. Le total des revues d’une journée reste compris entre 0 et 24 et compte une fois toutes ses revues réglées ; la décision d’un modérateur est finale.
-- **Missions** : une mission approuvée par jour ajoute les Stars qu’elle a converties, de 12 à 48.
+- **Missions** : une mission approuvée par jour ajoute les Stars qu’elle a converties, jusqu’à 48.
 
 Les Stars ne rapportent des points que converties par une mission : un achat de Stars peut donc influencer indirectement le score, comme l’abonnement requis pour participer. Les journées couvertes par un freeze, les journées rejetées, les cadeaux et les conversions d’achèvement ne rapportent pas de points. Un classement influencé par des achats n’est pas présenté comme relevant uniquement du mérite ou de l’habileté. À score égal, le membre qui a atteint ce score le premier est classé devant. Les erreurs de revue et collusions suivent des règles connues et des éléments réexaminables, pas une modification cachée après résultat.
 
@@ -133,6 +133,10 @@ La [politique de confidentialité](kinkverse-confidentialite.md) couvre Telegram
 Les recours utilisent nos coordonnées. La médiation commerciale figure dans les [CGV](kinkverse-cgv.md).
 
 Le droit français s’applique, sans priver le consommateur des protections impératives applicables dans son pays de résidence habituelle. Le consommateur peut saisir toute juridiction compétente selon les règles applicables, notamment celle de son domicile lorsque ces règles le permettent. Aucune compétence exclusive des tribunaux de Paris, aucun arbitrage obligatoire et aucune renonciation aux recours collectifs ou réglementaires ne sont imposés. Une clause inapplicable est écartée dans la mesure nécessaire ; le reste du contrat subsiste lorsque cela est possible. Une traduction ne réduit pas les droits impératifs et ne remplace pas un engagement individuel plus favorable. Les dispositions impératives et les règles d’interprétation favorables au consommateur prévalent en cas de divergence.
+
+## Changements de la version 1.6
+
+Les missions facultatives exigent au moins 48 Stars dans votre solde. Une mission approuvée convertit jusqu’à 48 Stars en Treats, seulement sur les missions les plus difficiles et seulement avec un 5/5 (articles 6 et 8). Les Stars restantes après un parcours exclu ou retiré demeurent dans votre portefeuille et ne sont ni converties ni remboursées automatiquement, sans affecter votre droit de rétractation prévu par les conditions Stars et Treats (article 7).
 
 ## Changements de la version 1.5
 

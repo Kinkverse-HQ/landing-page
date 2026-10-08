@@ -1,6 +1,6 @@
 # Locktober 2026 — Participation Rules
 
-Version 1.5 — October 2nd, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.6 — October 9th, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. The programme
 
@@ -52,7 +52,7 @@ You authorize the necessary sharing of a submitted check-in with assigned peer r
 
 Review honestly and against the stated criteria. Speed may be recognized only alongside accuracy and safe conduct. Do not exchange approvals, punish boundaries, demand payment or use evidence outside the review. Review incentives reward the contribution, not a favourable verdict.
 
-Optional missions require at least **48 Stars** in your balance. An approved mission converts **up to 48 Stars** into Treats, according to its difficulty, review and your available balance. A rejected, declined or expired mission spends no Stars. Declining or not completing an optional mission does not by itself invalidate an ordinary qualifying day. Sensitive-profile personalization is optional and subject to its specific consent. Missions, circles, keyholder features or future modes are not promised merely because they have been discussed.
+Optional missions require at least **48 Stars** in your balance. An approved mission converts **up to 48 Stars** into Treats, but only on the hardest missions and only with a 5/5 review, within your available balance. A mission you refuse, that is rejected at review or that expires spends no Stars. Declining or not completing an optional mission does not by itself invalidate an ordinary qualifying day. Sensitive-profile personalization is optional and subject to its specific consent. Missions, circles, keyholder features or future modes are not promised merely because they have been discussed.
 
 We may allocate promotional Stars or gift-only budgets to acknowledge constructive participation, subject to an available budget and an identified grant. There is no recurring wage or automatic entitlement to a grant, and no obligation to perform a quota for us. Once a stated reward has been earned, we honour it subject to genuine error, fraud and the applicable rules.
 
@@ -62,7 +62,7 @@ Stars are optional internal game credits governed by the [Stars and Treats Terms
 
 **Six Stars produce one Treat** (6 Stars = 1 Treat), in Locktober 2026 and in later seasons unless a version announced before you join a season says otherwise. Only whole Treats are produced; leftover Stars stay in your balance. Stars turn into Treats when a mission is approved, and as your days are approved in any run: each approved date mints a share of your wallet that grows over 31 approved dates. A date approved in two runs counts once. When you complete a run with no other run in progress, you choose: mint the Stars left, or keep them for the next season, with a bonus of 150 Stars when that season's run starts. Without an answer, they are minted on November 30th, 2026, or 48 hours after you complete if that is later. The speed of your check-ins and reviews can move progress minting moderately away from the base rate. Each minting appears in your Treats history with the Stars it used.
 
-Stars left after removal or withdrawal remain in your wallet for future eligible play; ending a run does not automatically convert or refund them.
+Stars left after a removed or withdrawn run remain in your wallet for future eligible play; ending such a run does not automatically convert or refund them, without affecting your right of withdrawal under the [Stars and Treats Terms](stars-and-treats-terms.md).
 
 Stars already converted are not counted twice; refunded or reversed Stars and Stars gifted away are excluded from your allocation. Stars that have not been converted are not silently consumed. Gifts received belong to the recipient's wallet, not simultaneously to the sender's.
 
@@ -78,7 +78,7 @@ Score and spendable balance are separate. An approved day scores 50 points, plus
 
 - **Speed** is the time from your check's delivery to your photo: 15 minutes or less, 25 points; 30 minutes, 18; 60 minutes, 12; 90 minutes, 6. Later, or with an extended deadline, it scores 0.
 - **Judging:** each review you owe scores 4 if you decide it on time, plus 4 if your vote matches the check's final decision. If you approve a check that is finally rejected, that review scores −8 instead of the match points. A review withdrawn before you can vote scores 8. A day's judging stays between 0 and 24, and counts once all its reviews are settled; a moderator's decision is final.
-- **Missions:** one approved mission a day adds the Stars it converted, 12 to 48.
+- **Missions:** one approved mission a day adds the Stars it converted, up to 48.
 
 Stars earn points only when converted by a mission: buying Stars can therefore influence the score indirectly, as can the subscription required to take part. Days covered by a freeze, rejected days, gifts and completion conversions earn no points. We do not imply that a ranking is purely skill-based if purchases affect it. On equal scores, the member who reached the score first ranks higher. Review errors and collusion are resolved using disclosed rules and reviewable records, not an undisclosed change after the outcome.
 
@@ -131,6 +131,10 @@ If we cancel the season, your unconverted Stars stay in your wallet for later se
 The [Privacy Policy](kinkverse-privacy.md) covers Telegram, evidence, reviews, rankings, retention and deletion. Deleting proof may prevent future assessment of that proof; it is not a justification to retain every image forever or automatically confiscate an independently established reward. We minimize any record needed for a genuine dispute.
 
 Appeals and complaints use our contact above. Commercial mediation is set out in the [Paid Terms](kinkverse-plus-terms.md). French law governs these terms. This choice does not deprive a consumer of mandatory protection applicable in their country of habitual residence. You may bring proceedings before any court available under applicable consumer jurisdiction rules, including your home courts where those rules allow. These terms do not impose exclusive Paris jurisdiction, mandatory arbitration or a waiver of collective or regulatory remedies. If a clause cannot lawfully apply, it is disapplied to the necessary extent; the other clauses remain effective where the contract can continue. A translation cannot reduce mandatory rights or override a more favourable individual commitment. French statutory notices retain their legal meaning; ambiguity in consumer terms is interpreted as required by consumer law.
+
+## Changes in version 1.6
+
+Optional missions require at least 48 Stars in your balance. An approved mission converts up to 48 Stars into Treats, only on the hardest missions and only with a 5/5 review (sections 6 and 8). Stars left after a removed or withdrawn run stay in your wallet and are not automatically converted or refunded, without affecting your right of withdrawal under the Stars and Treats Terms (section 7).
 
 ## Changes in version 1.5
 

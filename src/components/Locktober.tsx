@@ -140,18 +140,23 @@ export function Locktober() {
               the Good Boys Club boutique.
             </p>
             <p>
-              Stars left after removal or withdrawal remain in your wallet for
-              future eligible play; ending a run does not automatically convert
-              or refund them.
+              if a run is removed or withdrawn, your stars stay in your wallet
+              for future play. they aren't converted or refunded automatically,
+              and your right of withdrawal under the stars and treats terms
+              still applies.
             </p>
             <p>you don't need stars to play or to finish.</p>
           </Fold>
           <Fold title="missions 🎯">
             <p>
-              Optional missions require at least 48 Stars in your balance. An
-              approved mission converts up to 48 Stars into Treats, according to
-              its difficulty, review and your available balance. A rejected,
-              declined or expired mission spends no Stars.
+              missions are optional. keep 🌟 48 in your wallet and you get one a
+              day at most. refuse one, fail one or let it expire: your stars
+              don't move.
+            </p>
+            <p>
+              missions are sealed: open one before it expires, do it right away
+              and prove it with photos. do it well and up to 48 🌟 turn into 🍪,
+              but only on the hardest missions and only with a 5/5.
             </p>
           </Fold>
           <Fold title="leaderboard and prizes 🏆">
