@@ -52,7 +52,7 @@ You authorize the necessary sharing of a submitted check-in with assigned peer r
 
 Review honestly and against the stated criteria. Speed may be recognized only alongside accuracy and safe conduct. Do not exchange approvals, punish boundaries, demand payment or use evidence outside the review. Review incentives reward the contribution, not a favourable verdict.
 
-Optional missions require at least **48 Stars** in your balance. An approved mission converts **up to 48 Stars** into Treats, but only on the hardest missions and only with a 5/5 review, within your available balance. A mission you refuse, that is rejected at review or that expires spends no Stars. Declining or not completing an optional mission does not by itself invalidate an ordinary qualifying day. Sensitive-profile personalization is optional and subject to its specific consent. Missions, circles, keyholder features or future modes are not promised merely because they have been discussed.
+Optional missions require at least **48 Stars** in your balance. An approved mission converts **up to 48 Stars** into Treats, but only on the hardest missions and only with a 5/5 review, within your available balance. A mission you refuse, fail at review or let expire spends no Stars. Declining or not completing an optional mission does not by itself invalidate an ordinary qualifying day. Sensitive-profile personalization is optional and subject to its specific consent. Missions, circles, keyholder features or future modes are not promised merely because they have been discussed.
 
 We may allocate promotional Stars or gift-only budgets to acknowledge constructive participation, subject to an available budget and an identified grant. There is no recurring wage or automatic entitlement to a grant, and no obligation to perform a quota for us. Once a stated reward has been earned, we honour it subject to genuine error, fraud and the applicable rules.
 
@@ -62,7 +62,7 @@ Stars are optional internal game credits governed by the [Stars and Treats Terms
 
 **Six Stars produce one Treat** (6 Stars = 1 Treat), in Locktober 2026 and in later seasons unless a version announced before you join a season says otherwise. Only whole Treats are produced; leftover Stars stay in your balance. Stars turn into Treats when a mission is approved, and as your days are approved in any run: each approved date mints a share of your wallet that grows over 31 approved dates. A date approved in two runs counts once. When you complete a run with no other run in progress, you choose: mint the Stars left, or keep them for the next season, with a bonus of 150 Stars when that season's run starts. Without an answer, they are minted on November 30th, 2026, or 48 hours after you complete if that is later. The speed of your check-ins and reviews can move progress minting moderately away from the base rate. Each minting appears in your Treats history with the Stars it used.
 
-Stars left after a removed or withdrawn run remain in your wallet for future eligible play; ending such a run does not automatically convert or refund them, without affecting your right of withdrawal under the [Stars and Treats Terms](stars-and-treats-terms.md).
+Stars left after a removed or withdrawn run remain in your wallet for future eligible play. Ending such a run does not automatically convert or refund them. This does not affect your right of withdrawal under the [Stars and Treats Terms](stars-and-treats-terms.md).
 
 Stars already converted are not counted twice; refunded or reversed Stars and Stars gifted away are excluded from your allocation. Stars that have not been converted are not silently consumed. Gifts received belong to the recipient's wallet, not simultaneously to the sender's.
 
@@ -134,7 +134,7 @@ Appeals and complaints use our contact above. Commercial mediation is set out in
 
 ## Changes in version 1.6
 
-Optional missions require at least 48 Stars in your balance. An approved mission converts up to 48 Stars into Treats, only on the hardest missions and only with a 5/5 review (sections 6 and 8). Stars left after a removed or withdrawn run stay in your wallet and are not automatically converted or refunded, without affecting your right of withdrawal under the Stars and Treats Terms (section 7).
+Optional missions require at least 48 Stars in your balance. An approved mission converts up to 48 Stars into Treats, only on the hardest missions and only with a 5/5 review (sections 6 and 8). Stars left after a removed or withdrawn run stay in your wallet and are not automatically converted or refunded. This does not affect your right of withdrawal under the Stars and Treats Terms (section 7).
 
 ## Changes in version 1.5
 

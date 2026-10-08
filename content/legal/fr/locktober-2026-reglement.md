@@ -62,7 +62,7 @@ Les Stars sont des crédits internes facultatifs régis par les [conditions éco
 
 **Six Stars produisent une Treat** (6 Stars = 1 Treat), pendant Locktober 2026 et lors des saisons suivantes, sauf si une version annoncée avant votre entrée dans une saison en dispose autrement. Seules des Treats entières sont produites ; les Stars restantes demeurent dans votre solde. Les Stars se convertissent en Treats lorsqu’une mission est approuvée et à mesure que vos journées sont approuvées, dans n’importe quel parcours : chaque date approuvée convertit une part de votre portefeuille, part qui augmente au fil des 31 dates approuvées. Une date approuvée dans deux parcours ne compte qu’une fois. Lorsque vous terminez un parcours sans autre parcours en cours, vous choisissez : convertir les Stars restantes, ou les garder pour la saison suivante, avec un bonus de 150 Stars au démarrage du parcours de cette saison. Sans réponse de votre part, elles sont converties le 30 novembre 2026, ou 48 heures après la fin de votre parcours si cette date est plus tardive. La rapidité de vos validations et de vos revues peut faire varier modérément, par rapport au taux de base, la conversion liée à la progression. Chaque conversion apparaît dans votre historique de Treats avec les Stars utilisées.
 
-Les Stars restantes après un parcours exclu ou retiré restent dans votre portefeuille pour une participation future éligible ; la fin d’un tel parcours ne les convertit ni ne les rembourse automatiquement, sans affecter votre droit de rétractation prévu par les [conditions Stars et Treats](stars-et-treats.md).
+Les Stars restantes après un parcours exclu ou retiré restent dans votre portefeuille pour une participation future éligible. La fin d’un tel parcours ne les convertit ni ne les rembourse automatiquement. Cela n’affecte pas votre droit de rétractation prévu par les [conditions Stars et Treats](stars-et-treats.md).
 
 Les unités déjà converties ne sont pas comptées deux fois ; les Stars remboursées, annulées ou offertes à autrui ne restent pas dans votre allocation. Les Stars non converties ne sont pas consommées silencieusement. Un cadeau reçu appartient au portefeuille du destinataire, pas simultanément à celui de l’émetteur.
 
@@ -136,7 +136,7 @@ Le droit français s’applique, sans priver le consommateur des protections imp
 
 ## Changements de la version 1.6
 
-Les missions facultatives exigent au moins 48 Stars dans votre solde. Une mission approuvée convertit jusqu’à 48 Stars en Treats, seulement sur les missions les plus difficiles et seulement avec un 5/5 (articles 6 et 8). Les Stars restantes après un parcours exclu ou retiré demeurent dans votre portefeuille et ne sont ni converties ni remboursées automatiquement, sans affecter votre droit de rétractation prévu par les conditions Stars et Treats (article 7).
+Les missions facultatives exigent au moins 48 Stars dans votre solde. Une mission approuvée convertit jusqu’à 48 Stars en Treats, seulement sur les missions les plus difficiles et seulement avec un 5/5 (articles 6 et 8). Les Stars restantes après un parcours exclu ou retiré demeurent dans votre portefeuille et ne sont ni converties ni remboursées automatiquement. Cela n’affecte pas votre droit de rétractation prévu par les conditions Stars et Treats (article 7).
 
 ## Changements de la version 1.5
 
