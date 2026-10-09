@@ -102,7 +102,7 @@ Inside the learning service, a random identifier separates the contribution from
 
 A relationship between tags means that people selected them together. It does not prove that you like a tag, that two practices are equivalent, or that you consent to an interaction. Missing tags are not treated as dislikes. Your explicit choices and personal Limits take precedence over suggestions.
 
-Profile changes are reflected in subsequent rebuilds. Requests to stop covered learning, applicable withdrawals and account deletion exclude the contribution and make affected models unavailable for new recommendation requests; rebuilding then uses the remaining eligible profiles. Changing the audience of a profile is a separate control and does not itself enlarge the learning purpose. Existing recorded withdrawals are not silently reversed. You can use the relevant privacy control where available or contact **hello@kinkverse.org** to exercise your rights.
+Profile changes are reflected in subsequent rebuilds. Requests to stop covered learning, applicable withdrawals and account deletion exclude the contribution from the next scheduled rebuild, which runs at least daily, so within about 24 hours; until then the existing aggregate model may continue to be used for suggestions. Rebuilds use the remaining eligible profiles. Changing the audience of a profile is a separate control and does not itself enlarge the learning purpose. Existing recorded withdrawals are not silently reversed. You can use the relevant privacy control where available or contact **hello@kinkverse.org** to exercise your rights.
 
 ## 9. Retention schedule
 
