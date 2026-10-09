@@ -1,6 +1,6 @@
 # Kinkverse — Politique de confidentialité
 
-Version 1.1 — 30 septembre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
+Version 1.2 — 9 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
 ## 1. Responsable du traitement et périmètre
 
@@ -149,6 +149,10 @@ Vous pouvez saisir directement la **CNIL**, 3 place de Fontenoy, TSA 80715, 7533
 Nous mettons en œuvre des mesures techniques et organisationnelles adaptées : limitation des accès, contrôle des permissions, minimisation, traçabilité des accès sensibles et gestion des incidents. Aucun système n’est infaillible. Une violation est notifiée à l’autorité et aux personnes concernées lorsque les conditions légales l’exigent.
 
 Une évolution importante de cette politique est annoncée avant application. Une nouvelle finalité sensible ou un élargissement d’audience qui nécessite un consentement ne peut être autorisé par la seule publication d’un nouveau texte. Les objectifs futurs de Smash ne sont pas présentés comme des protections techniques déjà disponibles.
+
+## Changements de la version 1.2
+
+Les retraits, les demandes d’arrêt de l’apprentissage concerné et la suppression du compte s’appliquent désormais à l’apprentissage des recommandations lors de la prochaine reconstruction planifiée, dans un délai d’environ 24 heures ; jusqu’alors, le modèle agrégé existant peut continuer à être utilisé.
 
 ## Changements de la version 1.1
 
