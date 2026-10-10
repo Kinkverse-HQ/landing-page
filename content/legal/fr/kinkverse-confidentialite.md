@@ -1,6 +1,6 @@
 # Kinkverse — Politique de confidentialité
 
-Version 1.1 — 30 septembre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
+Version 1.2 — 9 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
 ## 1. Responsable du traitement et périmètre
 
@@ -102,7 +102,7 @@ Dans le service d’apprentissage, un identifiant aléatoire distingue la contri
 
 Une association entre tags indique que des personnes les ont sélectionnés ensemble. Elle ne prouve ni votre intérêt pour un tag, ni l’équivalence de deux pratiques, ni votre consentement à une interaction. Un tag absent n’est pas interprété comme un refus. Vos choix explicites et vos Limites personnelles priment sur les suggestions.
 
-Les modifications du profil sont prises en compte lors des reconstructions suivantes. Les demandes d’arrêt de l’apprentissage concerné, les retraits applicables et la suppression du compte excluent la contribution et rendent les modèles concernés indisponibles pour les nouvelles recommandations ; la reconstruction utilise ensuite les profils restant éligibles. L’audience du profil est un contrôle distinct et ne peut, à elle seule, élargir la finalité d’apprentissage. Un retrait déjà enregistré n’est pas annulé silencieusement. Vous pouvez utiliser le contrôle de confidentialité concerné lorsqu’il est disponible ou écrire à **hello@kinkverse.org** pour exercer vos droits.
+Les modifications du profil sont prises en compte lors des reconstructions suivantes. Les demandes d’arrêt de l’apprentissage concerné, les retraits applicables et la suppression du compte excluent la contribution de la prochaine reconstruction planifiée, effectuée au moins une fois par jour, soit dans un délai d’environ 24 heures ; jusqu’alors, le modèle agrégé existant peut continuer à être utilisé pour les suggestions. Les reconstructions utilisent les profils restant éligibles. L’audience du profil est un contrôle distinct et ne peut, à elle seule, élargir la finalité d’apprentissage. Un retrait déjà enregistré n’est pas annulé silencieusement. Vous pouvez utiliser le contrôle de confidentialité concerné lorsqu’il est disponible ou écrire à **hello@kinkverse.org** pour exercer vos droits.
 
 ## 9. Conservation
 
@@ -149,6 +149,10 @@ Vous pouvez saisir directement la **CNIL**, 3 place de Fontenoy, TSA 80715, 7533
 Nous mettons en œuvre des mesures techniques et organisationnelles adaptées : limitation des accès, contrôle des permissions, minimisation, traçabilité des accès sensibles et gestion des incidents. Aucun système n’est infaillible. Une violation est notifiée à l’autorité et aux personnes concernées lorsque les conditions légales l’exigent.
 
 Une évolution importante de cette politique est annoncée avant application. Une nouvelle finalité sensible ou un élargissement d’audience qui nécessite un consentement ne peut être autorisé par la seule publication d’un nouveau texte. Les objectifs futurs de Smash ne sont pas présentés comme des protections techniques déjà disponibles.
+
+## Changements de la version 1.2
+
+Les retraits, les demandes d’arrêt de l’apprentissage concerné et la suppression du compte s’appliquent désormais à l’apprentissage des recommandations lors de la prochaine reconstruction planifiée, dans un délai d’environ 24 heures ; jusqu’alors, le modèle agrégé existant peut continuer à être utilisé.
 
 ## Changements de la version 1.1
 

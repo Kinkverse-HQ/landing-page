@@ -1,6 +1,6 @@
 # Kinkverse — Privacy Policy
 
-Version 1.1 — September 30th, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.2 — October 9th, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. Who is responsible
 
@@ -102,7 +102,7 @@ Inside the learning service, a random identifier separates the contribution from
 
 A relationship between tags means that people selected them together. It does not prove that you like a tag, that two practices are equivalent, or that you consent to an interaction. Missing tags are not treated as dislikes. Your explicit choices and personal Limits take precedence over suggestions.
 
-Profile changes are reflected in subsequent rebuilds. Requests to stop covered learning, applicable withdrawals and account deletion exclude the contribution and make affected models unavailable for new recommendation requests; rebuilding then uses the remaining eligible profiles. Changing the audience of a profile is a separate control and does not itself enlarge the learning purpose. Existing recorded withdrawals are not silently reversed. You can use the relevant privacy control where available or contact **hello@kinkverse.org** to exercise your rights.
+Profile changes are reflected in subsequent rebuilds. Requests to stop covered learning, applicable withdrawals and account deletion exclude the contribution from the next scheduled rebuild, which runs at least daily, so within about 24 hours; until then the existing aggregate model may continue to be used for suggestions. Rebuilds use the remaining eligible profiles. Changing the audience of a profile is a separate control and does not itself enlarge the learning purpose. Existing recorded withdrawals are not silently reversed. You can use the relevant privacy control where available or contact **hello@kinkverse.org** to exercise your rights.
 
 ## 9. Retention schedule
 
@@ -149,6 +149,10 @@ You can complain directly to **CNIL**, 3 place de Fontenoy, TSA 80715, 75334 Par
 We use measures appropriate to the sensitivity and risks, including access restrictions, protected transmission, authorization checks, data minimization and operational oversight. No online service can guarantee perfect security. Where legally required after a breach, we notify the supervisory authority and affected people; we do not delay a required warning merely because the full investigation is unfinished.
 
 Material policy changes are brought to your attention. A policy update cannot itself authorize a new incompatible purpose, new sensitive-data use or wider audience. We obtain a new consent where required and preserve evidence of the choices actually made.
+
+## Changes in version 1.2
+
+Withdrawals, requests to stop covered learning and account deletion now reach recommendation learning at the next scheduled rebuild, within about 24 hours; until then the existing aggregate model may continue to be used.
 
 ## Changes in version 1.1
 
