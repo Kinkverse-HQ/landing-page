@@ -1,6 +1,6 @@
 # Locktober 2026 — Participation Rules
 
-Version 1.6 — October 9th, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.7 — October 12th, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. The programme
 
@@ -88,9 +88,9 @@ Apart from the prizes described below, there is no guaranteed physical prize, pa
 
 ### Prize weeks
 
-- **Windows.** Each prize week runs from Sunday 00:00 to the following Sunday 00:00, Paris time. The first counts October 4th to October 11th, 2026, then October 11th to October 18th, October 18th to October 25th and October 25th to November 1st: four weeks, up to the close of registration. Points from October 1st to 3rd count toward the season score, not toward the first prize week.
+- **Windows.** Each prize week runs from Sunday 00:00 to the following Sunday 00:00. A check counts in the week of **its own day in your timezone**, that is the timezone set on your account, not Paris time. The dates below are calendar dates. The first counts October 4th to October 11th, 2026, then October 11th to October 18th, October 18th to October 25th and October 25th to November 1st: four weeks, up to the close of registration. Points from October 1st to 3rd count toward the season score, not toward the first prize week.
 - **Eligibility.** Your run must be in progress (neither completed nor withdrawn), your profile must be visible on the leaderboard, your score in the window must be above zero, and you must not already have won a prize week this season: a member can win only once.
-- **Score counted.** The score of section 8, limited to the window: the days first approved and the missions approved during that week.
+- **Score counted.** The score of section 8, limited to the window: the checks whose day, in your timezone, falls in that week, and the missions approved on a day of that week in your timezone. A check approved after midnight still counts in the week of the day it was due.
 - **Selection.** The winner is designated after the week has ended, based on the highest eligible score and then the tie-break below. The prize itself is allocated by hand, outside the game.
 - **Ties.** On equal scores, the member who reached that score first during the week wins.
 - **Announcement.** The winner receives a message in the bot. A message is also sent to users who have started the bot, naming the winner if their profile is visible, otherwise referring to a member who keeps their profile private.
@@ -131,6 +131,10 @@ If we cancel the season, your unconverted Stars stay in your wallet for later se
 The [Privacy Policy](kinkverse-privacy.md) covers Telegram, evidence, reviews, rankings, retention and deletion. Deleting proof may prevent future assessment of that proof; it is not a justification to retain every image forever or automatically confiscate an independently established reward. We minimize any record needed for a genuine dispute.
 
 Appeals and complaints use our contact above. Commercial mediation is set out in the [Paid Terms](kinkverse-plus-terms.md). French law governs these terms. This choice does not deprive a consumer of mandatory protection applicable in their country of habitual residence. You may bring proceedings before any court available under applicable consumer jurisdiction rules, including your home courts where those rules allow. These terms do not impose exclusive Paris jurisdiction, mandatory arbitration or a waiver of collective or regulatory remedies. If a clause cannot lawfully apply, it is disapplied to the necessary extent; the other clauses remain effective where the contract can continue. A translation cannot reduce mandatory rights or override a more favourable individual commitment. French statutory notices retain their legal meaning; ambiguity in consumer terms is interpreted as required by consumer law.
+
+## Changes in version 1.7
+
+Prize weeks count by each member's own day in their timezone, not Paris time (section 9). This is how the first prize week was scored.
 
 ## Changes in version 1.6
 
