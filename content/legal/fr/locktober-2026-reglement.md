@@ -1,6 +1,6 @@
 # Locktober 2026 — Règlement de participation
 
-Version 1.6 — 9 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
+Version 1.7 — 12 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
 ## 1. Programme et organisateur
 
@@ -88,9 +88,9 @@ Hors les lots décrits ci-dessous, ce règlement ne garantit aucun lot physique,
 
 ### Semaines à lot
 
-- **Fenêtres.** Chaque semaine à lot court du dimanche 00 h 00 au dimanche suivant 00 h 00, heure de Paris. La première compte du 4 au 11 octobre 2026, puis du 11 au 18 octobre, du 18 au 25 octobre et du 25 octobre au 1er novembre : quatre semaines, jusqu’à la clôture des inscriptions. Les points du 1er au 3 octobre comptent pour le score de saison, pas pour la première semaine à lot.
+- **Fenêtres.** Chaque semaine à lot court du dimanche 00 h 00 au dimanche suivant 00 h 00. Un contrôle compte dans la semaine de **son propre jour, dans votre fuseau horaire**, c’est-à-dire celui de votre compte, et non l’heure de Paris. Les dates ci-dessous sont des dates calendaires. La première compte du 4 au 11 octobre 2026, puis du 11 au 18 octobre, du 18 au 25 octobre et du 25 octobre au 1er novembre : quatre semaines, jusqu’à la clôture des inscriptions. Les points du 1er au 3 octobre comptent pour le score de saison, pas pour la première semaine à lot.
 - **Éligibilité.** Vous devez avoir un parcours en cours (ni terminé ni retiré), un profil visible au classement et un score supérieur à zéro dans la fenêtre, et ne pas avoir déjà remporté une semaine à lot cette saison : on ne peut gagner qu’une fois.
-- **Score compté.** Celui de l’article 8, limité à la fenêtre : les journées approuvées pour la première fois et les missions approuvées pendant cette semaine.
+- **Score compté.** Celui de l’article 8, limité à la fenêtre : les contrôles dont le jour, dans votre fuseau horaire, tombe dans cette semaine, et les missions approuvées un jour de cette semaine dans votre fuseau horaire. Un contrôle approuvé après minuit compte dans la semaine du jour où il était dû.
 - **Désignation.** Le gagnant est désigné après la fin de la semaine, selon le meilleur score éligible puis le départage ci-dessous. Le lot lui-même est attribué à la main, hors du jeu.
 - **Égalités.** À score égal, l’emporte le membre qui a atteint ce score le premier pendant la semaine.
 - **Annonce.** Le gagnant reçoit un message dans le bot. Un message est aussi envoyé aux utilisateurs du bot qui l’ont démarré, avec le nom du gagnant si son profil est visible, sinon la mention d’un membre qui garde son profil privé.
@@ -133,6 +133,10 @@ La [politique de confidentialité](kinkverse-confidentialite.md) couvre Telegram
 Les recours utilisent nos coordonnées. La médiation commerciale figure dans les [CGV](kinkverse-cgv.md).
 
 Le droit français s’applique, sans priver le consommateur des protections impératives applicables dans son pays de résidence habituelle. Le consommateur peut saisir toute juridiction compétente selon les règles applicables, notamment celle de son domicile lorsque ces règles le permettent. Aucune compétence exclusive des tribunaux de Paris, aucun arbitrage obligatoire et aucune renonciation aux recours collectifs ou réglementaires ne sont imposés. Une clause inapplicable est écartée dans la mesure nécessaire ; le reste du contrat subsiste lorsque cela est possible. Une traduction ne réduit pas les droits impératifs et ne remplace pas un engagement individuel plus favorable. Les dispositions impératives et les règles d’interprétation favorables au consommateur prévalent en cas de divergence.
+
+## Changements de la version 1.7
+
+Les semaines à lot comptent selon le jour propre de chaque participant, dans son fuseau horaire, et non l’heure de Paris (article 9). C’est ainsi que la première semaine à lot a été comptée.
 
 ## Changements de la version 1.6
 
