@@ -1,6 +1,6 @@
 # Locktober 2026 — Participation Rules
 
-Version 1.7 — October 12th, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.8 — October 15th, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. The programme
 
@@ -77,7 +77,7 @@ The leaderboard is **opt-in**. Participation in the challenge is not permission 
 Score and spendable balance are separate. An approved day scores 50 points, plus up to 25 for speed and up to 24 for judging:
 
 - **Speed** is the time from your check's delivery to your photo: 15 minutes or less, 25 points; 30 minutes, 18; 60 minutes, 12; 90 minutes, 6. Later, or with an extended deadline, it scores 0.
-- **Judging:** each review you owe scores 4 if you decide it on time, plus 4 if your vote matches the check's final decision. If you approve a check that is finally rejected, that review scores −8 instead of the match points. A review withdrawn before you can vote scores 8. A day's judging stays between 0 and 24, and counts once all its reviews are settled; a moderator's decision is final.
+- **Judging:** each review you owe scores 4 if you decide it on time, plus 4 if your vote matches the check's final decision. If you approve a check that is finally rejected, that review scores −8 instead of the match points: −4 in total if your vote was on time. A vote is on time until the later of the review's deadline and 60 minutes after you received the review. A review withdrawn before you can vote scores 8. A day's judging stays between 0 and 24, and counts once all its reviews are settled; a moderator's decision is final.
 - **Missions:** one approved mission a day adds the Stars it converted, up to 48.
 
 Stars earn points only when converted by a mission: buying Stars can therefore influence the score indirectly, as can the subscription required to take part. Days covered by a freeze, rejected days, gifts and completion conversions earn no points. We do not imply that a ranking is purely skill-based if purchases affect it. On equal scores, the member who reached the score first ranks higher. Review errors and collusion are resolved using disclosed rules and reviewable records, not an undisclosed change after the outcome.
@@ -131,6 +131,10 @@ If we cancel the season, your unconverted Stars stay in your wallet for later se
 The [Privacy Policy](kinkverse-privacy.md) covers Telegram, evidence, reviews, rankings, retention and deletion. Deleting proof may prevent future assessment of that proof; it is not a justification to retain every image forever or automatically confiscate an independently established reward. We minimize any record needed for a genuine dispute.
 
 Appeals and complaints use our contact above. Commercial mediation is set out in the [Paid Terms](kinkverse-plus-terms.md). French law governs these terms. This choice does not deprive a consumer of mandatory protection applicable in their country of habitual residence. You may bring proceedings before any court available under applicable consumer jurisdiction rules, including your home courts where those rules allow. These terms do not impose exclusive Paris jurisdiction, mandatory arbitration or a waiver of collective or regulatory remedies. If a clause cannot lawfully apply, it is disapplied to the necessary extent; the other clauses remain effective where the contract can continue. A translation cannot reduce mandatory rights or override a more favourable individual commitment. French statutory notices retain their legal meaning; ambiguity in consumer terms is interpreted as required by consumer law.
+
+## Changes in version 1.8
+
+Section 8 now states what a review scores when you approve a check that ends rejected: −8 instead of the match points, so −4 in total if the vote was on time. It also states that a vote is on time until the later of the review's deadline and 60 minutes after you received the review. This is how judging is scored.
 
 ## Changes in version 1.7
 
