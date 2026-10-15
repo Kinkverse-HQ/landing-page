@@ -1,6 +1,6 @@
 # Locktober 2026 — Règlement de participation
 
-Version 1.7 — 12 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
+Version 1.8 — 15 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
 ## 1. Programme et organisateur
 
@@ -77,7 +77,7 @@ Le classement est **facultatif sur inscription explicite**. Entrer dans le défi
 Score et solde utilisable sont distincts. Une journée approuvée rapporte 50 points, plus jusqu’à 25 pour la rapidité et jusqu’à 24 pour les revues :
 
 - **Rapidité** : le délai entre l’envoi de votre contrôle et votre photo. 15 minutes ou moins, 25 points ; 30 minutes, 18 ; 60 minutes, 12 ; 90 minutes, 6. Au-delà, ou avec un délai prolongé, 0.
-- **Revues** : chaque revue due rapporte 4 points si vous la rendez à temps, plus 4 si votre vote rejoint la décision finale sur le contrôle. Si vous approuvez un contrôle finalement rejeté, cette revue compte −8 à la place des points de concordance. Une revue retirée avant que vous ayez pu voter rapporte 8. Le total des revues d’une journée reste compris entre 0 et 24 et compte une fois toutes ses revues réglées ; la décision d’un modérateur est finale.
+- **Revues** : chaque revue due rapporte 4 points si vous la rendez à temps, plus 4 si votre vote rejoint la décision finale sur le contrôle. Si vous approuvez un contrôle finalement rejeté, cette revue compte −8 à la place des points de concordance : −4 au total si votre vote était à temps. Un vote est à temps jusqu’à la dernière des deux échéances que sont la date limite de la revue et 60 minutes après la réception de la revue par vous. Une revue retirée avant que vous ayez pu voter rapporte 8. Le total des revues d’une journée reste compris entre 0 et 24 et compte une fois toutes ses revues réglées ; la décision d’un modérateur est finale.
 - **Missions** : une mission approuvée par jour ajoute les Stars qu’elle a converties, jusqu’à 48.
 
 Les Stars ne rapportent des points que converties par une mission : un achat de Stars peut donc influencer indirectement le score, comme l’abonnement requis pour participer. Les journées couvertes par un freeze, les journées rejetées, les cadeaux et les conversions d’achèvement ne rapportent pas de points. Un classement influencé par des achats n’est pas présenté comme relevant uniquement du mérite ou de l’habileté. À score égal, le membre qui a atteint ce score le premier est classé devant. Les erreurs de revue et collusions suivent des règles connues et des éléments réexaminables, pas une modification cachée après résultat.
@@ -133,6 +133,10 @@ La [politique de confidentialité](kinkverse-confidentialite.md) couvre Telegram
 Les recours utilisent nos coordonnées. La médiation commerciale figure dans les [CGV](kinkverse-cgv.md).
 
 Le droit français s’applique, sans priver le consommateur des protections impératives applicables dans son pays de résidence habituelle. Le consommateur peut saisir toute juridiction compétente selon les règles applicables, notamment celle de son domicile lorsque ces règles le permettent. Aucune compétence exclusive des tribunaux de Paris, aucun arbitrage obligatoire et aucune renonciation aux recours collectifs ou réglementaires ne sont imposés. Une clause inapplicable est écartée dans la mesure nécessaire ; le reste du contrat subsiste lorsque cela est possible. Une traduction ne réduit pas les droits impératifs et ne remplace pas un engagement individuel plus favorable. Les dispositions impératives et les règles d’interprétation favorables au consommateur prévalent en cas de divergence.
+
+## Changements de la version 1.8
+
+L’article 8 indique désormais ce que rapporte une revue lorsque vous approuvez un contrôle qui finit rejeté : −8 à la place des points de concordance, soit −4 au total si le vote était à temps. Il indique aussi qu’un vote est à temps jusqu’à la dernière des deux échéances que sont la date limite de la revue et 60 minutes après la réception de la revue par vous. C’est ainsi que le jugement est compté.
 
 ## Changements de la version 1.7
 
