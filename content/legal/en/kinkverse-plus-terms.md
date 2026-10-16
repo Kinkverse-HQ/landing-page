@@ -1,6 +1,6 @@
 # Kinkverse+ — Terms of Sale
 
-Version 1.1 — September 30th, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
+Version 1.2 — October 16th, 2026. This version applies when made available and accepted where acceptance is required; it does not retrospectively reduce rights under an earlier contract.
 
 ## 1. Seller and scope
 
@@ -27,9 +27,10 @@ No registered domain name is sold to you under these terms. A hosted profile add
 | Web plan | Price, including applicable taxes | Billing period |
 |---|---:|---|
 | Monthly | **€12** | One calendar month |
-| Early-bird annual | **€31** | Twelve months |
+| Early-bird annual, through November 1st, 2026 | **€31** | Twelve months |
+| Early-bird annual, November 2nd, 2026 through January 15th, 2027 | **€42** | Twelve months |
 
-The annual early-bird offer is scheduled to remain available through **October 16th, 2026**, closing **October 17th, 2026 at 00:00 UTC**. We may extend the offer or introduce later offers with clear prospective information. Closing an offer does not change the rate of an existing eligible subscription. Comparing €31 with €144 means comparison with twelve €12 monthly periods, not a claim that an annual subscription previously cost €144.
+The annual early-bird offer is scheduled to remain available at **€31** through **November 1st, 2026** (closing **November 2nd, 2026 at 00:00 UTC**), then at **€42** through **January 15th, 2027** (closing **January 16th, 2027 at 00:00 UTC**). We may extend the offer or introduce later offers with clear prospective information. Closing an offer does not change the rate of an existing eligible subscription. Comparing an early-bird price with €144 means comparison with twelve €12 monthly periods, not a claim that an annual subscription previously cost €144.
 
 Other supported channels, including an offered Telegram subscription, show their exact price, currency/Telegram Stars quantity and duration separately before purchase. A channel’s fees or the cost to acquire Telegram Stars can make its real-money cost different from the web offer. No unspecified Telegram price or automatic renewal is implied by this paragraph.
 
@@ -195,6 +196,10 @@ Les dispositions du présent chapitre sont également applicables aux contrats c
 ### Article L. 241-3
 
 Lorsque le professionnel n'a pas procédé au remboursement dans les conditions prévues à l'article L. 215-1, les sommes dues sont productives d'intérêts au taux légal.
+
+## Changes in version 1.2
+
+Price and offer dates: the early-bird annual price stays €31 through November 1st, 2026, then becomes €42 through January 15th, 2027. A subscription taken at an earlier price keeps it, as section 4 provides.
 
 ## Changes in version 1.1
 

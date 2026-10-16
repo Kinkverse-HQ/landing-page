@@ -1,6 +1,6 @@
 # Kinkverse+ — Conditions générales de vente
 
-Version 1.1 — 30 septembre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
+Version 1.2 — 16 octobre 2026. Cette version s’applique à compter de sa mise à disposition et de son acceptation lorsque celle-ci est requise. Elle ne réduit pas rétroactivement les droits résultant d’un contrat antérieur.
 
 ## 1. Vendeur et documents
 
@@ -30,7 +30,7 @@ Après la fin ordinaire de Plus, les adresses premium bénéficient d’une **gr
 
 ## 4. Prix, offre early bird et taxes
 
-Les prix web de cette version sont **12 € par mois** et **31 € par an pour l’offre annuelle early bird**, taxes applicables comprises. La disponibilité planifiée de l’offre annuelle se termine **à la fin du 16 octobre 2026 UTC**, soit **le 17 octobre 2026 à 00 h 00 UTC**. Une prolongation ou nouvelle offre peut être annoncée prospectivement ; elle ne change pas un prix déjà souscrit.
+Les prix web de cette version sont **12 € par mois** et **31 € par an pour l’offre annuelle early bird jusqu’au 1er novembre 2026 inclus, puis 42 € par an du 2 novembre 2026 au 15 janvier 2027 inclus**, taxes applicables comprises. La disponibilité planifiée de l’offre annuelle à 31 € se termine **à la fin du 1er novembre 2026 UTC**, soit **le 2 novembre 2026 à 00 h 00 UTC**, et celle à 42 € **à la fin du 15 janvier 2027 UTC**, soit **le 16 janvier 2027 à 00 h 00 UTC**. Une prolongation ou nouvelle offre peut être annoncée prospectivement ; elle ne change pas un prix déjà souscrit.
 
 La comparaison avec 144 € correspond à douze mensualités de 12 €, pas à un ancien prix annuel nécessairement pratiqué. Les différences de canal, devise ou mode de paiement sont clairement indiquées avant achat. Un prix Telegram est exprimé dans l’unité requise et sa durée exacte est affichée ; le rapport un pour un des rechargements de Stars ne fixe pas son tarif. Aucun montant Telegram non affiché n’est contractuellement présumé.
 
@@ -188,6 +188,10 @@ L’encadré couvre toute la période de fourniture convenue. Lorsqu’un canal 
 > ### Article L. 241-3
 >
 > Lorsque le professionnel n'a pas procédé au remboursement dans les conditions prévues à l'article L. 215-1, les sommes dues sont productives d'intérêts au taux légal.
+
+## Changements de la version 1.2
+
+Prix et dates de l’offre : le prix annuel early bird reste de 31 € jusqu’au 1er novembre 2026, puis passe à 42 € jusqu’au 15 janvier 2027. Un abonnement souscrit à un prix antérieur le conserve, comme le prévoit l’article 7.
 
 ## Changements de la version 1.1
 
