@@ -1,7 +1,6 @@
 import posthog from "posthog-js";
 import {
-  earlyBirdOpen,
-  LOCK_IN_BY,
+  earlyBirdStage,
   LOCKTOBER_RULES_URL,
   TELEGRAM_BOT_URL,
 } from "../constants";
@@ -26,7 +25,7 @@ function trackStart() {
  * published Locktober 2026 rules; the folds only simplify them.
  */
 export function Locktober() {
-  const earlyBird = earlyBirdOpen();
+  const earlyBird = earlyBirdStage();
 
   return (
     <section
@@ -79,12 +78,12 @@ export function Locktober() {
                   id="lock-in-heading"
                   className="font-head kv-caps mb-2 text-2xl text-kv-lavender sm:text-3xl"
                 >
-                  lock in by {LOCK_IN_BY}
+                  early-bird year until {earlyBird.until}
                 </p>
                 <p className="text-sm leading-relaxed text-kv-lavender/85 sm:text-base">
-                  it's the last day for the Kinkverse+ early-bird year: €31 for
-                  twelve months, instead of €12 a month. your 31 days start
-                  whenever you lock.
+                  {earlyBird.until} is the last day for the Kinkverse+ early-bird
+                  year: {earlyBird.price} for twelve months, instead of €12 a
+                  month. your 31 days start whenever you lock.
                 </p>
               </aside>
             )}
@@ -197,7 +196,7 @@ export function Locktober() {
             <p>
               you're 18 or older, you have Telegram, and a Kinkverse account
               with Kinkverse+: €12 a month
-              {earlyBird ? <>, or €31 for a year until {LOCK_IN_BY}</> : null}.
+              {earlyBird ? <>, or {earlyBird.price} for a year until {earlyBird.until}</> : null}.
             </p>
             <p>
               the bot links everything and shows you the rules before you
@@ -211,7 +210,7 @@ export function Locktober() {
             start in Telegram
           </Button>
           <p className="text-sm text-kv-muted">
-            {earlyBird ? `lock in by ${LOCK_IN_BY}. ` : ""}31 days from whenever you lock.
+            {earlyBird ? `early-bird year until ${earlyBird.until}. ` : ""}31 days from whenever you lock.
           </p>
         </div>
       </div>

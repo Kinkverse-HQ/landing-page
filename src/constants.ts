@@ -41,17 +41,19 @@ export const LOCKTOBER_START = new Date(2026, 9, 1);
 export const LOCKTOBER_END = new Date(2026, 10, 1);
 
 /**
- * The date the page asks players to lock in by. Registration itself stays open
- * until 30 October (Locktober rules, section 2). 16 October is the last day of
- * the €31 Kinkverse+ early-bird year (Kinkverse+ terms), so the page gives that
- * as the reason and never calls it a closing date.
+ * The Kinkverse+ early-bird year, in stages (owner, 16 October 2026): €31 through
+ * November 1st, then €42 through January 15th, 2027. Each stage closes at 00:00 UTC
+ * the next day (Kinkverse+ terms, section 3). Registration for Locktober itself stays
+ * open until 30 October (Locktober rules, section 2), so the page names the stage's
+ * last day as the reason to act and never calls it a closing date for the challenge.
  */
-export const LOCK_IN_BY = "October 16th";
+export const EARLY_BIRD_STAGES = [
+  { price: "€31", until: "November 1st", closes: new Date(Date.UTC(2026, 10, 2)) },
+  { price: "€42", until: "January 15th", closes: new Date(Date.UTC(2027, 0, 16)) },
+] as const;
 
-/** The early-bird year closes 17 October 2026 at 00:00 UTC (Kinkverse+ terms). */
-export const EARLY_BIRD_END = new Date(Date.UTC(2026, 9, 17));
-
-/** True while "lock in by october 16" and the €31 year are still true statements. */
-export function earlyBirdOpen(now: Date = new Date()): boolean {
-  return now < EARLY_BIRD_END;
+/** The stage whose price and last day are still true statements, or null after the last. */
+export function earlyBirdStage(now: Date = new Date()) {
+  return EARLY_BIRD_STAGES.find((stage) => now < stage.closes) ?? null;
 }
+
